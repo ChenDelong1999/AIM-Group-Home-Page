@@ -44,5 +44,8 @@ image:
   preview_only: false
   caption: Graphical abstract
   alt_text: Graphical abstract
+summary: This paper presents a novel recommendation system by using face
+  recognition technologies to extract face attribute information as the input
+  automatically.
 date: 2021-02-01T13:58:25.776Z
 ---

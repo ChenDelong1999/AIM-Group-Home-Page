@@ -9,7 +9,7 @@ authors:
   - 陈德龙
 title: 陈德龙
 role: 科研助理
-bio: 陈德龙个人简介
+bio: 已毕业学生
 interests:
   - 视觉-语言多模态学习
   - 自监督学习

@@ -7,4 +7,6 @@ interests:
   - 多模态动作生成、时间序列建模
 social: []
 superuser: false
+user_groups:
+  - 硕士研究生
 ---

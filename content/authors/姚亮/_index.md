@@ -10,7 +10,7 @@ social:
       header: false
     link: https://github.com/2436917927
     icon_pack: fab
-    icon: Github
+    icon: github
 education:
   courses:
     - course: 计算机科学与技术专业 学士

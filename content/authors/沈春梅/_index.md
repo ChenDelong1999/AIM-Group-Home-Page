@@ -6,4 +6,6 @@ interests:
   - 遥感图像语义分割
 social: []
 superuser: false
+user_groups:
+  - 硕士研究生
 ---

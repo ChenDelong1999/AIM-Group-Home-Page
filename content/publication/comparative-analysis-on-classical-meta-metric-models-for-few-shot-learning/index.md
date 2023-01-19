@@ -46,7 +46,7 @@ image:
   preview_only: false
   caption: Structure of matching network
   alt_text: Structure of matching network
-summary: ew-shot learning are methods and scenarios learned from a small amount
+summary: Few-shot learning are methods and scenarios learned from a small amount
   of labeled data. While recent meta-metric learning methods have made
   significant progress, there are still questions about what is the key point of
   these methods and how they work. To address these problems, in this paper, we

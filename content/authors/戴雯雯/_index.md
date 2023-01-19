@@ -6,4 +6,6 @@ interests:
   - 电商领域多模态特征学习
 social: []
 superuser: false
+user_groups:
+  - 硕士研究生
 ---

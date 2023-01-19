@@ -60,5 +60,11 @@ image:
     Finally, based on the estimation, we compute the distribution of support set
     in novel classes and sample features from the distribution to train a
     logistic regression model for classification.
+summary: Few-shot learning aims to train an effective classifier in a small data
+  regime. Due to the scarcity of training samples (usually as small as 1 or 5),
+  traditional deep learning solutions often suffer from overfitting. To address
+  this issue, an intuitive idea is to augment or hallucinate sufficient training
+  data. For this purpose, in this paper, we propose a simple yet effective
+  method to build a model for novel categories with few samples.
 date: 2021-05-21T14:02:45.425Z
 ---

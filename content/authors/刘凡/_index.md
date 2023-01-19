@@ -5,7 +5,7 @@ bio: 实验室负责人
 interests:
   - 模式识别
   - 计算机视觉
-  - 水利信息化
+  - 智慧水利
 social: []
 organizations:
   - name: 河海大学计算机与信息学院

@@ -1,11 +1,11 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: 河海人工智能实验室（HH-AI Lab）主页正式上线！
+date: 2023-01-19
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+网址: https://hh-ai.netlify.app/ Github: https://github.com/ChenDelong1999/HH-AI-Lab-Home-Page
 
 <!--more-->
 

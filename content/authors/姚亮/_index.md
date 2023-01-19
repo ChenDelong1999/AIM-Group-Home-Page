@@ -1,7 +1,7 @@
 ---
 title: 姚亮
 role: 硕士研究生
-avatar_filename: s-l400.jpg
+avatar_filename: avatar.jpg
 bio: 姚亮个人简介
 interests:
   - 无人机视角目标检测

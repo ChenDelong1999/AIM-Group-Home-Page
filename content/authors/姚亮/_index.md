@@ -16,6 +16,9 @@ social:
     link: https://yaoliang.netlify.app/
     icon_pack: fas
     icon: user
+organizations:
+  - name: Hohai University
+    url: https://www.hhu.edu.cn/
 education:
   courses:
     - course: 计算机科学与技术专业 学士

@@ -3,7 +3,7 @@ title: 刘凡
 role: 教授
 bio: 实验室负责人
 interests:
-  - 人工智能
+  - 模式识别
   - 计算机视觉
   - 水利信息化
 social: []

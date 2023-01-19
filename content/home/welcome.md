@@ -17,8 +17,5 @@ design:
     image_position: center
     image_size: cover
     text_color_light: true
-# hero_media: welcome.jpg
 ---
 **Hohai Artificial Intelligence Labotory**
-<br/>
-**HH-AI Lab**

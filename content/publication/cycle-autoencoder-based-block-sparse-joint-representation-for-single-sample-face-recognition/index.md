@@ -44,5 +44,5 @@ image:
 summary: In this paper, we propose a cycle-autoencoder model to generate facial
   variation from the single training sample and remove the variation in the
   testing set.
-date: 2023-01-19T13:33:42.752Z
+date: 2022-05-04T13:39:00.000Z
 ---

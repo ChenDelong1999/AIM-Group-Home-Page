@@ -6,4 +6,6 @@ interests:
   - 基于知识图谱的问答系统、疾病自动诊断
 social: []
 superuser: false
+user_groups:
+  - 硕士研究生
 ---

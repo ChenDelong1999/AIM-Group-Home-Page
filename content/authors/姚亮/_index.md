@@ -14,7 +14,7 @@ social:
   - display:
       header: false
     link: https://yaoliang.netlify.app/
-    icon_pack: fab
+    icon_pack: fas
     icon: user
 education:
   courses:

@@ -8,7 +8,7 @@ authors:
   - 王菲
   - 王钰
   - 周俊
-  - "许峰:"
+  - 许峰
 doi: https://doi.org/10.1016/j.compeleceng.2022.108003
 publication: Computers & Electrical Engineering
 publication_short: Comput. Electr. Eng.

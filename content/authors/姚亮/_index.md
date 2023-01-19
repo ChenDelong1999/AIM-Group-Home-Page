@@ -11,6 +11,11 @@ social:
     link: https://github.com/2436917927
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: https://yaoliang.netlify.app/
+    icon_pack: fab
+    icon: user
 education:
   courses:
     - course: 计算机科学与技术专业 学士

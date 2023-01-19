@@ -1,6 +1,6 @@
 # 河海人工智能实验室（HH-AI Lab）主页
 
-
+https://hh-ai.netlify.app/
 
 ---
 

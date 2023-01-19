@@ -1,7 +1,7 @@
 ---
 title: 刘凡
 role: 教授
-avatar_filename: 6605dfd5-6503-47d2-9377-5ba661e68864.jpg
+avatar_filename: icons/刘凡.jpg
 bio: ""
 interests:
   - 人工智能、计算机视觉、水利信息化

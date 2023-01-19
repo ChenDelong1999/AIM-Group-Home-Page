@@ -1,0 +1,94 @@
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: "研究方向与主要成果"
+subtitle: "Research Areas and Outputs"
+
+
+design:
+  columns: '1'
+
+---
+
+### 单样本多模态人脸识别与分析
+
+- Fan Liu*, Delong Chen (本科生), et al. [**Deep Learning based Single Sample Face Recognition: A Survey**](https://link.springer.com/article/10.1007/s10462-022-10240-2)**.** Artificial Intelligence Review, AIRE, 2022 (SCI, JCR一区, IF: 9.588).  [[预印本](https://arxiv.org/ftp/arxiv/papers/2006/2006.11395.pdf)]
+- Liyan Zhang, Guodong Du, Fan Liu*, et al.[ **Global-Local Multiple Granularity Learning for Cross-Modality Visible-Infrared Person Reidentification**](https://ieeexplore.ieee.org/document/9457243/). IEEE Transactions on Neural Networks and Learning Systems, 2021 (SCI, 一区Top期刊, IF:14.255).
+- Zewen Li (本科生), Fan Liu*, et al. [**A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects**](https://ieeexplore.ieee.org/document/9451544). IEEE Transactions on Neural Networks and Learning Systems, 2021 (SCI, 一区Top期刊，IF:14.255, 引用459次, ESI高被引论文、热点论文). [[预印本](https://arxiv.org/abs/2004.02806)]
+- Fan Liu*, Delong Chen (本科生), et al.  [**A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning**](https://www.sciencedirect.com/science/article/abs/pii/S0952197622003967). Engineering Applications of Artificial Intelligence, EAAI, 2022. (SCI, JCR一区, IF: 7.802).
+- Qiaolin Ye, Jian Yang, Fan Liu, Chunxia Zhao, Ning Ye, Tongming Yin: [**L1-norm Distance Linear Discriminant Analysis Based on An Effective Iterative Algorithm**](https://ieeexplore.ieee.org/document/7539559). IEEE Transactions on Circuits and Systems for Video Technology, 2018 (SCI, 一区Top期刊, IF：5.859, 引用97次).
+- Fan Liu*, Jinhui Tang, Yan Song, Ye Bi, Sai Yang. [**Local Structure based Multi-Phase Collaborative Representation for Face Recognition with Single Sample per Person**](https://www.sciencedirect.com/science/article/abs/pii/S0020025516300433). Information Sciences, 2016 (SCI, 一区Top期刊, IF：8.233, 引用101次).
+- Fan Liu, Jinhui Tang, Yan Song, Liyan Zhang, Zhenmin Tang. [**Local Structure based Sparse Representation for Face Recognition**](https://dl.acm.org/doi/10.1145/2733383). ACM Transactions on Intelligent Systems and Technology, 2015 (SCI, JCR一区, IF: 10.489).
+- Liyan Zhang, Fan Liu, Jinhui Tang. [**Real-time System for Driver Fatigue Detection by RGB-D Camera**](https://dl.acm.org/doi/abs/10.1145/2629482). ACM Transactions on Intelligent Systems and Technology, 2015 (SCI, JCR一区, IF：10.489).
+- Yan Song, Jinhui Tang, Fan Liu, Shui Cheng Yan. [**Body Surface Context: A New Robust Feature for Action Recognition From Depth Videos**](https://ieeexplore.ieee.org/document/6722961). IEEE Transactions on Circuits and Systems for Video Technology, 2014.  (SCI, 一区Top期刊, IF：5.859, 引用65次).
+- Fan Liu, Zhenmin Tang, Jinhui Tang. [**WLBP: Weber Local Binary Pattern for Local Image Description**](https://www.sciencedirect.com/science/article/abs/pii/S0925231213002865). Neurocomputing, 2013 (SCI, Top期刊, IF：5.779, 引用76次).
+- Fan Liu, Jinhui Tang, Ruizhen Zhao, Zhenmin Tang. [**Abnormal behavior recognition system for ATM monitoring by RGB-D camera**](https://dl.acm.org/doi/10.1145/2393347.2396450). Proceedings of the 20th ACM international conference on Multimedia, ACM MM, 2012. (CCF-A类会议，多媒体领域顶会)
+- 国家发明专利：**基于局部子空间稀疏表示的单样本人脸识别方法**. 专利号: 201310700295.9
+- 国家发明专利：**基于半监督子块联合回归的单样本人脸识别方法**. 专利号: 201611010248.1.
+- 国家发明专利：**基于块稀疏结构低秩表示的单样本人脸识别方法**. 专利号: 201610701068.1.
+- 国家发明专利：**基于卷积神经网络的多通道人眼闭合识别方法**. 专利号: 201711429165.0.
+- 国家发明专利：**一种基于词袋模型的单样本人脸识别方法**. 专利号: 201711155556.8.
+- 国家发明专利：**基于循环自编码器和块稀疏结构表示的单样本人脸识别方法**. 专利号: 202011403336.4.
+- 国家发明专利：**一种基于两层自组织神经网络的人脸特征二进制编码与识别方法**. 专利号: 202010627333.2
+- 国家发明专利：**基于对抗学习的人脸变化解耦的亲属关系验证方法**. 专利号: 202111386833.2.
+
+### 视觉-语言大规模多模态预训练
+
+- Delong Chen (本科生), Fan Liu*, Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset). IJCAI 2021 Workshop on Long-Tailed Distribution Learning (CCF-A类会议Workshop, Oral). [[数据集主页](https://github.com/ChenDelong1999/MEP-3M)][Best Dataset Paper Award]
+- Delong Chen, Zhao Wu, Fan Liu*, et al. [**ProtoCLIP: Prototypical Contrastive Language Image Pretraining**](https://arxiv.org/abs/2206.10996). ArXiv Pre-print, 2022. [[开源代码](https://github.com/megvii-research/protoclip)]
+- Yanling Pan (本科生), Ruizhi Zhou (本科生), Gang Zhao, Weijuan Zhang, Delong Chen, Fan Liu*. [**MDF-Net: Multimodal Deep Fusion for Large-Scale Product Recognition**](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_51). The 16th Chinese Conference on Biometric Recognition, Biometric Recognition, CCBR 2022.
+- Weijuan Zhang, Fan Liu, Zheqi Zhang, Senbin Liu, Qian Huang. [**Commodity Text Classification Based E-Commerce Category and Attribute Mining**](https://ieeexplore.ieee.org/document/9175518/). 3rd IEEE Conference on Multimedia Information Processing and Retrieval, MIPR 2020.
+- 开发图文特征对齐公开代码库 **ITRA: Image Text Representation Alignment**. [[文档](https://itra.readthedocs.io/)][[开源代码](https://github.com/ChenDelong1999/ITRA)]
+- 国家发明专利：**一种基于商品文本分类的电商类目属性挖掘方法**. 专利号: 201910599049.6.
+- 国家发明专利：**一种基于频繁项目集的图片标注推荐算法**. 专利号: 201811516054.8.
+
+### 数据驱动的水文时间序列预测
+
+- 刘凡, 陆小敏, 徐丹, 戴雯雯 (本科生), 李慧洲. [**海浪预报方法研究进展**](https://jour.hhu.edu.cn/hhdxxbzren/article/abstract/202105001). 河海大学学报 (自然科学版), 2021 (中文核心期刊).
+- Fan Liu*, Feng Xu, Sai Yang. [**A Flood Forecasting Model Based on Deep Learning Algorithm via Integrating Stacked Autoencoders with BP Neural Network**](https://ieeexplore.ieee.org/document/7966716). 2017 IEEE Third International Conference on Multimedia Big Data (BigMM). [引用64次]
+- Delong Chen (本科生), Fan Liu, Zheqi Zhang, Xiaomin Lu, Zewen Li. [**Significant Wave Height Prediction based on Wavelet Graph Neural Network**](https://arxiv.org/abs/2107.09483). 2021 IEEE 4th International Conference on Big Data and Artificial Intelligence, BDAI (Oral). [Best Presentation Award]
+- Delong Chen, Ruizhi Zhou (本科生), Yanling Pan (本科生), Fan Liu. [**A Simple Baseline for Adversarial Domain Adaptation-based Unsupervised Flood Forecasting**](https://arxiv.org/abs/2206.08105). Technical Report, ArXiv (2022). [[开源代码](https://github.com/ChenDelong1999/HHForecasting)]
+- 开发水文时间序列预测公开代码库：**HH💦Forecasting: a codebase for data-driven hydrological time-series forecasting**. [[开源代码](https://github.com/ChenDelong1999/HHForecasting)]
+
+### 视觉小样本学习
+
+- Fan Liu, Feifan Li, Sai Yang. [**Few‐shot classification using Gaussianisation prototypical classifier**](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12129)**.** IET Computer Vision, 2022 (SCI).
+- Sai Yang, Fan Liu*, Zhiyu Chen. [**Feature hallucination in hypersphere space for few-shot classification**](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12579)**.** IET Image Process, 2022 (SCI).
+- Jiaying Wu, Ning Dong, Fan Liu, Sai Yang, Jinglu Hu. [**Feature hallucination via Maximum A Posteriori for few-shot learning**](https://www.sciencedirect.com/science/article/pii/S0950705121003920)**.** Knowledge-Based Systems, 2021 (SCI, 中科院一区, JCR 一区, CCF推荐期刊, IF: 8.139)
+- Sai Yang, Fan Liu, Ning Dong, Jiaying Wu. [**Comparative Analysis on Classical Meta-Metric Models for Few-Shot Learning**](https://ieeexplore.ieee.org/document/9139379). IEEE Access, 2020 (SCI).
+
+### 基于计算机视觉的大坝、桥梁监测
+
+- 刘凡，王君锋，陈峙宇, 许峰.  **基于并行注意力UNet的裂缝检测方法**. 计算机研究与发展 2021. [CCF-A类期刊]
+- Junfeng Wang, Fan Liu*, Wenjie Yang (本科生), Guoyan Xu, Tao Zhang. [**Pavement Crack Detection Using Attention U-Net with Multiple Sources**](https://link.springer.com/chapter/10.1007/978-3-030-60639-8_55). Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2020.
+- Fan Liu, Junfeng Wang, Delong Chen et al. [**Asymmetric exponential loss function for crack segmentation**](https://link.springer.com/article/10.1007/s00530-022-00944-4). Multimedia Systems, 2022: 1-13. [SCI, CCF推荐期刊]
+- Kun Xie, Dong Lei, Wenkang Du, Pengxiang Bai, Feipeng Zhu, Fan Liu. [**A new operator based on edge detection for monitoring the cable under different illumination**](https://www.sciencedirect.com/science/article/pii/S0888327022009943). Mechanical Systems and Signal Processing, 2023 (SCI, JCR一区, IF: 8.934).
+- Kun Xie, Dong Lei, Wenkang Du, Pengxiang Bai, Feipeng Zhu, Fan Liu. [**The monitoring of bridge under complex illumination based on digital image technology**](https://www.sciencedirect.com/science/article/pii/S0263224122014154). Measurement, 2023 (SCI, JCR一区, IF: 5.131).
+- 国家发明专利：**一种基于迁移学习的大坝图像裂缝检测方法**. 专利号: 201810972498.6.
+- 国家发明专利：**一种基于U-net网络和SC-SAM注意力机制的大坝裂缝检测方法**. 专利号: 202011049216.9.
+- 国家发明专利：**基于特征组合与CNN的大坝缺陷识别与分类方法**. 专利号: 201810598156.2.
+- 国家发明专利：**基于DS优化多指标大坝缺陷图像检测方法**. 专利号: 201810475284.8
+- 国家发明专利：**基于多迁移学习模型融合的大坝裂缝检测方法**. 专利号: 201910845138.4
+- 国家发明专利：**一种基于Faster R-CNN参数迁移的裂缝图像检测方法**. 专利号: 201910398515.4
+- 国家发明专利：**基于背景与目标先验的多尺度扩散显著目标检测方法**. 专利号: 201810243956.2.
+
+### 音乐驱动的乐队指挥动作生成
+
+- Fan Liu, Delong Chen (本科生), Ruizhi Zhou (本科生), Sai Yang, Feng Xu. [**Self-Supervised Music-Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](https://link.springer.com/article/10.1007/s11390-022-2030-z). Journal of Computer Science and Technology (SCI, CCF-B类期刊). [[开源代码](https://github.com/ChenDelong1999/VirtualConductor)]
+- Delong Chen (本科生), Fan Liu*, Zewen Li (本科生), Feng Xu. [**VirtualConductor: Music-driven Conducting Video Generation System**](https://arxiv.org/abs/2108.04350). IEEE International Conference on Multimedia and Expo, ICME 2021 (CCF-B类会议). [Best Demo Award]
+- Demo 视频： [**虚拟指挥**](https://www.bilibili.com/video/BV1pB4y1P7oh)（biliili 35w 播放，815评论）；Demo 视频：[**人工智能指挥 demo（全明星）**](https://www.bilibili.com/video/BV1aX4y1g7wh)（bilibili 1.8w 播放）；图灵测试视频：[**Demo: music-driven conducting motion generation**](https://www.youtube.com/watch?v=8lr5Q2qg58w).
+- [**首届国际“远见杯”元智能数据挑战大赛**](https://www.jscs.org.cn/x1.php?id=770)（江苏省计算机学会主办），动作认知赛道：音乐驱动的指挥动作生成. [[赛题主页](https://github.com/ChenDelong1999/VirtualConductor/tree/main/ProspectiveCup)]
+- 国家发明专利：**基于动态频域分解的音乐驱动的指挥动作生成方法**. 专利号: 202111090067.5
+- 国家发明专利：**一种基于自监督跨模态感知损失的乐队指挥动作生成方法**. 专利号 202111090024.7
+

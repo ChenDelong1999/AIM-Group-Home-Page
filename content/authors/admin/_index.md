@@ -6,15 +6,17 @@ title: HH-AI Lab
 superuser: true
 
 # Role/position
-role: 河海大学计算机与信息学院<br/>河海大学人工智能学院
+role: "**H**o**h**ai **A**rtificial **I**ntelligence **Lab**oratory"
 
 # Organizations/Affiliations
 organizations:
-  - name: xxxxxxx
-    url: ''
+  - name: 河海大学计算机与信息学院
+    url: 'https://cies.hhu.edu.cn/main.psp'
+  - name: 河海大学人工智能学院
+    url: 'https://ai.hhu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 河海人工智能实验室
 
 
 # Social/Academic Networking
@@ -49,21 +51,22 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Admin
 ---
 
-北京大学深度学习实验室是北京大学数据科学研究中心最重要的基础研究机构。它集结了北京大学在计算机科学、应用和计算数学、统计学等领域的最活跃的学者。实验室主任由机器学习领域国际上最活跃的学者之一张志华教授担任。希望用三到五年的时间建成世界一流的研究机构，成为中国深度学习和人工智能学科的最主要的基础研究中心。
+（例）北京大学深度学习实验室是北京大学数据科学研究中心最重要的基础研究机构。它集结了北京大学在计算机科学、应用和计算数学、统计学等领域的最活跃的学者。实验室主任由机器学习领域国际上最活跃的学者之一张志华教授担任。希望用三到五年的时间建成世界一流的研究机构，成为中国深度学习和人工智能学科的最主要的基础研究中心。
 
-实验室的使命是研究机器学习的机理，包括但不限于深度学习和强化学习，并且运用机理去解决现实问题。发展机器学习理论，研究新的机器学习模型和原型，设计高效的算法以及实现大规模的算法软件库/平台。目前研究方向主要集中在但不限于以下几个方面：
+（例）实验室的使命是研究机器学习的机理，包括但不限于深度学习和强化学习，并且运用机理去解决现实问题。发展机器学习理论，研究新的机器学习模型和原型，设计高效的算法以及实现大规模的算法软件库/平台。目前研究方向主要集中在但不限于以下几个方面：
 
-- 发展理解深度学习机制的理论；
-- 发展高效的优化多层神经网络的算法；
-- 针对不同类型问题的网络结构设计；
-- 贝叶斯模型和产生式博弈模型；
-- 强化学习及其应用；
-- 自然语言处理、计算机视觉、量化经济等领域的应用。
+- 无人机视角目标检测、卫星遥感图像识别
+- 单样本多模态人脸识别与分析
+- 视觉-语言大规模多模态预训练
+- 数据驱动的水文时间序列预测
+- 视觉小样本学习
+- 基于计算机视觉的大坝、桥梁监测
+
+---
 
 实验室将在数据科学专业招收直博生和硕士生，并单独培养；同时依靠北京大学数学学院和北京国际数学中心招收博士后研究员。
 
 欢迎优秀的您加入我们，携手探索人工智能新奥秘！
-

@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: 软件开发环境？
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
+authors: [刘凡]
 tags: []
 
 # Is this a featured talk? (true/false)

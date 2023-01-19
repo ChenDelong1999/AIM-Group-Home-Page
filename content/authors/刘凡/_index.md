@@ -1,10 +1,11 @@
 ---
 title: 刘凡
 role: 教授
-avatar_filename: icons/刘凡.jpg
-bio: ""
-interests:
-  - 人工智能、计算机视觉、水利信息化
+bio: "asd"
+interests: 
+  - 人工智能
+  - 计算机视觉
+  - 水利信息化
 social: []
 organizations:
   - name: 河海大学计算机与信息学院
@@ -13,7 +14,10 @@ education:
   courses:
     - year: 2015
       institution: 南京理工大学
-      course: 博士
+      course: 计算机科学与技术专业(?) 博士
+    - year: 2015
+      institution: 南京理工大学
+      course: 计算机科学与技术专业(?) 学士
 email: fanliu@hhu.edu.cn
 superuser: true
 user_groups:

@@ -1,13 +1,13 @@
 ---
-title: 实验室简介
-subtitle: 实验室简介
+title:
+subtitle:
 widget: about
 active: true
 author: admin
 headless: true
-weight: 11
+weight: 20
 design:
   columns: '2'
   spacing:
-    padding: ['20px', '0', '50px', '0']
+    padding: ['30px', '0', '30px', '0']
 ---

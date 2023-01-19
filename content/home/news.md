@@ -12,14 +12,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: "新闻"
-subtitle: "小标题"
+title: "实验室动态"
+subtitle: "News"
 
 
 design:
-  columns: '1'
-advanced:
-  css_class: fullscreen
+  columns: '2'
 
 ---
 

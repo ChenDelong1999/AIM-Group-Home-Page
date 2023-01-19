@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: M
+  font_size: S
 
 # SEO
 
@@ -43,9 +43,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {2023} HH-AI Lab.'
+    notice: 'HH-AI Lab, 河海人工智能实验室, 2023'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ChenDelong1999/HH-AI-Lab-Home-Page'
     content_dir: content
     branch: main
   avatar:

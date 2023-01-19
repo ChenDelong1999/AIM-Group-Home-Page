@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: 团队成员
+title: HH-AI Lab 实验室成员
 subtitle:
 
 content:
@@ -20,6 +20,7 @@ content:
     - 研究员
     - 硕士研究生
     - 本科生
+    - 已毕业学生
 design:
   show_interests: true
   show_role: true

@@ -5,7 +5,12 @@ avatar_filename: avatar.jpg
 bio: 姚亮个人简介
 interests:
   - 无人机视角目标检测
-social: []
+social:
+  - display:
+      header: false
+    link: https://github.com/2436917927
+    icon_pack: fab
+    icon: Github
 education:
   courses:
     - course: 计算机科学与技术专业 学士

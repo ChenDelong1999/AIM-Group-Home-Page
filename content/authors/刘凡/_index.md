@@ -17,7 +17,7 @@ education:
 email: fanliu@hhu.edu.cn
 superuser: true
 user_groups:
-  - 实验室负责人
+  - Principal Investigators
 ---
 主要研究方向为计算机视觉、机器学习、模式识别，并一直从事人工智能领域的交叉研究工作。2015年获南京理工大学博士学位。2008年9月-12月赴韩国亚洲大学、2014年2月-4月至微软亚洲研究院交流学习。2020年任计算机与信息学院副院长，2021年任人工智能学院副院长，兼任江苏省人工智能学会常务理事、江苏省信息技术应用学会理事、南京市卫生信息学会理事，SCI 期刊 KSII TIIS 编委，Frontiers in Computer Science、Applied Sciences客座编辑。 
 

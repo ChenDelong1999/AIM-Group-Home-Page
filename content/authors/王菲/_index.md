@@ -1,7 +1,8 @@
 ---
 title: 王菲
-role: 硕士研究生
+role: 2020级硕士研究生
 avatar_filename: avatar
+bio: 2020级硕士研究生
 interests:
   - 单样本人脸识别
 social: []

@@ -1,11 +1,16 @@
 ---
 title: 谢中石
-role: 硕士研究生
+role: 2021级硕士研究生
 avatar_filename: avatar.jpg
-bio: ""
+bio: 2021级硕士研究生
 interests:
   - 电商领域的深度视觉特征学习与迁移
-social: []
+social:
+  - display:
+      header: false
+    link: root19980729@yeah.net
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: 计算机科学与技术

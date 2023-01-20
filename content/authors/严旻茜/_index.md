@@ -11,6 +11,7 @@ social:
     link: https://github.com/Yan0613
     icon_pack: fab
     icon: github
+email: minxiyan@hhu.edu.cn
 superuser: false
 user_groups:
   - 本科生

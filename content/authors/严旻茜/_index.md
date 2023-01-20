@@ -1,8 +1,8 @@
 ---
 title: 严旻茜
-role: 本科生
+role: 2020级本科生
 avatar_filename: avatar.jpg
-bio: 2020级计算机科学与技术专业
+bio: 2020级计算机科学与技术专业本科生
 interests:
   - 时间序列预测
   - 领域自适应
@@ -12,6 +12,11 @@ social:
     link: https://github.com/Yan0613
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: minxiyan@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 email: minxiyan@hhu.edu.cn
 superuser: false
 user_groups:

@@ -1,7 +1,8 @@
 ---
 title: 沈春梅
-role: 硕士研究生
+role: 2021级硕士研究生
 avatar_filename: avatar.jpg
+bio: 2021级硕士研究生
 interests:
   - 遥感图像语义分割
 social:
@@ -10,6 +11,11 @@ social:
     link: https://github.com/scm-later
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: scm@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 email: scm@hhu.edu.cn
 superuser: false
 user_groups:

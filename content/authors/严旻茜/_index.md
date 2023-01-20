@@ -14,7 +14,7 @@ social:
     icon: github
   - display:
       header: false
-    link: minxiyan@hhu.edu.cn
+    link: mailto:minxiyan@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 email: minxiyan@hhu.edu.cn

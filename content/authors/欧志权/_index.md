@@ -1,10 +1,21 @@
 ---
 title: 欧志权
 role: 本科生
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 bio: 2020级软件工程专业
-social: []
+interests:
+  - 人脸识别
+  - 目标检测与识别
+  - 模型压缩
+social:
+  - display:
+      header: false
+    link: https://github.com/Ledgero
+    icon_pack: fab
+    icon: github
+email: 2006050138@hhu.edu.cn
 superuser: false
 user_groups:
   - 本科生
 ---
+河海大学2020级软件工程专业本科生，参与实验室的复杂背景下的无人机多模态目标检测项目。

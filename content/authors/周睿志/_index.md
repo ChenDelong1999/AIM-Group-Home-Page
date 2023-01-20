@@ -1,6 +1,6 @@
 ---
 title: 周睿志
-role: 西北工业大学
+role: 本科生（保送西北工业大学）
 avatar_filename: avatar
 bio: 本科生
 social: []

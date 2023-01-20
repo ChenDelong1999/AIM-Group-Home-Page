@@ -36,4 +36,4 @@ user_groups:
 
 完结课题：基于无人机的河道智能巡检系统；无人机视角下轻量型人脸检测与识别研究；
 
-{{< icon name="envelope" pack="fas" >}} Email:
+{{< icon name="envelope" pack="fas" >}} Email:liangyao@hhu.edu.cn

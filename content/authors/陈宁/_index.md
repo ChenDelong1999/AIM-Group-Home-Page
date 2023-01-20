@@ -1,8 +1,8 @@
 ---
 title: 陈宁
-role: 硕士研究生
+role: 2022级硕士研究生
 avatar_filename: avatar.jpg
-bio: ""
+bio: 2022级硕士研究生
 interests:
   - 无人机视角目标检测
   - 水下目标检测
@@ -12,6 +12,11 @@ social:
     link: https://github.com/cn-github007
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: cn@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: 计算机科学与技术 学士

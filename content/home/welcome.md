@@ -3,8 +3,8 @@ widget: hero
 widget_id: home
 headless: true
 weight: 10
-title: "**河海人工智能实验室**"
-subtitle: Hoai Artificial Intelligence Laboratory (HH-AI Lab)
+title: Hoai Artificial Intelligence Laboratory
+subtitle:
 active: true
 design:
   columns: "1"
@@ -18,4 +18,4 @@ design:
     image_size: cover
     text_color_light: true
 ---
-**Hohai Artificial Intelligence Labotory**
+河海人工智能实验室 (HH-AI Lab)

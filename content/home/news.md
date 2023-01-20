@@ -21,10 +21,12 @@ design:
 
 ---
 
+## 2023
 
 - **2023-01-22** 新春快乐！HH-AI 实验室正式启用新版官方主页（域名 http://hh-ai-lab.cn ）！
+<br/><br/>
 
----
+## 2022
 
 - **2022-11-29**  HH-AI 实验室开始使用 [语雀](https://www.yuque.com/) 平台满一周年！在本年度中，HH-AI 实验室成员共分享了近800篇文档，其中包括150+篇论文的精读笔记、4门在线课程的学习笔记、以及500余篇周进展汇报！
 <br/><br/>
@@ -54,7 +56,7 @@ design:
 - **2022-03-10** 论文 ["Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation"](publication/jcst2022self/) 现已被 CCF-B 类期刊 Journal of Computer Science and Technology (计算机科学与技术学报) 录用！论文构建的 ConductorMotion100 数据集现已于 [江苏省计算机学会](https://www.jscs.org.cn/x1.php?id=770) 主办的 [首届国际“远见杯”元智能数据挑战大赛](http://prospective.tocenet.org/) 中作为动作认知赛道赛题公开[(赛题主页)](https://github.com/ChenDelong1999/VirtualConductor/tree/main/ProspectiveCup)。
 <br/><br/>
 
----
+## 2021
 
 - **2021-08-21** 我们构建的包含三百万图文样本对的大规模多模态电商商品数据集 [MEP-3M](publication/icjaiw2021mep/) 在 CCF-A 类顶级会议 IJCAI'23 长尾分布学习研讨会 (LTDL) 中被评为 Best Dataset Paper（最佳数据集论文）！
 <br/><br/>

@@ -1,7 +1,8 @@
 ---
 title: 周晓聪
-role: 硕士研究生
+role: 2022级硕士研究生
 avatar_filename: avatar.jpg
+bio: 2022级硕士研究生
 interests:
   - 遥感图像自监督学习
 social:
@@ -10,6 +11,11 @@ social:
     link: https://github.com/zhouxiaocong2001
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: zhouxiaocong@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: 信息与计算科学 学士

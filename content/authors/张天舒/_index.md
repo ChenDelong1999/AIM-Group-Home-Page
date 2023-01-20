@@ -1,8 +1,8 @@
 ---
 title: 张天舒
-role: 硕士研究生
+role: 2021级硕士研究生
 avatar_filename: avatar.jpg
-bio: 2021级
+bio: 2021级硕士研究生
 interests:
   - 小样本学习
   - 视觉-语言多模态学习
@@ -12,6 +12,11 @@ social:
     link: https://github.com/ztsupercarry
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: ztsupercarry@163.com
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: 计算机科学与技术专业 学士

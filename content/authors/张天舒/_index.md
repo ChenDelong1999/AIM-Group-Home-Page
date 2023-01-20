@@ -4,7 +4,8 @@ role: 硕士研究生
 avatar_filename: avatar.jpg
 bio: 2021级
 interests:
-  - 多模态基础模型的小样本下游泛化
+  - 小样本学习
+  - 视觉-语言多模态学习
 social:
   - display:
       header: false

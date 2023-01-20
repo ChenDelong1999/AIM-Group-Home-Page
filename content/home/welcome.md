@@ -3,7 +3,7 @@ widget: hero
 widget_id: home
 headless: true
 weight: 10
-title: Hoai Artificial Intelligence Laboratory
+title: Hohai Artificial Intelligence Laboratory
 subtitle:
 active: true
 design:

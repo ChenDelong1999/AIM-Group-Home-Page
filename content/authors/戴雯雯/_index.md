@@ -1,10 +1,16 @@
 ---
 title: 戴雯雯
-role: 硕士研究生
+role: 2022级硕士研究生
 avatar_filename: avatar.jpg
+bio: 2022级硕士研究生
 interests:
   - 电商领域多模态特征学习
-social: []
+social:
+  - display:
+      header: false
+    link: daiwenwen@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: 计算机科学与技术 学士

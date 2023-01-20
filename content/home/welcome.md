@@ -4,7 +4,7 @@ widget_id: home
 headless: true
 weight: 10
 title: "**河海人工智能实验室**"
-subtitle: Hohai Artificial Intelligence Laboratory (HH-AI Lab)
+subtitle: Hoai Artificial Intelligence Laboratory (HH-AI Lab)
 active: true
 design:
   columns: "1"

@@ -16,6 +16,11 @@ social:
   - icon: dblp
     icon_pack: ai
     link: https://dblp.org/pid/56/2849-3.html
+  - display:
+      header: false
+    link: mailto:fanliu@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: 河海大学计算机与信息学院
     url: https://cies.hhu.edu.cn

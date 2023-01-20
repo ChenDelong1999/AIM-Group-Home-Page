@@ -2,7 +2,7 @@
 title: 李泽文
 role: M.S. In Information Networking, Carnegie Mellon University
 avatar_filename: avatar.jpg
-bio: ""
+bio: 已毕业学生
 interests:
   - 深度学习
   - 计算机视觉
@@ -22,7 +22,7 @@ education:
   courses:
     - course: 计算机科学与技术专业 学士
       institution: 河海大学 计算机与信息学院
-      year: ""
+      year: 2020
 email: zewenli@cmu.edu
 superuser: false
 user_groups:

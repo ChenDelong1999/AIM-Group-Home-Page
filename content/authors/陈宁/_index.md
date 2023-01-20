@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    link: cn@hhu.edu.cn
+    link: https://github.com/cn-github007
     icon_pack: fab
     icon: github
 education:
@@ -17,6 +17,7 @@ education:
     - course: 计算机科学与技术 学士
       institution: 河海大学计算机与信息学院
       year: 2022
+email: cn@hhu.edu.cn
 superuser: false
 user_groups:
   - 硕士研究生

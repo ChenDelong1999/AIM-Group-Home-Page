@@ -25,7 +25,7 @@ content:
   coordinates:
     latitude: '31.9153229'
     longitude: '118.7830478'
-  directions: 勤学楼4103
+  directions: 勤学楼
   # office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'

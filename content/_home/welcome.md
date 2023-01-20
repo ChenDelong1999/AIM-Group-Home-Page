@@ -3,7 +3,7 @@ widget: hero
 widget_id: home
 headless: true
 weight: 10
-title: Hohai Artificial Intelligence Laboratory
+title: Big Data and Artificial Intelligence Laboratory
 subtitle:
 active: true
 design:
@@ -18,4 +18,4 @@ design:
     image_size: cover
     text_color_light: true
 ---
-河海人工智能实验室 (HH-AI Lab)
+大数据与人工智能实验室 (BDAI Lab)

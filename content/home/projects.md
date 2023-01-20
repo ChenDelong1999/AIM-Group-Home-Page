@@ -21,12 +21,12 @@ design:
 
 ---
 
-### 单样本多模态人脸识别与分析
+### ▶ [单样本多模态人脸识别与分析](project/单样本多模态人脸识别与分析)
 
 - Fan Liu*, Delong Chen (本科生), et al. [**Deep Learning based Single Sample Face Recognition: A Survey**](https://link.springer.com/article/10.1007/s10462-022-10240-2)**.** Artificial Intelligence Review, AIRE, 2022 (SCI, JCR一区, IF: 9.588).  [[预印本](https://arxiv.org/ftp/arxiv/papers/2006/2006.11395.pdf)]
-- Liyan Zhang, Guodong Du, Fan Liu*, et al.[ **Global-Local Multiple Granularity Learning for Cross-Modality Visible-Infrared Person Reidentification**](https://ieeexplore.ieee.org/document/9457243/). IEEE Transactions on Neural Networks and Learning Systems, 2021 (SCI, 一区Top期刊, IF:14.255).
-- Zewen Li (本科生), Fan Liu*, et al. [**A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects**](https://ieeexplore.ieee.org/document/9451544). IEEE Transactions on Neural Networks and Learning Systems, 2021 (SCI, 一区Top期刊，IF:14.255, 引用459次, ESI高被引论文、热点论文). [[预印本](https://arxiv.org/abs/2004.02806)]
 - Fan Liu*, Delong Chen (本科生), et al.  [**A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning**](https://www.sciencedirect.com/science/article/abs/pii/S0952197622003967). Engineering Applications of Artificial Intelligence, EAAI, 2022. (SCI, JCR一区, IF: 7.802).
+- Zewen Li (本科生), Fan Liu*, et al. [**A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects**](https://ieeexplore.ieee.org/document/9451544). IEEE Transactions on Neural Networks and Learning Systems, 2021 (SCI, 一区Top期刊，IF:14.255, 引用459次, ESI高被引论文、热点论文). [[预印本](https://arxiv.org/abs/2004.02806)]
+- Liyan Zhang, Guodong Du, Fan Liu*, et al.[ **Global-Local Multiple Granularity Learning for Cross-Modality Visible-Infrared Person Reidentification**](https://ieeexplore.ieee.org/document/9457243/). IEEE Transactions on Neural Networks and Learning Systems, 2021 (SCI, 一区Top期刊, IF:14.255).
 - Qiaolin Ye, Jian Yang, Fan Liu, Chunxia Zhao, Ning Ye, Tongming Yin: [**L1-norm Distance Linear Discriminant Analysis Based on An Effective Iterative Algorithm**](https://ieeexplore.ieee.org/document/7539559). IEEE Transactions on Circuits and Systems for Video Technology, 2018 (SCI, 一区Top期刊, IF：5.859, 引用97次).
 - Fan Liu*, Jinhui Tang, Yan Song, Ye Bi, Sai Yang. [**Local Structure based Multi-Phase Collaborative Representation for Face Recognition with Single Sample per Person**](https://www.sciencedirect.com/science/article/abs/pii/S0020025516300433). Information Sciences, 2016 (SCI, 一区Top期刊, IF：8.233, 引用101次).
 - Fan Liu, Jinhui Tang, Yan Song, Liyan Zhang, Zhenmin Tang. [**Local Structure based Sparse Representation for Face Recognition**](https://dl.acm.org/doi/10.1145/2733383). ACM Transactions on Intelligent Systems and Technology, 2015 (SCI, JCR一区, IF: 10.489).
@@ -43,7 +43,7 @@ design:
 - 国家发明专利：**一种基于两层自组织神经网络的人脸特征二进制编码与识别方法**. 专利号: 202010627333.2
 - 国家发明专利：**基于对抗学习的人脸变化解耦的亲属关系验证方法**. 专利号: 202111386833.2.
 
-### 视觉-语言大规模多模态预训练
+### ▶ [视觉-语言大规模多模态预训练](project/视觉-语言大规模多模态预训练)
 
 - Delong Chen (本科生), Fan Liu*, Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset). IJCAI 2021 Workshop on Long-Tailed Distribution Learning (CCF-A类会议Workshop, Oral). [[数据集主页](https://github.com/ChenDelong1999/MEP-3M)][Best Dataset Paper Award]
 - Delong Chen, Zhao Wu, Fan Liu*, et al. [**ProtoCLIP: Prototypical Contrastive Language Image Pretraining**](https://arxiv.org/abs/2206.10996). ArXiv Pre-print, 2022. [[开源代码](https://github.com/megvii-research/protoclip)]
@@ -53,7 +53,7 @@ design:
 - 国家发明专利：**一种基于商品文本分类的电商类目属性挖掘方法**. 专利号: 201910599049.6.
 - 国家发明专利：**一种基于频繁项目集的图片标注推荐算法**. 专利号: 201811516054.8.
 
-### 数据驱动的水文时间序列预测
+### ▶ [数据驱动的水文时间序列预测](project/数据驱动的水文时间序列预测)
 
 - 刘凡, 陆小敏, 徐丹, 戴雯雯 (本科生), 李慧洲. [**海浪预报方法研究进展**](https://jour.hhu.edu.cn/hhdxxbzren/article/abstract/202105001). 河海大学学报 (自然科学版), 2021 (中文核心期刊).
 - Fan Liu*, Feng Xu, Sai Yang. [**A Flood Forecasting Model Based on Deep Learning Algorithm via Integrating Stacked Autoencoders with BP Neural Network**](https://ieeexplore.ieee.org/document/7966716). 2017 IEEE Third International Conference on Multimedia Big Data (BigMM). [引用64次]
@@ -61,14 +61,14 @@ design:
 - Delong Chen, Ruizhi Zhou (本科生), Yanling Pan (本科生), Fan Liu. [**A Simple Baseline for Adversarial Domain Adaptation-based Unsupervised Flood Forecasting**](https://arxiv.org/abs/2206.08105). Technical Report, ArXiv (2022). [[开源代码](https://github.com/ChenDelong1999/HHForecasting)]
 - 开发水文时间序列预测公开代码库：**HH💦Forecasting: a codebase for data-driven hydrological time-series forecasting**. [[开源代码](https://github.com/ChenDelong1999/HHForecasting)]
 
-### 视觉小样本学习
+### ▶ [视觉小样本学习](project/视觉小样本学习)
 
 - Fan Liu, Feifan Li, Sai Yang. [**Few‐shot classification using Gaussianisation prototypical classifier**](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12129)**.** IET Computer Vision, 2022 (SCI).
 - Sai Yang, Fan Liu*, Zhiyu Chen. [**Feature hallucination in hypersphere space for few-shot classification**](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12579)**.** IET Image Process, 2022 (SCI).
 - Jiaying Wu, Ning Dong, Fan Liu, Sai Yang, Jinglu Hu. [**Feature hallucination via Maximum A Posteriori for few-shot learning**](https://www.sciencedirect.com/science/article/pii/S0950705121003920)**.** Knowledge-Based Systems, 2021 (SCI, 中科院一区, JCR 一区, CCF推荐期刊, IF: 8.139)
 - Sai Yang, Fan Liu, Ning Dong, Jiaying Wu. [**Comparative Analysis on Classical Meta-Metric Models for Few-Shot Learning**](https://ieeexplore.ieee.org/document/9139379). IEEE Access, 2020 (SCI).
 
-### 基于计算机视觉的大坝、桥梁监测
+### ▶ [基于计算机视觉的大坝、桥梁监测](project/基于计算机视觉的大坝、桥梁监测)
 
 - 刘凡，王君锋，陈峙宇, 许峰.  **基于并行注意力UNet的裂缝检测方法**. 计算机研究与发展 2021. [CCF-A类期刊]
 - Junfeng Wang, Fan Liu*, Wenjie Yang (本科生), Guoyan Xu, Tao Zhang. [**Pavement Crack Detection Using Attention U-Net with Multiple Sources**](https://link.springer.com/chapter/10.1007/978-3-030-60639-8_55). Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2020.
@@ -83,7 +83,7 @@ design:
 - 国家发明专利：**一种基于Faster R-CNN参数迁移的裂缝图像检测方法**. 专利号: 201910398515.4
 - 国家发明专利：**基于背景与目标先验的多尺度扩散显著目标检测方法**. 专利号: 201810243956.2.
 
-### 音乐驱动的乐队指挥动作生成
+### ▶ [音乐驱动的乐队指挥动作生成](project/音乐驱动的乐队指挥动作生成)
 
 - Fan Liu, Delong Chen (本科生), Ruizhi Zhou (本科生), Sai Yang, Feng Xu. [**Self-Supervised Music-Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](https://link.springer.com/article/10.1007/s11390-022-2030-z). Journal of Computer Science and Technology (SCI, CCF-B类期刊). [[开源代码](https://github.com/ChenDelong1999/VirtualConductor)]
 - Delong Chen (本科生), Fan Liu*, Zewen Li (本科生), Feng Xu. [**VirtualConductor: Music-driven Conducting Video Generation System**](https://arxiv.org/abs/2108.04350). IEEE International Conference on Multimedia and Expo, ICME 2021 (CCF-B类会议). [Best Demo Award]

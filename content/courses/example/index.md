@@ -1,5 +1,5 @@
 ---
-title: 软件开发环境？
+title: 软件开发环境课程
 
 event: Wowchemy Conference
 event_url: https://example.org

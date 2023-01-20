@@ -14,10 +14,10 @@ education:
   courses:
     - year: 2015
       institution: 南京理工大学
-      course: 计算机科学与技术专业(?) 博士
+      course: 计算机应用技术 博士
     - year: 2015
       institution: 南京理工大学
-      course: 计算机科学与技术专业(?) 学士
+      course: 网络工程 学士
 email: fanliu@hhu.edu.cn
 superuser: true
 user_groups:

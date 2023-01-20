@@ -16,9 +16,12 @@ main:
   - name: 课程
     url: courses
     weight: 40
-  - name: 论文
-    url: publication
+  - name: 科研项目
+    url: project
     weight: 50
+  - name: 论文成果
+    url: publication
+    weight: 60
   - name: 联系我们
     url: contact
-    weight: 60
+    weight: 70

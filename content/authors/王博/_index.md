@@ -6,4 +6,6 @@ bio: 2020级计算机科学与技术专业
 social: []
 email: 1040201707@qq.com
 superuser: false
+user_groups:
+  - 本科生
 ---

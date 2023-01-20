@@ -1,11 +1,16 @@
 ---
 title: 蔡雯雯
-role: 硕士研究生
+role: 2022级硕士研究生
 avatar_filename: avatar.jpg
-bio: 2022年陕西省优秀毕业生
+bio: 2022级硕士研究生
 interests:
   - 多模态基础模型的小样本下游泛化
-social: []
+social:
+  - display:
+      header: false
+    link: caiwenwen@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: 计算机科学与技术 学士

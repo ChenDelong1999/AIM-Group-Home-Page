@@ -8,7 +8,7 @@ superuser: true
 authors:
   - 陈德龙
 title: 陈德龙
-role: 科研助理
+role: HH-AI 科研助理
 bio: 已毕业学生
 interests:
   - 视觉-语言多模态学习
@@ -25,17 +25,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E5%BE%B7%E9%BE%99-%E9%99%88-39685615b
-education: null
+education:
+  courses:
+    - year: 2022
+      institution: MEGVII Technology
+      course: Research Intern
+    - year: 2021
+      institution: 河海大学 计算机与信息学院
+      course: 计算机科学与技术专业 学士
 user_groups:
   - 已毕业学生
-courses:
-  - course: Gap year
-    year: 2021-2022
-    institution: MEGVII Technology & Hohai University
-  - course: 计算机科学与技术专业 学士
-    institution: 河海大学计算机与信息学院
-    year: 2017-2021
-email: chendelong@hhu.edu.cn
 ---
 
 
@@ -57,5 +56,5 @@ He is also an {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}u
 
 {{< icon name="envelope" pack="fas" >}} Email: chendelong@hhu.edu.cn
 
-Personal Website: https://chendelong.world
+{{< icon name="house-user" pack="fa" >}} Personal Website: https://chendelong.world
 

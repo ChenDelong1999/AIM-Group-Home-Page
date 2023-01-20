@@ -6,10 +6,21 @@ interests:
   - 模式识别
   - 计算机视觉
   - 智慧水利
-social: []
+social:
+  - icon: house-user
+    icon_pack: fa
+    link: https://cies.hhu.edu.cn/2013/0508/c4122a54931/page.htm
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Fan-Liu-79
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.org/pid/56/2849-3.html
 organizations:
   - name: 河海大学计算机与信息学院
-    url: https://cies.hhu.edu.cn/2013/0508/c4122a54931/page.htm
+    url: https://cies.hhu.edu.cn
+  - name: 河海大学人工智能学院
+    url: https://ai.hhu.edu.cn/
 education:
   courses:
     - year: 2015

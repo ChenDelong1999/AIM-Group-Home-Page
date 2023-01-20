@@ -7,8 +7,8 @@ title: "Self-Supervised Music Motion Synchronization Learning for Music-Driven C
 authors:
 - 刘凡
 - 陈德龙
-- Ruizhi Zhou
-- Sai Yang
+- 周睿志
+- 杨赛
 - Feng Xu
 
 # Author notes (optional)

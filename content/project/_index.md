@@ -6,7 +6,7 @@ view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: '叠翠山'
+  caption: '江宁校区图书馆新馆'
   image: 'background/hohai_green.jpg'
 
 ---

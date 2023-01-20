@@ -18,6 +18,11 @@ social:
     icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/zewenli1998/
+  - display:
+      header: false
+    link: zewenli@cmu.edu
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: 计算机科学与技术专业 学士

@@ -1,8 +1,8 @@
 ---
 title: 姚亮
-role: 硕士研究生
+role: 2022级硕士研究生
 avatar_filename: avatar.jpg
-bio: 2022级
+bio: 2022级硕士研究生
 interests:
   - 无人机视角多模态目标检测
   - 人脸检测与识别
@@ -17,6 +17,11 @@ social:
     link: https://yaoliang.netlify.app/
     icon_pack: fas
     icon: user
+  - display:
+      header: false
+    link: liangyao@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: Hohai University
     url: https://www.hhu.edu.cn/

@@ -2,7 +2,7 @@
 title: 姚亮
 role: 硕士研究生
 avatar_filename: avatar.jpg
-bio: 姚亮个人简介
+bio: 2022级
 interests:
   - 无人机视角多模态目标检测
   - 人脸检测与识别

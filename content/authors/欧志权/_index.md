@@ -1,8 +1,8 @@
 ---
 title: 欧志权
-role: 本科生
+role: 2020级软件工程专业本科生
 avatar_filename: avatar.jpg
-bio: 2020级软件工程专业
+bio: 2020级软件工程专业本科生
 interests:
   - 人脸识别
   - 目标检测与识别
@@ -13,6 +13,11 @@ social:
     link: https://github.com/Ledgero
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: 2006050138@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 email: 2006050138@hhu.edu.cn
 superuser: false
 user_groups:

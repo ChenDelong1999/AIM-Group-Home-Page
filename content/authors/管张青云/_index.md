@@ -1,10 +1,16 @@
 ---
 title: 管张青云
-role: 硕士研究生
+role: 2022级硕士研究生
 avatar_filename: avatar.jpg
+bio: 2022级硕士研究生
 interests:
   - 遥感图像文本检索
-social: []
+social:
+  - display:
+      header: false
+    link: guanzhangqingyun@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 education:
   courses: []
 email: guanzhangqingyun@hhu.edu.cn

@@ -11,6 +11,7 @@ education:
     - course: 计算机科学与技术 学士
       institution: 陕西科技大学
       year: 2024
+email: caiwenwen@hhu.edu.cn
 superuser: false
 user_groups:
   - 硕士研究生

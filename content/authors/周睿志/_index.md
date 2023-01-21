@@ -1,7 +1,7 @@
 ---
 title: 周睿志
 role: 2019级本科生（保送西北工业大学）
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 bio: 已毕业学生
 interests:
   - 深度学习

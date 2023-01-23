@@ -5,7 +5,12 @@ avatar_filename: avatar.jpg
 bio: 2023级研究生
 interests:
   - 多模态图像融合
-social: []
+social:
+  - display:
+      header: false
+    link: 2576723077@qq.com
+    icon_pack: fas
+    icon: envelope
 email: 2576723077@qq.com
 superuser: false
 user_groups:

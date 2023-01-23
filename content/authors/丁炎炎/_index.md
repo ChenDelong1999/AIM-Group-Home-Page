@@ -6,7 +6,12 @@ bio: 2021级硕士研究生
 interests:
   - 无人机目标检测
   - 人机混合决策
-social: []
+social:
+  - display:
+      header: false
+    link: 3148293831@qq.com
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: 医学信息工程

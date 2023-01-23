@@ -6,7 +6,12 @@ bio: 2022级硕士研究生
 interests:
   - 多模态动作生成
   - 时间序列建模
-social: []
+social:
+  - display:
+      header: false
+    link: xinhe@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - institution: 江西师范大学计算机信息工程学院

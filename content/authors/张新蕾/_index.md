@@ -5,7 +5,12 @@ avatar_filename: avatar.jpg
 bio: 2023级硕士
 interests:
   - 无人机视角下目标检测
-social: []
+social:
+  - display:
+      header: false
+    link: 2548742654@qq.com
+    icon_pack: fas
+    icon: envelope
 email: 2548742654@qq.com
 superuser: false
 user_groups:

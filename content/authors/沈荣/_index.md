@@ -1,6 +1,6 @@
 ---
 title: 沈荣
-role: 硕士研究生
+role: 2021级硕士研究生
 avatar_filename: avatar.jpg
 bio: 硕士研究生
 interests:

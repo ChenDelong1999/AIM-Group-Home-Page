@@ -1,7 +1,7 @@
 ---
 title: 潘艳玲
 role: 2019级本科生（保送浙江大学）
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 bio: 2019级本科生（保送浙江大学）
 interests:
   - 时间序列预测

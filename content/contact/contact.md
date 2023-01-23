@@ -17,15 +17,13 @@ content:
 
   email: fanliu@hhu.edu.cn
   address:
-    street: 佛城西路8号河海大学江宁校区
-    city: 南京
-    region: 江苏
+    region: 江苏省南京市佛城西路8号河海大学江宁校区，勤学楼
     country: 中国
     country_code: CN
   coordinates:
     latitude: '31.9153229'
     longitude: '118.7830478'
-  directions: 勤学楼
+  directions:
   # office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'

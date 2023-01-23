@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: 'HH-AI Lab, 河海人工智能实验室, 2023'
+    notice: 'AIM Lab, 多模态人工智能实验室, 2023'
     license:
       enable: false
       allow_derivatives: false

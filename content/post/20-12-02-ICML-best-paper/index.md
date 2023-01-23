@@ -1,5 +1,5 @@
 ---
-title: 河海人工智能实验室（HH-AI Lab）主页正式上线！
+title: 多模态人工智能实验室（AIM Lab）主页正式上线！
 date: 2023-01-19
 summary: ""
 authors:

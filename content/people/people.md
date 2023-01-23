@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: HH-AI Lab 实验室成员
+title: AIM Lab 实验室成员
 subtitle:
 
 content:

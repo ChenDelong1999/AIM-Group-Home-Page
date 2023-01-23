@@ -23,12 +23,12 @@ design:
 
 ## 2023
 
-- **2023-01-22** 新春快乐！HH-AI 实验室正式启用新版官方主页（域名 http://hh-ai-lab.cn ）！
+- **2023-01-22** 新春快乐！AIM 实验室正式启用新版官方主页（域名 http://AIM-lab.cn ）！
 <br/><br/>
 
 ## 2022
 
-- **2022-11-29**  HH-AI 实验室开始使用 [语雀](https://www.yuque.com/) 平台满一周年！在本年度中，HH-AI 实验室成员共分享了近800篇文档，其中包括150+篇论文的精读笔记、4门在线课程的学习笔记、以及500余篇周进展汇报！
+- **2022-11-29**  AIM 实验室开始使用 [语雀](https://www.yuque.com/) 平台满一周年！在本年度中，AIM 实验室成员共分享了近800篇文档，其中包括150+篇论文的精读笔记、4门在线课程的学习笔记、以及500余篇周进展汇报！
 <br/><br/>
 
 - **2022-09-01** 欢迎 2022 级硕士研究生新生
@@ -41,7 +41,7 @@ design:
 [贺鑫](author/贺鑫/), 
 [陈宁](author/陈宁/), 
 [唐成](author/唐成/)
-  加入 HH-AI 实验室！
+  加入 AIM 实验室！
 <br/><br/>
 
 - **2022-07-08** 我们关于深度单样本人脸识别的综述论文 ["Deep Learning Based Single Sample Per Person Face Recognition: A Survey"](publication/aire2022deep/) 现已经发表在 SCI 期刊 Artificial Intelligence Review （JCR Q1，中科院2区，影响因子9.588），恭喜 [陈德龙（本科生）](author/陈德龙/)，[王菲](author/王菲/)！

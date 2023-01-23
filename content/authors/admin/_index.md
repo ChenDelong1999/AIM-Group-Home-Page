@@ -1,12 +1,12 @@
 ---
 # Display name
-title: HH-AI Lab
+title: AIM Lab
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: "**H**o**h**ai **A**rtificial **I**ntelligence **Lab**oratory"
+role: " **A**rtificial **I**ntelligence of **M**ulti-modality **Lab**oratory"
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ user_groups:
   
 ---
   
-人工智能作为一项能够引领未来的战略性赋能技术，正在驱动着新一轮科技革命和产业变革。河海人工智能实验室（Hohai Artificial Intelligence Laboratory, HH-AI Lab）负责人为河海大学计算机与信息学院[刘凡教授](author/刘凡/) ，主要关注计算机视觉、机器学习、模式识别等人工智能领域关键课题的研究。同时，HH-AI 实验室依托河海大学特色优势，围绕“人工智能+智慧水利”交叉研究，基于计算机科学与水利、土木、海洋、现代农业等传统优势学科交叉融合，促进水利行业从信息化向智能化的发展转变。目前，HH-AI实验室的研究方向主要集中在但不限于以下几个方面：
+人工智能作为一项能够引领未来的战略性赋能技术，正在驱动着新一轮科技革命和产业变革。多模态人工智能实验室（Artificial Intelligence of Multi-modality Laboratory, AIM Lab）负责人为河海大学计算机与信息学院[刘凡教授](author/刘凡/) ，主要关注计算机视觉、机器学习、模式识别等人工智能领域关键课题的研究。同时，AIM 实验室依托河海大学特色优势，围绕“人工智能+智慧水利”交叉研究，基于计算机科学与水利、土木、海洋、现代农业等传统优势学科交叉融合，促进水利行业从信息化向智能化的发展转变。目前，AIM 实验室的研究方向主要集中在但不限于以下几个方面：
 
 - 单样本多模态人脸识别与分析
 - 视觉-语言大规模多模态预训练
@@ -69,4 +69,4 @@ user_groups:
 
 ---
 
-实验室每年招收硕士/博士研究生，对HH-AI实验室研究方向感兴趣的同学欢迎发送个人简历至 fanliu@hhu.edu.cn， 简要介绍相关经历并陈述研究兴趣。同时，HH-AI实验室欢迎优秀河海大学在读本科生加入，实验室培养的往届本科生去向包括赴卡内基梅隆大学，香港科技大学，浙江大学等高校深造，或供职于华为、百度、京东、阿里、旷视等科技企业。
+实验室每年招收硕士/博士研究生，对 AIM 实验室研究方向感兴趣的同学欢迎发送个人简历至 fanliu@hhu.edu.cn， 简要介绍相关经历并陈述研究兴趣。同时，AIM 实验室欢迎优秀河海大学在读本科生加入，实验室培养的往届本科生去向包括赴卡内基梅隆大学，香港科技大学，浙江大学等高校深造，或供职于华为、百度、京东、阿里、旷视等科技企业。

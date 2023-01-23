@@ -1,6 +1,6 @@
 ---
 title: 李非凡
-role: 硕士研究生
+role: 2020级硕士研究生
 avatar_filename: avatar
 interests:
   - 小样本图像分类

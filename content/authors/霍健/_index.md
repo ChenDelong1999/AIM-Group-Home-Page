@@ -1,6 +1,6 @@
 ---
 title: 霍健
-role: 硕士研究生
+role: 2023级硕士研究生
 avatar_filename: avatar.jpg
 bio: 2023级研究生
 interests:

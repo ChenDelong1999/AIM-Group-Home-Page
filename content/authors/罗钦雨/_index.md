@@ -7,7 +7,12 @@ interests:
   - 强化学习
   - 多模态
   - NLP
-social: []
+social:
+  - display:
+      header: false
+    link: qinyu_luo@163.com
+    icon_pack: fas
+    icon: envelope
 education:
   courses: []
 email: qinyu_luo@163.com

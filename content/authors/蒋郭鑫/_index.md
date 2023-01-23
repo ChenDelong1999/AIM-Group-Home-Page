@@ -12,6 +12,11 @@ social:
     link: https://github.com/Ares123-123
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: 17366014826@163.com
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: 计算机科学与技术 学士

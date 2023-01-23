@@ -5,12 +5,18 @@ avatar_filename: avatar.jpg
 bio: 2022级硕士研究生
 interests:
   - 遥感图像自监督学习
-social: []
+social:
+  - display:
+      header: false
+    link: zhujiale@hhu.edu.cn
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - institution: 河海大学计算机与信息学院
       course: 计算机科学与技术 学士
       year: 2022
+email: zhujiale@hhu.edu.cn
 superuser: false
 user_groups:
   - 硕士研究生

@@ -1,6 +1,6 @@
 ---
 title: 欧志权
-role: 2020级软件工程专业本科生
+role: 2020级本科生
 avatar_filename: avatar.jpg
 bio: 2020级软件工程专业本科生
 interests:

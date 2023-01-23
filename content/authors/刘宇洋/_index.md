@@ -1,6 +1,6 @@
 ---
 title: 刘宇洋
-role: 本科生
+role: 2020级本科生
 avatar_filename: avatar.jpg
 bio: 2020级计算机科学与技术专业
 interests:

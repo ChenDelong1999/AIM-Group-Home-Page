@@ -4,7 +4,12 @@ role: 2023级硕士研究生
 avatar_filename: avatar.jpg
 interests:
   - 目标检测
-social: []
+social:
+  - display:
+      header: false
+    link: wuting_1023@163.com
+    icon_pack: fas
+    icon: envelope
 email: wuting_1023@163.com
 superuser: false
 user_groups:

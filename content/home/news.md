@@ -50,7 +50,7 @@ design:
 - **2022-06-29**. [陈德龙](author/陈德龙/)的河海大学优秀本科毕业论文《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》现已被评为[江苏省优秀毕业论文一等奖](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html)，恭喜！
 <br/><br/>
 
-- **2022-06-23** 我们关于大规模视觉-语言预训练的论文 ["ProtoCLIP: Prototypical Contrastive Language Image Pretraining"](publication/arxiv2022prototypical/) 的 [预印本](https://arxiv.org/abs/2206.10996) and [开源代码](https://github.com/megvii-research/protoclip) 现已公开。我们开发了一种基于原型聚类的高效视觉-语言预训练方法 ProtoCLIP，在 ImageNet 线性评估于零样本预测任务上分别相较 CLIP 提升 +5.81% 和 +2.01% 准确率，在1400万样本数据集上的大规模实验表明，ProtoCLIP能够以缩短4倍训练时间的条件下达到与 CLIP 相似的性能。
+- **2022-06-23** 我们关于大规模视觉-语言预训练的论文 ["ProtoCLIP: Prototypical Contrastive Language Image Pretraining"](publication/arxiv2022prototypical/) 的 [预印本](https://arxiv.org/abs/2206.10996) 和 [开源代码](https://github.com/megvii-research/protoclip) 现已公开。我们开发了一种基于原型聚类的高效视觉-语言预训练方法 ProtoCLIP，在 ImageNet 线性评估于零样本预测任务上分别相较 CLIP 提升 +5.81% 和 +2.01% 准确率，在1400万样本数据集上的大规模实验表明，ProtoCLIP能够以缩短4倍训练时间的条件下达到与 CLIP 相似的性能。
 <br/><br/>
 
 - **2022-03-10** 论文 ["Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation"](publication/jcst2022self/) 现已被 CCF-B 类期刊 Journal of Computer Science and Technology (计算机科学与技术学报) 录用！论文构建的 ConductorMotion100 数据集现已于 [江苏省计算机学会](https://www.jscs.org.cn/x1.php?id=770) 主办的 [首届国际“远见杯”元智能数据挑战大赛](http://prospective.tocenet.org/) 中作为动作认知赛道赛题公开[(赛题主页)](https://github.com/ChenDelong1999/VirtualConductor/tree/main/ProspectiveCup)。

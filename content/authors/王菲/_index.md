@@ -5,8 +5,14 @@ avatar_filename: avatar.jpg
 bio: 2020级硕士研究生
 interests:
   - 单样本人脸识别
-social: []
+social:
+  - display:
+      header: false
+    link: wangfei64218@163.com
+    icon_pack: fas
+    icon: envelope
 superuser: false
 user_groups:
   - 硕士研究生
 ---
+目前就读于河海大学，计算机科学与技术专业研究生，主要研究方向为模式识别，单样本人脸识别

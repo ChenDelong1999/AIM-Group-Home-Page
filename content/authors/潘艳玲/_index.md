@@ -18,6 +18,11 @@ social:
     link: https://github.com/yanling-pan
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=485kJdIAAAAJ&hl=zh-CN
+    icon: google-scholar
+    icon_pack: ai
 superuser: false
 user_groups:
   - 已毕业学生

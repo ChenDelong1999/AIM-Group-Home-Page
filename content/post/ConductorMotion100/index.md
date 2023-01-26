@@ -4,11 +4,6 @@ date: 2022-03-10
 summary: "we collect and construct a large scale conducting motion dataset. Based on advanced object detection and pose estimation techniques, we efficiently extract conducting motion data from online video sources. The constructed dataset, named ConductorMotion100, has 100 hours of conducting motion data and aligned Mel spectrograms. Its scale significantly exceeds that of existing conducting motion datasets."
 authors:
   - admin
-  - 刘凡
-  - 陈德龙
-  - 周睿志
-  - Sai Yang
-  - Feng Xu
 image:
   focal_point: top
 projects:

@@ -4,10 +4,6 @@ date: 2022-03-10
 summary: "we collect a video dataset of 17 drivers containing fatigue state or non-fatigue state, where the videos of fatigue state is collected when the drivers have sufficient sleeping, while non-fatigue state videos are collected under sleep deprivation condition. Each video lasts about 100 seconds. We use a 300-frame sliding-window and a stride of 5 frames to collect training and testing samples. Each sample consists of 300 video frames and a label indicating the corresponding fatigue state. The samples are divided into a training set and a testing set whose sizes are respectively 13,402 and 7,332."
 authors:
   - admin
-  - 刘凡
-  - 陈德龙
-  - Jun Zhou
-  - Feng Xu
 image:
   focal_point: top
 ---

@@ -4,11 +4,6 @@ date: 2021-08-21
 summary: "We construct a large-scale Multi-modal E-commerce Products classification dataset MEP-3M, which consists of over 3 million products and 599 fine-grained product categories. Each product is represented with an image-text pair and annotated with hierarchical labels."
 authors:
   - admin
-  - 刘凡
-  - 陈德龙
-  - Xiaoyu Du
-  - Ruizhuo Gao
-  - Feng Xu
 image:
   focal_point: top
 ---

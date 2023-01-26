@@ -25,7 +25,7 @@ education:
     - year: 2015
       institution: 南京理工大学
       course: 计算机应用技术 博士
-    - year: 2015
+    - year: 2019
       institution: 南京理工大学
       course: 网络工程 学士
 email: fanliu@hhu.edu.cn

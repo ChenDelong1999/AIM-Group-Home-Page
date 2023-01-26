@@ -1,6 +1,5 @@
 ---
 weight: 10
-
 design:
   columns: "1"
   css_style: null

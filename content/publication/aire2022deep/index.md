@@ -32,11 +32,11 @@ url_pdf: publication/aire2022deep/Deep Learning Based Single Sample Per Person
 publication_types:
   - "2"
 authors:
-  - 刘凡
-  - 陈德龙
-  - 王菲
-  - 李泽文
-  - 许峰
+  - Fan Liu
+  - Delong Chen
+  - Fei Wang
+  - Zewen Li
+  - Feng Xu
 publication: Artificial Intelligence Review
 featured: true
 tags:

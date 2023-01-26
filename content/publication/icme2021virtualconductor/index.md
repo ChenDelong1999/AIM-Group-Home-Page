@@ -14,10 +14,10 @@ url_pdf: publication/icme2021virtualconductor/VirtualConductor_Music_driven_Cond
 publication_types:
   - "1"
 authors:
-  - 陈德龙
-  - 刘凡
-  - 李泽文
-  - 许峰
+  - Delong Chen
+  - Fan Liu
+  - Zewen Li
+  - Feng Xu
 publication: In *IEEE International Conference on Multimedia and Expo (ICME)
   2021, demo track*. [[ArXiv]](https://arxiv.org/abs/2108.04350)
 featured: true

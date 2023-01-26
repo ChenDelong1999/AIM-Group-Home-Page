@@ -1,15 +1,16 @@
 ---
 # Display name
-title: AIM Lab
+title: AIM Group
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: "**A**rtificial **I**ntelligence of **M**ulti-modality **Lab**oratory"
+role: "**A**rtificial **I**ntelligence of **M**ulti-modality **Group**"
 
 # Organizations/Affiliations
 organizations:
+  - name: 多模态人工智能实验室
   - name: 河海大学计算机与信息学院
     url: 'https://cies.hhu.edu.cn/main.psp'
   - name: 河海大学人工智能学院
@@ -56,7 +57,7 @@ user_groups:
   
 ---
   
-人工智能作为一项能够引领未来的战略性赋能技术，正在驱动着新一轮科技革命和产业变革。多模态人工智能实验室（Artificial Intelligence of Multi-modality Laboratory, AIM Lab）负责人为河海大学计算机与信息学院[刘凡教授](author/刘凡/) ，主要关注计算机视觉、机器学习、模式识别、多模态深度学习等人工智能领域关键课题的研究。同时，AIM 实验室依托河海大学特色优势，围绕“人工智能+智慧水利”交叉研究，基于计算机科学与水利、土木、海洋、现代农业等传统优势学科交叉融合，促进水利行业从信息化向智能化的发展转变。目前，AIM 实验室的研究方向主要集中在但不限于以下几个方面：
+人工智能作为一项能够引领未来的战略性赋能技术，正在驱动着新一轮科技革命和产业变革。多模态人工智能实验室（Artificial Intelligence of Multi-modality Group, AIM Group）负责人为河海大学计算机与信息学院 [刘凡教授](author/刘凡/) ，主要关注计算机视觉、机器学习、模式识别、多模态深度学习等人工智能领域关键课题的研究。同时，AIM 实验室依托河海大学特色优势，围绕“人工智能+智慧水利”交叉研究，基于计算机科学与水利、土木、海洋、现代农业等传统优势学科交叉融合，促进水利行业从信息化向智能化的发展转变。目前，AIM 实验室的研究方向主要集中在但不限于以下几个方面：
 
 - 单样本多模态人脸识别与分析
 - 视觉-语言大规模多模态预训练

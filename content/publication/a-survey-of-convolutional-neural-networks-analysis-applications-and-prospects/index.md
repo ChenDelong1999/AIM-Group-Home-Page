@@ -4,11 +4,11 @@ title: "A Survey of Convolutional Neural Networks: Analysis, Applications, and
 publication_types:
   - "2"
 authors:
-  - 李泽文
-  - 刘凡
-  - 杨文杰
-  - 彭守恒
-  - 周俊
+  - Zewen Li
+  - Fan Liu
+  - Wenjie Yang
+  - Shouheng Peng
+  - Jun Zhou
 doi: https://doi.org/10.1109/TNNLS.2021.3084827
 publication: IEEE Transactions on Neural Networks and Learning Systems
 publication_short: IEEE Trans. Neural Networks Learn. Syst.

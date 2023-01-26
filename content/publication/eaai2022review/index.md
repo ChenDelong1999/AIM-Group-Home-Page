@@ -22,10 +22,10 @@ url_pdf: publication/eaai2022review/A review of driver fatigue detection and its
 publication_types:
   - "2"
 authors:
-  - 刘凡
-  - 陈德龙
-  - 周俊
-  - 许峰
+  - Fan Liu
+  - Delong Chen
+  - Jun Zhou
+  - Feng Xu
 publication: In [*Engineering Applications of Artificial
   Intelligence*](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence0),
   2022. [[doi]](https://doi.org/10.1016/j.engappai.2022.105399)

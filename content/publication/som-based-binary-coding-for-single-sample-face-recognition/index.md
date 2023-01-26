@@ -3,10 +3,10 @@ title: SOM-based binary coding for single sample face recognition
 publication_types:
   - "2"
 authors:
-  - 刘凡
-  - 王菲
+  - Fan Liu
+  - Fei Wang
   - Yuhua Ding
-  - 杨赛
+  - Sai Yang
 doi: https://doi.org/10.1007/s12652-021-03255-0
 publication: Journal of Ambient Intelligence and Humanized Computing
 publication_short: " J. Ambient Intell. Humaniz. Comput."

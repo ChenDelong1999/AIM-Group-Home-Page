@@ -24,10 +24,10 @@ url_pdf: publication/arxiv2022simple/A_Simple_Baseline_for_Adversarial_Domain_Ad
 publication_types:
   - "3"
 authors:
-  - 陈德龙
-  - 周睿志
-  - 潘艳玲
-  - 刘凡
+  - Delong Chen
+  - Ruizhi Zhou
+  - Yanling Pan
+  - Fan Liu
 publication: Technical Report. [[ArXiv]](https://arxiv.org/abs/2206.08105)
 featured: true
 tags:

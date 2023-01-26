@@ -7,20 +7,17 @@ main:
   - name: 主页
     url:
     weight: 10
-  - name: 成员
-    url: people
-    weight: 20
-  - name: 课程
-    url: courses
+#  - name: 成员
+#    url: people
+#    weight: 20
+  - name: 代表性成果
+    url: publication
     weight: 30
   - name: 数据集
     url: post
     weight: 40
-#  - name: 科研项目
-#    url: project
-#    weight: 50
-  - name: 论文成果
-    url: publication
+  - name: 课程
+    url: courses
     weight: 60
   - name: 联系我们
     url: contact

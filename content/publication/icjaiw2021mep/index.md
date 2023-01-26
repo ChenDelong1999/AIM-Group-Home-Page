@@ -20,11 +20,11 @@ url_pdf: publication/icjaiw2021mep/MEP_3M__A_Large_scale_Multi_modal_E_Commerce_
 publication_types:
   - "1"
 authors:
-  - 陈德龙
-  - 刘凡
+  - Delong Chen
+  - Fan Liu
   - Xiaoyu Du
-  - 高瑞琢
-  - 许峰
+  - Ruizhuo Gao
+  - Feng Xu
 publication: In *IJCAI 2021 Workshop on Long-Tailed Distribution Learning
   ([LTDL@IJCAI'21](https://ltdl-ijcai21.github.io/))*
 featured: true

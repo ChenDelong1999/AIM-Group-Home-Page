@@ -6,7 +6,7 @@ design:
   css_class: null
   background:
     image: 'background/red_blue.jpg'
-    image_darken: 0
+    image_darken: 0.8
     image_parallax: false
     image_position: center
     image_size: cover
@@ -14,5 +14,5 @@ design:
   spacing:
     padding: ['30px', '0', '30px', '0']
 ---
-# Artificial Intelligence of Multi-modality Laboratory (AIM Lab)
+# Artificial Intelligence of Multi-modality Group (AIM Group)
 ## 多模态人工智能实验室

@@ -25,9 +25,9 @@ url_pdf: publication/arxiv2022prototypical/prototypical_contrastive_language_ima
 publication_types:
   - "3"
 authors:
-  - 陈德龙
-  - 吴曌
-  - 刘凡
+  - Delong Chen
+  - Zhao Wu
+  - Fan Liu
   - Zaiquan Yang
   - Yixiang Huang
   - Yiping Bao

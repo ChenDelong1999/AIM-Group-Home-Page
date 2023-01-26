@@ -2,7 +2,7 @@
 title: 课程
 
 # Listing view
-view: compact
+view: 4
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

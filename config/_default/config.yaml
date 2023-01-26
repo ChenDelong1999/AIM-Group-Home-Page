@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: AIM Lab # Website name
+title: AIM Group # Website name
 baseURL: 'https://aim-lab.netlify.app/' # Website URL
 
 ############################

@@ -19,11 +19,11 @@ url_pdf: publication/mmsj2022asym/asymmetric_exponential_loss_function_for_crack
 publication_types:
   - "2"
 authors:
-  - 刘凡
-  - 王君峰
-  - 陈德龙
-  - 沈春梅
-  - 许峰
+  - Fan Liu
+  - Junfeng Wang
+  - Delong Chen
+  - Chunmei Shen
+  - Feng Xu
 publication: Accepted by [*Multimedia
   Systems*](https://www.springer.com/journal/530) <br/>
   https://doi.org/10.1007/s00530-022-00944-4

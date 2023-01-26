@@ -5,10 +5,10 @@ title: "Self-Supervised Music Motion Synchronization Learning for Music-Driven C
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- 刘凡
-- 陈德龙
-- 周睿志
-- 杨赛
+- Fan Liu
+- Delong Chen
+- Ruizhi Zhou
+- Sai Yang
 - Feng Xu
 
 # Author notes (optional)
@@ -62,7 +62,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- 音乐驱动的乐队指挥动作生成
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -75,8 +75,4 @@ slides: ""
 
 {{% callout note %}}
 A competition is hold with the ConductorMotion100 dataset proposed in this paper. See [[here]](https://github.com/ChenDelong1999/VirtualConductor) for more details
-{{% /callout %}}
-
-{{% callout note %}}
-Delong Chen is the corresponding author.
 {{% /callout %}}

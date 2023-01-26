@@ -20,11 +20,11 @@ url_pdf: publication/bdai2021significant/Significant_Wave_Height_Prediction_base
 publication_types:
   - "1"
 authors:
-  - 陈德龙
-  - 刘凡
+  - Delong Chen
+  - Fan Liu
   - Zheqi Zhang
-  - 陆小敏
-  - 李泽文
+  - Xiaomin Lu
+  - Zewen Li
 publication: In Proceeding of *2021 IEEE 4th International Conference on Big
   Data and Artificial Intelligence (BDAI)*.
   [[doi]](https://doi.org/10.1109/BDAI52447.2021.9515293)  [[ArXiv]](https://arxiv.org/abs/2107.09483)

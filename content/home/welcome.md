@@ -5,7 +5,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: 'background/red_blue.jpg'
+    image: 'red_blue.jpg'
     image_darken: 0.8
     image_parallax: false
     image_position: center

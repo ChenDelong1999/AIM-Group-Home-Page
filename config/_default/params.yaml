@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
-  font: native
+  theme_night: dark
+  font: classic
   font_size: S
 
 # SEO
@@ -37,17 +37,17 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: 'AIM Lab, 多模态人工智能实验室, 2023'
+    notice: 'AIM Group, 多模态人工智能实验室, 2023'
     license:
       enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -114,3 +114,5 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+show_related: true

@@ -3,7 +3,7 @@ title: 代表性成果
 
 view: Compact
 banner:
-  caption: 逸夫图书馆
+  caption: 江宁校区逸夫图书馆
   image: background/hohai_purple2.jpg
 
 publication_types:

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: AIM Group # Website name
-baseURL: 'https://aim-lab.netlify.app/' # Website URL
+baseURL: 'https://multimodality.group/' # Website URL
 
 ############################
 ## LANGUAGE

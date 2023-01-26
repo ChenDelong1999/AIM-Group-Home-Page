@@ -76,10 +76,7 @@ design:
 - Kun Xie, Dong Lei, Wenkang Du, Pengxiang Bai, Feipeng Zhu, [Fan Liu](author/刘凡/). [**The monitoring of bridge under complex illumination based on digital image technology**](https://www.sciencedirect.com/science/article/pii/S0263224122014154). Measurement, 2023 (SCI, JCR一区, IF: 5.131).
 - 国家发明专利：**一种基于迁移学习的大坝图像裂缝检测方法**. 专利号: 201810972498.6.
 - 国家发明专利：**一种基于U-net网络和SC-SAM注意力机制的大坝裂缝检测方法**. 专利号: 202011049216.9.
-- 国家发明专利：**基于特征组合与CNN的大坝缺陷识别与分类方法**. 专利号: 201810598156.2.
-- 国家发明专利：**基于DS优化多指标大坝缺陷图像检测方法**. 专利号: 201810475284.8
 - 国家发明专利：**基于多迁移学习模型融合的大坝裂缝检测方法**. 专利号: 201910845138.4
-- 国家发明专利：**一种基于Faster R-CNN参数迁移的裂缝图像检测方法**. 专利号: 201910398515.4
 - 国家发明专利：**基于背景与目标先验的多尺度扩散显著目标检测方法**. 专利号: 201810243956.2.
 
 ### ▶ 音乐驱动的乐队指挥动作生成

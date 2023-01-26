@@ -8,4 +8,5 @@ view: compact
 banner:
   caption: '致高楼'
   image: 'background/hohai_yellow.jpg'
+
 ---

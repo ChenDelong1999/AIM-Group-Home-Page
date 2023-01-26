@@ -17,12 +17,12 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018-06-01T13:00:00Z'
-date_end: '2018-06-01T15:00:00Z'
+date:
+date_end:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate:
 
 authors: [刘凡]
 tags: []

@@ -39,7 +39,7 @@ design:
 - **2022-06** 我们的论文 ["ProtoCLIP: Prototypical Contrastive Language Image Pretraining"](publication/arxiv2022prototypical/) 的 [预印本](https://arxiv.org/abs/2206.10996) 和 [开源代码](https://github.com/megvii-research/protoclip) 现已公开。我们设计一种基于原型聚类的高效视觉-语言大规模预训练方法 ProtoCLIP，在 ImageNet 线性评估与零样本预测任务上分别相较 CLIP 提升 +5.81% 和 +2.01% 准确率，在1400万样本数据集上的大规模实验表明，ProtoCLIP 能够以缩短4倍训练时间的条件下达到与 CLIP 相近的性能！
 <br/><br/>
 
-- **2022-03** 论文 ["Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation"](publication/jcst2022self/) 现已被 CCF-B 类期刊 Journal of Computer Science and Technology (计算机科学与技术学报) 录用！论文构建的 [ConductorMotion100 数据集](post/conductormotion100/) 现已于 [江苏省计算机学会](https://www.jscs.org.cn/x1.php?id=770) 主办的 [首届国际“远见杯”元智能数据挑战大赛](http://prospective.tocenet.org/) 中作为动作认知赛道赛题公开[(赛题主页)](https://github.com/ChenDelong1999/VirtualConductor/tree/main/ProspectiveCup)。
+- **2022-03** 论文 ["Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation"](publication/jcst2022self/) 现已被 CCF-B 类期刊 Journal of Computer Science and Technology (计算机科学与技术学报) 录用！论文构建的 [ConductorMotion100 数据集](post/conductormotion100/) 现已于 [江苏省计算机学会](https://www.jscs.org.cn/x1.php?id=770) 主办的 [首届国际“远见杯”元智能数据挑战大赛](http://prospective.tocenet.org/) 中作为动作认知赛道赛题公开 [（赛题主页）](https://github.com/ChenDelong1999/VirtualConductor/tree/main/ProspectiveCup) 。
 <br/><br/>
 
 

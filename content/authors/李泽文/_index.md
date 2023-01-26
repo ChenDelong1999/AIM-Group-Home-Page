@@ -20,7 +20,7 @@ social:
     link: https://www.linkedin.com/in/zewenli1998/
   - display:
       header: false
-    link: zewenli@cmu.edu
+    link: mailto:zewenli@cmu.edu
     icon_pack: fas
     icon: envelope
 education:

@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: hhuczy@yeah.net
+    link: mailto:hhuczy@yeah.net
     icon_pack: fas
     icon: envelope
 education:

@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: root19980729@yeah.net
+    link: mailto:root19980729@yeah.net
     icon_pack: fas
     icon: envelope
 education:

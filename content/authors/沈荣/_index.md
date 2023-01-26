@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    link: 211607010062@hhu.edu.cn
+    link: mailto:211607010062@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 email: 211607010062@hhu.edu.cn

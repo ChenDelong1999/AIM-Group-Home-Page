@@ -10,7 +10,7 @@ interests:
 social:
   - display:
       header: false
-    link: zhouruizhi@hhu.edu.cn
+    link: mailto:zhouruizhi@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 email: zhouruizhi@hhu.edu.cn

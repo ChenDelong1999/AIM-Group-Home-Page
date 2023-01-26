@@ -13,7 +13,7 @@ social:
     icon: github
   - display:
       header: false
-    link: scm@hhu.edu.cn
+    link: mailto:scm@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 email: scm@hhu.edu.cn

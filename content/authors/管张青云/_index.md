@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: guanzhangqingyun@hhu.edu.cn
+    link: mailto:guanzhangqingyun@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 education:

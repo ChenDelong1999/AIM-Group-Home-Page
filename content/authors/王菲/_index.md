@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: wangfei64218@163.com
+    link: mailto:wangfei64218@163.com
     icon_pack: fas
     icon: envelope
 superuser: false

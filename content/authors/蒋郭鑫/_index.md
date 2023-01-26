@@ -14,7 +14,7 @@ social:
     icon: github
   - display:
       header: false
-    link: 17366014826@163.com
+    link: mailto:17366014826@163.com
     icon_pack: fas
     icon: envelope
 education:

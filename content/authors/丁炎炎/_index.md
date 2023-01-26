@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    link: 3148293831@qq.com
+    link: mailto:3148293831@qq.com
     icon_pack: fas
     icon: envelope
 education:

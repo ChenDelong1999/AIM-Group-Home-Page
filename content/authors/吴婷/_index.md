@@ -7,7 +7,7 @@ interests:
 social:
   - display:
       header: false
-    link: wuting_1023@163.com
+    link: mailto:wuting_1023@163.com
     icon_pack: fas
     icon: envelope
 email: wuting_1023@163.com

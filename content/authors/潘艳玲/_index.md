@@ -10,7 +10,7 @@ interests:
 social:
   - display:
       header: false
-    link: yanling@hhu.edu.cn
+    link: mailto:yanling@hhu.edu.cn
     icon_pack: fas
     icon: envelope
   - display:

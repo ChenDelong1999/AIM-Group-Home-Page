@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: zhujiale@hhu.edu.cn
+    link: mailto:zhujiale@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 education:

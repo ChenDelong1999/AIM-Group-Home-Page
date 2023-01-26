@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: 3174969484@qq.com
+    link: mailto:3174969484@qq.com
     icon_pack: fas
     icon: envelope
 email: 3174969484@qq.com

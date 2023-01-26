@@ -14,7 +14,7 @@ social:
     icon: github
   - display:
       header: false
-    link: cn@hhu.edu.cn
+    link: mailto:cn@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 education:

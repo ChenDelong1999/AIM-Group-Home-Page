@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: 2576723077@qq.com
+    link: mailto:2576723077@qq.com
     icon_pack: fas
     icon: envelope
 email: 2576723077@qq.com

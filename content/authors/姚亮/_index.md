@@ -19,7 +19,7 @@ social:
     icon: user
   - display:
       header: false
-    link: liangyao@hhu.edu.cn
+    link: mailto:liangyao@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 organizations:

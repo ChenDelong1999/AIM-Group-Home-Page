@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    link: xinhe@hhu.edu.cn
+    link: mailto:xinhe@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 education:

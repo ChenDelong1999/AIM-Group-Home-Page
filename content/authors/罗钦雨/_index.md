@@ -10,7 +10,7 @@ interests:
 social:
   - display:
       header: false
-    link: qinyu_luo@163.com
+    link: mailto:qinyu_luo@163.com
     icon_pack: fas
     icon: envelope
 education:

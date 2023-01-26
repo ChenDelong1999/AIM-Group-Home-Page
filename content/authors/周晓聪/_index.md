@@ -13,7 +13,7 @@ social:
     icon: github
   - display:
       header: false
-    link: zhouxiaocong@hhu.edu.cn
+    link: mailto:zhouxiaocong@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 education:

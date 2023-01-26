@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: daiwenwen@hhu.edu.cn
+    link: mailto:daiwenwen@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 education:

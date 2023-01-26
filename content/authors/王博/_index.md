@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: 1040201707@qq.com
+    link: mailto:1040201707@qq.com
     icon_pack: fas
     icon: envelope
 email: 1040201707@qq.com

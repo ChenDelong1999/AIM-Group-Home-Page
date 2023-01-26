@@ -15,7 +15,7 @@ social:
     icon: github
   - display:
       header: false
-    link: 2006050138@hhu.edu.cn
+    link: mailto:2006050138@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 email: 2006050138@hhu.edu.cn

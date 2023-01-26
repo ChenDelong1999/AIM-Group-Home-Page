@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: 2548742654@qq.com
+    link: mailto:2548742654@qq.com
     icon_pack: fas
     icon: envelope
 email: 2548742654@qq.com

@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: tangcheng@hhu.edu.cn
+    link: mailto:tangcheng@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 superuser: false

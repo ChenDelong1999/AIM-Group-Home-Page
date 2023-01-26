@@ -14,7 +14,7 @@ social:
     icon: github
   - display:
       header: false
-    link: ztsupercarry@163.com
+    link: mailto:ztsupercarry@163.com
     icon_pack: fas
     icon: envelope
 education:

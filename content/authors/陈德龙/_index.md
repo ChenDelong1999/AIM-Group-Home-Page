@@ -25,6 +25,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E5%BE%B7%E9%BE%99-%E9%99%88-39685615b
+  - display:
+      header: false
+    link: mailto:hhuczy@yeah.net
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - year: 2022

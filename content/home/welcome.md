@@ -11,7 +11,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: background/red_blue.jpg
+    image: 'background/hohai_yellow.jpg'
     image_darken: 0
     image_parallax: false
     image_position: center

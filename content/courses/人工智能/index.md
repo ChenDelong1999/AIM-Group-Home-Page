@@ -2,7 +2,7 @@
 title: 人工智能
 
 event: Wowchemy Conference
-event_url: https://www.icourse163.org/course/preview/HHU-1463488170
+event_url:
 
 location: Wowchemy HQ
 address:

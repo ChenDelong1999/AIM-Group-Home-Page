@@ -65,5 +65,5 @@ design:
 <br /><br />
 
 
-- **2021-06** 我们关于跨模态行人重识别的论文 [”Global-Local Multiple Granularity Learning for Cross-Modality Visible-Infrared Person Reidentification”](https://ieeexplore.ieee.org/document/9457243) 已在 [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) （中科院一区Top期刊，影响因子:14.255）出版！
+- **2021-06** 我们关于跨模态行人重识别的论文 [“Global-Local Multiple Granularity Learning for Cross-Modality Visible-Infrared Person Reidentification”](https://ieeexplore.ieee.org/document/9457243) 已在 [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) （中科院一区Top期刊，影响因子:14.255）出版！
 <br /><br />

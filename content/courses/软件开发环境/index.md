@@ -1,5 +1,5 @@
 ---
-title: 软件开发环境
+title: 软件开发环境（本科生课程）
 
 event: Wowchemy Conference
 event_url: https://www.icourse163.org/course/preview/HHU-1463488170

@@ -1,5 +1,5 @@
 ---
-title: 人工智能应用与实践
+title: 人工智能应用与实践（研究生课程）
 
 event: Wowchemy Conference
 event_url:

@@ -1,5 +1,5 @@
 ---
-title: 人工智能
+title: 人工智能（本科生课程）
 
 event: Wowchemy Conference
 event_url:

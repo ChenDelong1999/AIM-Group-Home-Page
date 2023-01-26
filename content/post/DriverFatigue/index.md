@@ -12,6 +12,6 @@ we collect a video dataset of 17 drivers containing fatigue state or non-fatigue
 
 <!--more-->
 
-> [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/) (本科生), et al.  [**A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning**](../../publication/eaai2022review/). Engineering Applications of Artificial Intelligence, EAAI, 2022. (SCI, JCR一区, IF: 7.802).
+> Fan Liu*, Delong Chen (本科生), et al.  [**A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning**](../../publication/eaai2022review/). Engineering Applications of Artificial Intelligence, EAAI, 2022. (SCI, JCR一区, IF: 7.802).
 
 数据集主页： https://github.com/ChenDelong1999/DriverFatigueDetection

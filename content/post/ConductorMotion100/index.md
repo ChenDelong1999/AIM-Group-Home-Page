@@ -14,7 +14,7 @@ we collect and construct a large scale conducting motion dataset. Based on advan
 
 <!--more-->
 
-> [Fan Liu](author/刘凡/), [Delong Chen](author/陈德龙/) (本科生), [Ruizhi Zhou](author/周睿志/) (本科生), Sai Yang, Feng Xu. [**Self-Supervised Music-Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](../../publication/jcst2022self/). Journal of Computer Science and Technology (SCI, CCF-B类期刊).
+> Fan Liu, Delong Chen (本科生), Ruizhi Zhou (本科生), Sai Yang, Feng Xu. [**Self-Supervised Music-Motion Synchronization Learning for Music-Driven Conducting Motion Generation**](../../publication/jcst2022self/). Journal of Computer Science and Technology (SCI, CCF-B类期刊).
 
 
 数据集主页： https://github.com/ChenDelong1999/VirtualConductor

@@ -12,6 +12,6 @@ We construct a large-scale Multi-modal E-commerce Products classification datase
 
 <!--more-->
 
-> [Delong Chen](author/陈德龙/) (本科生), [Fan Liu](author/刘凡/)*, Xiaoyu Du, [Ruizhuo Gao](author/高瑞琢/), Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](../../publication/icjaiw2021mep/). IJCAI 2021 Workshop on Long-Tailed Distribution Learning (CCF-A类会议Workshop, Oral). [[数据集主页](https://github.com/ChenDelong1999/MEP-3M)][Best Dataset Paper Award]
+> Delong Chen (本科生), Fan Liu*, Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](../../publication/icjaiw2021mep/). IJCAI 2021 Workshop on Long-Tailed Distribution Learning (CCF-A类会议Workshop, Oral). [[数据集主页](https://github.com/ChenDelong1999/MEP-3M)][Best Dataset Paper Award]
 
 数据集主页： https://github.com/ChenDelong1999/MEP-3M

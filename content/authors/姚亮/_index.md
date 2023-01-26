@@ -39,12 +39,10 @@ user_groups:
 
 - - -
 
-在研课题：复杂背景下无人机多模态目标检测与跟踪关键技术研究；多场景典型目标轻量化感知技术；
+💨在研课题：复杂背景下无人机多模态目标检测与跟踪关键技术研究；多场景典型目标轻量化感知技术；
 
-完结课题：基于无人机的河道智能巡检系统；无人机视角下轻量型人脸检测与识别研究；
+💦完结课题：基于无人机的河道智能巡检系统；无人机视角下轻量型人脸检测与识别研究；
 
-开源项目：[基于决策融合的多模态目标检测方法](https://github.com/2436917927/ProbEn)，[基于密度聚类的样本筛选](https://github.com/2436917927/Data-Augmentation-Sample-Selection)
+⭐开源项目：[基于决策融合的多模态目标检测方法](https://github.com/2436917927/ProbEn)，[基于密度聚类的样本筛选](https://github.com/2436917927/Data-Augmentation-Sample-Selection)
 
-github协作组：[无人机目标检测组](https://github.com/UAVDetectionGroup)
-
-{{< icon name="envelope" pack="fas" >}} Email: liangyao@hhu.edu.cn
+🌐github协作组：[无人机目标检测组](https://github.com/UAVDetectionGroup)

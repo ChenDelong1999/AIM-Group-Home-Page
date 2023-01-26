@@ -10,12 +10,6 @@ social:
   - icon: house-user
     icon_pack: fa
     link: https://cies.hhu.edu.cn/2013/0508/c4122a54931/page.htm
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Fan-Liu-79
-  - icon: dblp
-    icon_pack: ai
-    link: https://dblp.org/pid/56/2849-3.html
   - display:
       header: false
     link: mailto:fanliu@hhu.edu.cn

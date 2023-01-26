@@ -2,7 +2,7 @@
 title: 人工智能应用与实践
 
 event: Wowchemy Conference
-event_url: https://www.icourse163.org/course/preview/HHU-1463488170
+event_url:
 
 location: Wowchemy HQ
 address:
@@ -22,7 +22,7 @@ date_end:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate:
 
 authors: [刘凡]
 tags: []

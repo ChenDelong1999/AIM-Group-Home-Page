@@ -1,5 +1,5 @@
 ---
-title: 实验室动态
+title: 数据集
 
 # Listing view
 view: compact
@@ -9,5 +9,6 @@ banner:
   caption: '逸夫图书馆'
   image: 'background/hohai_purple.jpg'
 
+---
 ---
 <br/>

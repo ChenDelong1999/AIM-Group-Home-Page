@@ -50,4 +50,4 @@ design:
   columns: '2'
 ---
 
-[comment]: <> (# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.)
+实验室每年招收硕士/博士研究生，对 AIM 实验室研究方向感兴趣的同学欢迎发送个人简历至 fanliu@hhu.edu.cn， 简要介绍相关经历并陈述研究兴趣。同时，AIM 实验室欢迎优秀河海大学在读本科生加入，实验室培养的往届本科生去向包括赴卡内基梅隆大学，香港科技大学，浙江大学等高校深造，或供职于华为、百度、京东、阿里、旷视等科技企业。

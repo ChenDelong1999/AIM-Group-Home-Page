@@ -10,3 +10,5 @@ banner:
   image: 'background/hohai_yellow.jpg'
 
 ---
+---
+<br/>

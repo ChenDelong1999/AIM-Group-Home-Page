@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: AIM Lab 实验室成员
-subtitle:
+title: 多模态人工智能实验室
+subtitle: Artificial Intelligence of Multi-modality Laboratory
 
 content:
   # Choose which groups/teams of users to display.

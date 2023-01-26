@@ -10,11 +10,11 @@ main:
   - name: 成员
     url: people
     weight: 20
-  - name: 动态
-    url: post
-    weight: 30
   - name: 课程
     url: courses
+    weight: 30
+  - name: 数据集
+    url: post
     weight: 40
 #  - name: 科研项目
 #    url: project

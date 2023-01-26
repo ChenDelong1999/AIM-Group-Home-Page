@@ -6,7 +6,7 @@ title: AIM Lab
 superuser: true
 
 # Role/position
-role: "**A**rtificial **I**ntelligence of **M**ulti-modality **Lab**oratory<br/><br/>"
+role: "**A**rtificial **I**ntelligence of **M**ulti-modality **Lab**oratory"
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
     url: 'https://ai.hhu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 河海人工智能实验室
+bio: 多模态人工智能实验室
 
 
 # Social/Academic Networking

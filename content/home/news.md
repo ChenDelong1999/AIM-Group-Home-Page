@@ -1,24 +1,13 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: RECENT-POSTS
 headless: true
-
-# Order that this section appears on the page.
 weight: 30
-
-title: "实验室动态"
-subtitle: "News"
-
-
+title: 实验室动态
+subtitle: News
+active: true
 design:
-  columns: '2'
-
+  columns: "2"
 ---
 
 ## 2023
@@ -41,7 +30,7 @@ design:
 - **2022-07** 我们关于深度单样本人脸识别的综述论文 ["Deep Learning Based Single Sample Per Person Face Recognition: A Survey"](publication/aire2022deep/) 现已经发表在 SCI 期刊 Artificial Intelligence Review （JCR Q1，中科院2区，影响因子9.588），恭喜 [陈德龙（本科生）](author/陈德龙/)，王菲！
 <br/><br/>
 
-- **2022-07** [刘凡](author/刘凡/)教授入选[江苏省青蓝工程优秀骨干教师](http://faculty.cumt.edu.cn/_tsf/00/11/zyU3MjQN32Qb.pdf)、 [江苏省科协青年科技人才托举工程](http://www.jskx.org.cn/web/artlist/820740)。
+- **2022-07** [刘凡](author/刘凡/)教授入选[江苏省青蓝工程优秀骨干教师](http://jyt.jiangsu.gov.cn/art/2022/5/23/art_58320_10458147.html)、 [江苏省科协青年科技人才托举工程](http://www.jskx.org.cn/web/artlist/820740)。
 <br/><br/>
 
 - **2022-06**. [陈德龙](author/陈德龙/)的河海大学优秀本科毕业论文《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》现已被评为[江苏省优秀毕业论文一等奖](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html)，恭喜！

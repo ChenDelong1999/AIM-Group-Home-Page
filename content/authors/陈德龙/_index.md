@@ -8,7 +8,7 @@ superuser: true
 authors:
   - 陈德龙
 title: 陈德龙
-role: 2017级本科生，AIM Lab 科研助理
+role: 2017级本科生（AIM Lab 科研助理）
 bio: 已毕业学生
 interests:
   - 视觉-语言多模态学习

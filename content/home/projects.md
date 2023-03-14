@@ -1,24 +1,13 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: RECENT-POSTS
 headless: true
-
-# Order that this section appears on the page.
 weight: 40
-
-title: "研究方向与主要成果"
-subtitle: "Research Areas and Outputs"
-
-
+title: 研究方向与主要成果
+subtitle: Research Areas and Outputs
+active: true
 design:
-  columns: '1'
-
+  columns: "1"
 ---
 
 ### ▶ 单样本多模态人脸识别与分析
@@ -45,6 +34,7 @@ design:
 
 ### ▶ 视觉-语言大规模多模态预训练
 
+- [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/), Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](post/mep-3m/). Pattern Recognition, 2023 (SCI, 中科院一区Top期刊, JCR一区, IF: 8.518).
 - [Delong Chen](author/陈德龙/) (本科生), [Fan Liu](author/刘凡/)*, Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset). IJCAI 2021 Workshop on Long-Tailed Distribution Learning (CCF-A类会议Workshop, Oral). [[数据集主页](https://github.com/ChenDelong1999/MEP-3M)][Best Dataset Paper Award]
 - [Delong Chen](author/陈德龙/), Zhao Wu, [Fan Liu](author/刘凡/)*, et al. [**ProtoCLIP: Prototypical Contrastive Language Image Pretraining**](https://arxiv.org/abs/2206.10996). ArXiv Pre-print, 2022. [[开源代码](https://github.com/megvii-research/protoclip)]
 - [Yanling Pan](author/潘艳玲/) (本科生), [Ruizhi Zhou](author/周睿志/) (本科生), Gang Zhao, [Weijuan Zhang](author/张伟娟/), [Delong Chen](author/陈德龙/), [Fan Liu](author/刘凡/)*. [**MDF-Net: Multimodal Deep Fusion for Large-Scale Product Recognition**](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_51). The 16th Chinese Conference on Biometric Recognition, Biometric Recognition, CCBR 2022.

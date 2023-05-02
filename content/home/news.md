@@ -11,7 +11,7 @@ design:
 ---
 ## 2023
 
-* **2023-04-20** 我们关于小样本图像识别的论文 “Few-shot Classification via Ensemble Learning with Multi-Order Statistics” 现已被CCF-A类会议IJCAI-23录用！
+* **2023-04-20** 我们关于小样本图像识别的论文 [“Few-shot Classification via Ensemble Learning with Multi-Order Statistics”](https://arxiv.org/abs/2305.00454) 现已被CCF-A类会议IJCAI-23录用！
   <br/><br/>
 * **2023-03-11** 我们关于大规模多模态电商数据集的论文“[MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002194)”被中科院1区TOP期刊 [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) 录用，恭喜[陈德龙](author/陈德龙)、高睿琢！ <br/><br/>
 * **2023-01-22** 新春快乐！AIM 实验室正式启用新版官方主页（域名 https://multimodality.group）！

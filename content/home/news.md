@@ -11,8 +11,8 @@ design:
 ---
 ## 2023
 
-*﻿ **2023-06-04** 恭喜欧志权，严旻茜，刘宇洋，刘亦凡，丁洋洋团队参加第十四届中国大学生服务外包创新创业大赛（安全人脸识别认证系统赛题）获得国家三等奖！
-  <br/><br/>
+*  **2023-06-04** 恭喜欧志权，严旻茜，刘宇洋，刘亦凡，丁洋洋团队参加第十四届中国大学生服务外包创新创业大赛（安全人脸识别认证系统赛题）获得国家三等奖！
+    <br/><br/>
 * **2023-04-20** 我们关于小样本图像识别的论文 [“Few-shot Classification via Ensemble Learning with Multi-Order Statistics”](https://arxiv.org/abs/2305.00454) 现已被CCF-A类会议IJCAI-23录用！
   <br/><br/>
 * **2023-03-11** 我们关于大规模多模态电商数据集的论文“[MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002194)”被中科院1区TOP期刊 [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) 录用，恭喜[陈德龙](author/陈德龙)、高睿琢！ <br/><br/>

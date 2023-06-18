@@ -51,6 +51,9 @@ design:
 - 开发水文时间序列预测公开代码库：**HH💦Forecasting: a codebase for data-driven hydrological time-series forecasting**. [[开源代码](https://github.com/ChenDelong1999/HHForecasting)]
 
 ### ▶ 视觉小样本学习
+
+- 张天舒，刘凡，陈德龙，管张青云，蔡雯雯，周晓聪. 多模态大模型小样本迁移方法研究进展综述》. 2023中国多媒体大会（ChinaMM）.
+
 - Sai Yang, [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/), Jun Zhou. [**Few-shot Classification via Ensemble Learning with Multi-Order Statistics**](https://arxiv.org/abs/2305.00454)**.** IJCAI-23, 2022 (CCF-A).
 
 - [Fan Liu](author/刘凡/), Feifan Li, Sai Yang. [**Few‐shot classification using Gaussianisation prototypical classifier**](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12129)**.** IET Computer Vision, 2022 (SCI).

@@ -13,6 +13,8 @@ design:
 
 *  **2023-06-04** 恭喜欧志权，严旻茜，刘宇洋，刘亦凡，丁洋洋团队参加 [第十四届中国大学生服务外包创新创业大赛](http://fwwb.org.cn/) (安全人脸识别认证系统赛题）获得国家三等奖！
     <br/><br/>
+*  **2023-05-29** 我们的论文《多模态大模型小样本迁移方法研究进展综述》已被 [2023中国多媒体大会（ChinaMM）](https://conf.ccf.org.cn/web/api/m1049400089711349760167023807829.action) 录用。恭喜张天舒、陈德龙、管张青云、蔡雯雯、周晓聪！
+    <br/><br/>
 * **2023-04-20** 我们关于小样本图像识别的论文 [“Few-shot Classification via Ensemble Learning with Multi-Order Statistics”](https://arxiv.org/abs/2305.00454) 现已被CCF-A类会议IJCAI-23录用！
   <br/><br/>
 * **2023-03-11** 我们关于大规模多模态电商数据集的论文“[MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002194)”被中科院1区TOP期刊 [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) 录用，恭喜[陈德龙](author/陈德龙)、高睿琢！ <br/><br/>

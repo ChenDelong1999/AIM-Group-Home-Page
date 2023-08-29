@@ -16,7 +16,7 @@ design:
     <br/><br/>
 *  **2023-08-25** 论文“基于动态频域分解的乐队指挥动作生成”已被《计算机应用研究》期刊录用，恭喜贺鑫，周睿志！
     <br/><br/>
-*  **2023-08-21** 我们关于小样本图像识别的论文“Few-shot Classification Guided by Generalization Error Bound”已被 Pattern Recognition (中科院1区TOP) 录用
+*  **2023-08-21** 我们关于小样本图像识别的论文“[Few-shot Classification Guided by Generalization Error Bound](https://www.sciencedirect.com/science/article/pii/S0031320323006027)”已被 Pattern Recognition (中科院1区TOP) 录用
     <br/><br/>
 *  **2023-07-19** 我们关于小样本图像识别的论文“JLCSR: Joint Learning of Compactness and Separability Representation for Few-shot Classification”已被 IEEE Transactions on Cognitive and Developmental Systems 录用。
     <br/><br/>

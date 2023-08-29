@@ -10,7 +10,15 @@ design:
   columns: "2"
 ---
 ## 2023
-*  **2023-07-19** 我们关于小样本图像识别的论文 “JLCSR: Joint Learning of Compactness and Separability Representation for Few-shot Classification” 已被 IEEE Transactions on Cognitive and Developmental Systems 录用。
+
+
+*  **2023-08-29** 论文“基于结构光和CT的背部点云配准算法研究”已被《激光与光电子学进展》期刊录用，恭喜沈春梅！
+    <br/><br/>
+*  **2023-08-25** 论文“基于动态频域分解的乐队指挥动作生成”已被《计算机应用研究》期刊录用，恭喜贺鑫，周睿志！
+    <br/><br/>
+*  **2023-08-21** 我们关于小样本图像识别的论文“Few-shot Classification Guided by Generalization Error Bound”已被 Pattern Recognition (中科院1区TOP) 录用
+    <br/><br/>
+*  **2023-07-19** 我们关于小样本图像识别的论文“JLCSR: Joint Learning of Compactness and Separability Representation for Few-shot Classification”已被 IEEE Transactions on Cognitive and Developmental Systems 录用。
     <br/><br/>
 *  **2023-06-19** 我们构建了首个面向遥感场景的通用视觉-语言基础模型 RemoteCLIP。通过将多源异构的数据标注统一为以自然语言为中心的图像语义描述，我们将预训练数据集扩充至现有数据的12倍。在遥感图文检索评测中，RemoteCLIP 在 RSICD 数据集和 RSICD 数据集上大幅领先现有最佳方法（+9.14%，+8.92%），在12个下游数据集的零样本识别任务上，RemoteCLIP 的准确率超过基线方法 6.39%。论文的 [arxiv 预印本](https://arxiv.org/abs/2306.11029) 现已公开。
     <br/><br/>

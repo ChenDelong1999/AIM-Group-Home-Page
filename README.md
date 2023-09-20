@@ -4,6 +4,8 @@
 > 河海大学多模态人工智能实验室
 > 
 > https://multimodality.group/
+>
+> https://app.netlify.com/sites/aim-lab/overview
 
 ---
 

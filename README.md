@@ -1,6 +1,9 @@
-# 河海人工智能实验室（HH-AI Lab）主页
-
-https://hh-ai.netlify.app/
+# AIM Group Homepage
+> Artificial Intelligence of Multi-modality Group at Hohai University
+> 
+> 河海大学多模态人工智能实验室
+> 
+> https://multimodality.group/
 
 ---
 

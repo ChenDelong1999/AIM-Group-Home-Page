@@ -11,7 +11,8 @@ design:
 ---
 ## 2023
 
-
+*  **2023-10-01** 中华人民共和国生日快乐！我们关于单样本人脸识别的论文"Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation"已被[第十七届中国生物特征识别大会（CCBR2023）](https://ccbr99.cn/) 录用。恭喜姚亮、欧志权、王菲！
+    <br/><br/>
 *  **2023-08-29** 论文“基于结构光和CT的背部点云配准算法研究”已被《激光与光电子学进展》期刊录用，恭喜沈春梅！
     <br/><br/>
 *  **2023-08-25** 论文“基于动态频域分解的乐队指挥动作生成”已被《计算机应用研究》期刊录用，恭喜贺鑫，周睿志！

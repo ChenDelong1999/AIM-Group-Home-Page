@@ -89,16 +89,16 @@ design:
 - 国家发明专利：**一种基于自监督跨模态感知损失的乐队指挥动作生成方法**. 专利号 202111090024.7
 
     ### ▶ 教学成果简介
-| 时间 | 成果名称 | 奖项名称 | 获奖等级与本人排名 | 授奖部门 |
-| --- | --- | --- | --- | --- |
+| 时间 | 成果名称 | 奖项名称 | 获奖等级 | 授奖部门 |
+|:---: |:---: |:---: |:---: |:---: |
 | 2022 | 基于动态频域分解与自监督跨模态感知的乐队指挥动作生成 | 江苏省本科优秀毕业设计论文指导教师 | 一等奖 | 江苏省教育厅 |
 | 2022 | 请求转发与重定向 | 江苏省高校微课教学比赛 | 三等奖 | 江苏省教育厅 |
 | 2017 | Servlet工作原理 | 江苏省高校微课教学比赛 | 二等奖 | 江苏省教育厅 |
 | 2022 | JSP基础入门（微课视频版） | 国家级实验教学示范中心计算机学科组“十四五”规划教材 | 规划教材 | 国家级实验教学示范中心计算机学科组、清华大学计算机科学与技术系 |
 | 2022 | 漫话微信小程序开发与实战（微课视频+题库版）|国家级实验教学示范中心计算机学科组规划教材| 规划教材 | 国家级实验教学示范中心计算机学科组、清华大学计算机科学与技术系|
-| 2021 | VirtualConductor: Music-driven Conducting Video Generation System | 	IEEE ICME 2021最佳Demo论文奖| 最佳Demo论文奖，本科生一作| IEEE ICME 2021|  
-| 2021 | MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset| IJCAI 2021 LTDL 最佳Dataset论文奖| 最佳Dataset论文奖，本科生一作| IJCAI 2021 LTDL | 
-| 2021 | Significant Wave Height Prediction based on Wavelet Graph Neural Network| IEEE BDAI 2021 最佳Presentation论文奖| 最佳Presentation论文奖，本科生一作	| IEEE BDAI 2021 | 
+| 2021 | VirtualConductor: Music-driven Conducting Video Generation System | 	IEEE ICME 2021最佳Demo论文奖| 最佳Demo论文奖| IEEE ICME 2021|  
+| 2021 | MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset| IJCAI 2021 LTDL 最佳Dataset论文奖| 最佳Dataset论文奖| IJCAI 2021 LTDL | 
+| 2021 | Significant Wave Height Prediction based on Wavelet Graph Neural Network| IEEE BDAI 2021 最佳Presentation论文奖| 最佳Presentation论文奖	| IEEE BDAI 2021 | 
 | 2021 | 河海大学优秀毕业设计指导教师 | 河海大学优秀毕业设计指导教师 | 优秀 | 河海大学 |
 | 2020 | 河海大学优秀毕业设计指导教师 | 河海大学优秀毕业设计指导教师 | 优秀 | 河海大学 |
 | 2018 | 河海大学优秀毕业设计指导教师 | 河海大学优秀毕业设计指导教师 | 优秀 | 河海大学 |

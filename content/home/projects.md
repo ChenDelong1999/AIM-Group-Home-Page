@@ -34,7 +34,9 @@ design:
 
 ### ▶ 视觉-语言大规模多模态预训练
 
-- [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/), Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002194). Pattern Recognition, 2023 (SCI, 中科院一区Top期刊, JCR一区, IF: 8.518).
+- [Fan Liu](author/刘凡/)
+*, [Delong Chen](author/陈德龙/)
+, Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002194). Pattern Recognition, 2023 (SCI, 中科院一区Top期刊, JCR一区, IF: 8.518).
 - [Delong Chen](author/陈德龙/) (本科生), [Fan Liu](author/刘凡/)*, Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset). IJCAI 2021 Workshop on Long-Tailed Distribution Learning (CCF-A类会议Workshop, Oral). [[数据集主页](https://github.com/ChenDelong1999/MEP-3M)][Best Dataset Paper Award]
 - [Delong Chen](author/陈德龙/), Zhao Wu, [Fan Liu](author/刘凡/)*, et al. [**ProtoCLIP: Prototypical Contrastive Language Image Pretraining**](https://arxiv.org/abs/2206.10996). ArXiv Pre-print, 2022. [[开源代码](https://github.com/megvii-research/protoclip)]
 - [Yanling Pan](author/潘艳玲/) (本科生), [Ruizhi Zhou](author/周睿志/) (本科生), Gang Zhao, [Weijuan Zhang](author/张伟娟/), [Delong Chen](author/陈德龙/), [Fan Liu](author/刘凡/)*. [**MDF-Net: Multimodal Deep Fusion for Large-Scale Product Recognition**](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_51). The 16th Chinese Conference on Biometric Recognition, Biometric Recognition, CCBR 2022.
@@ -85,4 +87,48 @@ design:
 - [**首届国际“远见杯”元智能数据挑战大赛**](https://www.jscs.org.cn/x1.php?id=770)（江苏省计算机学会主办），动作认知赛道：音乐驱动的指挥动作生成. [[赛题主页](https://github.com/ChenDelong1999/VirtualConductor/tree/main/ProspectiveCup)]
 - 国家发明专利：**基于动态频域分解的音乐驱动的指挥动作生成方法**. 专利号: 202111090067.5
 - 国家发明专利：**一种基于自监督跨模态感知损失的乐队指挥动作生成方法**. 专利号 202111090024.7
+
+    ### ▶ 教学成果简介
+| 获奖时间 | 成果名称 | 奖项名称 | 获奖等级与本人排名 | 授奖部门 |
+| --- | --- | --- | --- | --- |
+| 2022 | 基于动态频域分解与自监督跨模态感知的乐队指挥动作生成 | 江苏省本科优秀毕业设计论文指导教师 | 一等奖 | 江苏省教育厅 |
+| 2022 | 请求转发与重定向 | 江苏省高校微课教学比赛 | 三等奖 | 江苏省教育厅 |
+| 2017 | Servlet工作原理 | 江苏省高校微课教学比赛 | 二等奖 | 江苏省教育厅 |
+| 2022 | JSP基础入门（微课视频版） | 国家级实验教学示范中心计算机学科组“十四五”规划教材 | 规划教材 | 国家级实验教学示范中心计算机学科组、清华大学计算机科学与技术系 |
+| 2022 | 漫话微信小程序开发与实战（微课视频+题库版）|国家级实验教学示范中心计算机学科组规划教材| 规划教材 | 国家级实验教学示范中心计算机学科组、清华大学计算机科学与技术系|
+| 2021 | VirtualConductor: Music-driven Conducting Video Generation System | 	IEEE ICME 2021最佳Demo论文奖| 最佳Demo论文奖，本科生一作| IEEE ICME 2021|  
+| 2021 | MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset| IJCAI 2021 LTDL 最佳Dataset论文奖| 最佳Dataset论文奖，本科生一作| IJCAI 2021 LTDL | 
+| 2021 | Significant Wave Height Prediction based on Wavelet Graph Neural Network| IEEE BDAI 2021 最佳Presentation论文奖| 最佳Presentation论文奖，本科生一作	| IEEE BDAI 2021 | 
+| 2021 | 河海大学优秀毕业设计指导教师 | 河海大学优秀毕业设计指导教师 | 优秀 | 河海大学 |
+| 2020 | 河海大学优秀毕业设计指导教师 | 河海大学优秀毕业设计指导教师 | 优秀 | 河海大学 |
+| 2018 | 河海大学优秀毕业设计指导教师 | 河海大学优秀毕业设计指导教师 | 优秀 | 河海大学 |
+| 2018 | 河海大学优秀班导师 | 河海大学优秀班导师 | 优秀 | 河海大学 |
+| 2017 | 河海大学优秀班导师 | 河海大学优秀班导师 | 优秀 | 河海大学 |
+| 2023 | 安全人脸识别认证系统 | 中国大学生服务外包创新创业大赛指导教师 | 国家级比赛，三等奖 | 中国大学生服务外包创新创业大赛组委会 |
+| 2021 | 基于非特定类别的图像前景主体分割算法 | 中国大学生服务外包创新创业大赛指导教师 | 国家级比赛，三等奖 | 中国大学生服务外包创新创业大赛组委会 |
+| 2018 | 验证码识别（浪潮集团） | 中国大学生服务外包创新创业大赛指导教师 | 国家级比赛，二等奖 | 中国大学生服务外包创新创业大赛组委会 |
+| 2018 | 验证码识别（浪潮集团） | 中国大学生服务外包创新创业大赛指导教师 | 国家级比赛，三等奖 | 中国大学生服务外包创新创业大赛组委会 |
+| 2017 | 随手快递APP平台 | 中国大学生服务外包创新创业大赛指导教师 | 国家级比赛，三等奖 | 中国大学生服务外包创新创业大赛组委会 |
+| 2022 | OpenSesame— 一款人脸识别门禁系统 | “中国软件杯”大学生软件设计大赛指导教师 | 国家级比赛，三等奖 | “中国软件杯”大学生软件设计大赛组委会 |
+| 2020 | 视频全量目标分析和建模 | “中国软件杯”大学生软件设计大赛指导教师 | 国家级比赛，三等奖 | “中国软件杯”大学生软件设计大赛组委会 |
+| 2018 | 基于人工智能及机器视觉的安全帽提取及分析 | “中国软件杯”大学生软件设计大赛指导教师 | 国家级比赛，三等奖 | “中国软件杯”大学生软件设计大赛组委会 |
+| 2016 | 基于人脸识别的商业大数据分析技术 | “中国软件杯”大学生软件设计大赛指导教师 | 国家级比赛，三等奖 | “中国软件杯”大学生软件设计大赛组委会 |
+| 2018 | “绅手”APP平台系统 | “中国软件杯”双创大赛指导教师 | 国家级比赛，三等奖 | “中国软件杯”双创大赛组委会 |
+| 2021 | 全自动无人机河道巡检 | ICAN国际创新创业大赛江苏赛区指导教师 | 省级比赛，三等奖 | ICAN国际创新创业大赛中国组委会 |
+| 2021 | 农业有害生物智能识别系统 | ICAN国际创新创业大赛江苏赛区指导教师 | 省级比赛，三等奖 | ICAN国际创新创业大赛中国组委会 |
+| 2019 | 基于边缘智能的学生听课状态监测系统 | ICAN国际创新创业大赛江苏赛区指导教师 | 省级比赛，三等奖 | ICAN国际创新创业大赛中国组委会 |
+| 2019 | 公共地点人流量云监管 | ICAN国际创新创业大赛江苏赛区指导教师 | 省级比赛，三等奖 | ICAN国际创新创业大赛中国组委会 |
+| 2020 | SmartClass | 2020移动应用创新赛华东赛区指导教师 | 省级比赛，三等奖 | 全国高等学校计算机教育研究会 |
+| 2023 | 基于计算机视觉的排球比赛计分和分析系统 | 河海大学大学生创新创业训练计划项目 | 校级，优秀 | 河海大学 |
+| 2022 | 基于姿态估计的家禽行为分析与精准养殖 | 河海大学大学生创新创业训练计划项目 | 校级，优秀 | 河海大学 |
+| 2022 | 基于知识图谱的家禽疾病自动诊断 | 河海大学大学生创新创业训练计划项目 | 校级，优秀 | 河海大学 |
+| 2021 | 基于大数据的在线教育智能分析系统 | 河海大学大学生创新创业训练计划项目 | 国家级，优秀 | 河海大学 |
+| 2021 | 基于深度学习的无人机视角下的人脸识别 | 河海大学大学生创新创业训练计划项目 | 校级，优秀 | 河海大学 |
+| 2020 | 基于微信小程序的智能评教系统 | 河海大学大学生创新创业训练计划项目 | 校级，优秀 | 河海大学 |
+| 2020 | 基于跨年龄人脸识别的失踪人口匹配系统 | 河海大学大学生创新创业训练计划项目 | 国家级 | 河海大学 |
+| 2019 | 基于LSTM的城市用水预测 | 河海大学大学生创新创业训练计划项目 | 省级 | 河海大学 |
+| 2019 | “绅手”APP | 河海大学大学生创新创业训练计划项目 | 校级 | 河海大学 |
+| 2018 | 基于深度学习的疲劳驾驶检测 | 河海大学大学生创新创业训练计划项目 | 省级 | 河海大学 |
+| 2018 | 基于众包模式的监控大数据分析系统 | 河海大学大学生创新创业训练计划项目 | 校级 | 河海大学 |
+| 2017 | 基于人脸识别的商业大数据分析系统软件 | 河海大学大学生创新创业训练计划项目 | 校级 | 河海大学 |
 

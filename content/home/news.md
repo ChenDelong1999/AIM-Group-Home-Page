@@ -10,6 +10,8 @@ design:
   columns: "2"
 ---
 ## 2023
+*  **2023-11-08** 我们关于大规模多模态预训练的工作“ProtoCLIP: Prototypical Contrastive Language Image Pretraining”被 [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) （中科院一区Top期刊） 录用！我们设计了一种基于原型聚类的高效视觉-语言预训练方法 ProtoCLIP，在 ImageNet 线性评估与零样本预测任务上分别相较 CLIP 提升 +5.81% 和 +2.01% 准确率，在1400万样本数据集上的大规模实验表明，ProtoCLIP 能够以缩短3倍训练时间的条件下达到与 CLIP 相近的性能。论文[预印本](https://arxiv.org/abs/2206.10996) 和 [代码](https://github.com/megvii-research/protoclip) 已公开发布。
+    <br/><br/>
 *  **2023-11-01** 刘凡教授获2023年江苏省高等学校微课教学比赛一等奖
     <br/><br/>
 *  **2023-10-01** 我们关于单样本人脸识别的论文"Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation"已被[第十七届中国生物特征识别大会（CCBR2023）](https://ccbr99.cn/) 录用。恭喜姚亮、欧志权、王菲！
@@ -47,8 +49,6 @@ design:
 * **2022-07** 刘凡教授入选[江苏省青蓝工程优秀骨干教师](http://jyt.jiangsu.gov.cn/art/2022/5/23/art_58320_10458147.html)、 [江苏省科协青年科技人才托举工程](http://www.jskx.org.cn/web/artlist/820740)。
   <br/><br/>
 * **2022-06**. [陈德龙](author/陈德龙/)的河海大学优秀本科毕业论文《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》现已被评为[江苏省优秀毕业论文一等奖](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html)，恭喜！
-  <br/><br/>
-* **2022-06** 我们的论文 ["ProtoCLIP: Prototypical Contrastive Language Image Pretraining"](publication/arxiv2022prototypical/) 的 [预印本](https://arxiv.org/abs/2206.10996) 和 [开源代码](https://github.com/megvii-research/protoclip) 现已公开。我们设计一种基于原型聚类的高效视觉-语言大规模预训练方法 ProtoCLIP，在 ImageNet 线性评估与零样本预测任务上分别相较 CLIP 提升 +5.81% 和 +2.01% 准确率，在1400万样本数据集上的大规模实验表明，ProtoCLIP 能够以缩短4倍训练时间的条件下达到与 CLIP 相近的性能！
   <br/><br/>
 * **2022-03** 论文 ["Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation"](publication/jcst2022self/) 现已被 CCF-B 类期刊 Journal of Computer Science and Technology (计算机科学与技术学报) 录用！论文构建的 [ConductorMotion100 数据集](post/conductormotion100/) 现已于 [江苏省计算机学会](https://www.jscs.org.cn/x1.php?id=770) 主办的 [首届国际“远见杯”元智能数据挑战大赛](http://prospective.tocenet.org/) 中作为动作认知赛道赛题公开 [（赛题主页）](https://github.com/ChenDelong1999/VirtualConductor/tree/main/ProspectiveCup) 。
   <br/><br/>

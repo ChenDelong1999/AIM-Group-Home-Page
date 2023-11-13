@@ -34,7 +34,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-### ▶ 教学成果简介
 | 时间 | 成果名称 | 奖项名称 | 获奖等级 | 授奖部门 |
 |:---: |:---: |:---: |:---: |:---: |
 | 2022 | 基于动态频域分解与自监督跨模态感知的乐队指挥动作生成 | 江苏省本科优秀毕业设计论文指导教师 | 一等奖 | 江苏省教育厅 |

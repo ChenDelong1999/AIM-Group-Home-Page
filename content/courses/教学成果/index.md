@@ -34,6 +34,28 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
+
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+
+---
+
 | 时间 | 成果名称 | 奖项名称 | 获奖等级 | 授奖部门 |
 |:---: |:---: |:---: |:---: |:---: |
 | 2022 | 基于动态频域分解与自监督跨模态感知的乐队指挥动作生成 | 江苏省本科优秀毕业设计论文指导教师 | 一等奖 | 江苏省教育厅 |
@@ -77,26 +99,5 @@ image:
 | 2018 | 基于深度学习的疲劳驾驶检测 | 河海大学大学生创新创业训练计划项目 | 省级 | 河海大学 |
 | 2018 | 基于众包模式的监控大数据分析系统 | 河海大学大学生创新创业训练计划项目 | 校级 | 河海大学 |
 | 2017 | 基于人脸识别的商业大数据分析系统软件 | 河海大学大学生创新创业训练计划项目 | 校级 | 河海大学 |
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-
----
 
 ---

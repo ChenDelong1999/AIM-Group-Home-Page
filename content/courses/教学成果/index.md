@@ -1,5 +1,5 @@
 ---
-title: 人工智能（本科生课程）
+title: 教学成果
 
 event: Wowchemy Conference
 event_url:
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: 本科生课程
+summary: 教学成果展示
 abstract: 'abstract'
 
 # Talk start and end times.

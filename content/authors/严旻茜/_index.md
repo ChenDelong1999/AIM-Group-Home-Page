@@ -20,6 +20,6 @@ social:
 email: minxiyan@hhu.edu.cn
 superuser: false
 user_groups:
-  - 本科生
+  - 已毕业学生
 ---
 河海大学2020级计算机科学与技术专业本科生，参与实验室洪水预报项目。

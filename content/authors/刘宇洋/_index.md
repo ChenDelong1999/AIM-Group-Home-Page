@@ -14,6 +14,6 @@ social:
 email: 3174969484@qq.com
 superuser: false
 user_groups:
-  - 本科生
+  - 已毕业学生
 ---
 参与实验室家禽疾病诊断项目

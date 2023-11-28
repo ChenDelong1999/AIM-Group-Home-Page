@@ -16,7 +16,10 @@ main:
   - name: 数据集
     url: post
     weight: 40
-  - name: 课程与教学成果
+  - name: 教学成果
+    url: achievements
+    weight: 50
+  - name: 课程
     url: courses
     weight: 60
   - name: 联系我们

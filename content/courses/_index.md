@@ -1,5 +1,5 @@
 ---
-title: 课程与教学成果
+title: 课程
 
 # Listing view
 view: 1

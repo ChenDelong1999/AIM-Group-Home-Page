@@ -13,6 +13,6 @@ social:
 email: 1362463176@qq.com
 superuser: false
 user_groups:
-  - 硕士研究生
+  - 已毕业学生
 ---
-小样本图像分类研三在读研究生
+小样本图像分类2020级研究生

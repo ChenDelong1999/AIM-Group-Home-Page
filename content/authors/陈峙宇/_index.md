@@ -19,6 +19,6 @@ education:
 email: hhuczy@yeah.net
 superuser: false
 user_groups:
-  - 硕士研究生
+  - 已毕业学生
 ---
 计算机视觉,小样本图像分类

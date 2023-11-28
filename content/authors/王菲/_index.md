@@ -13,6 +13,6 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - 硕士研究生
+  - 已毕业学生
 ---
 目前就读于河海大学，计算机科学与技术专业研究生，主要研究方向为模式识别，单样本人脸识别

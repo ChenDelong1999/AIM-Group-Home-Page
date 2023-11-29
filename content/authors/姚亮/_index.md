@@ -39,10 +39,11 @@ user_groups:
 
 - - -
 
-💨在研课题：复杂背景下无人机多模态目标检测与跟踪关键技术研究；多场景典型目标轻量化感知技术；
+💨在研课题：尺度不变特征解耦表示与对抗学习; 基于认知机理的侦察目标定位方法研究
 
-💦完结课题：基于无人机的河道智能巡检系统；无人机视角下轻量型人脸检测与识别研究；
+💦完结课题：平原水网地区水面漂浮植物的监测预警研究；无人机视角下轻量型人脸检测与识别研究；复杂背景下无人机多模态目标检测与跟踪关键技术研究；
 
-⭐开源项目：[基于决策融合的多模态目标检测方法](https://github.com/2436917927/ProbEn)，[基于密度聚类的样本筛选](https://github.com/2436917927/Data-Augmentation-Sample-Selection)
+⭐开源项目：[基于决策融合的多模态目标检测ProbDet](https://github.com/2436917927/ProbDet);
+[UAV-LODBoost:A User-Friendly Toolkit for UAV Light-weighting Object Detection](https://github.com/2436917927/UAV-LODBoost)
 
 🌐github协作组：[无人机目标检测组](https://github.com/UAVDetectionGroup)

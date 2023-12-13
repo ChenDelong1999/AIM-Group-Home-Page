@@ -14,7 +14,7 @@ design:
    <br/><br/>
 *  **2023-11-08** 我们关于大规模多模态预训练的工作“ProtoCLIP: Prototypical Contrastive Language Image Pretraining”被 [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) （中科院一区Top期刊） 录用！我们设计了一种基于原型聚类的高效视觉-语言预训练方法 ProtoCLIP，在 ImageNet 线性评估与零样本预测任务上分别相较 CLIP 提升 +5.81% 和 +2.01% 准确率，在1400万样本数据集上的大规模实验表明，ProtoCLIP 能够以缩短3倍训练时间的条件下达到与 CLIP 相近的性能。论文[预印本](https://arxiv.org/abs/2206.10996) 和 [代码](https://github.com/megvii-research/protoclip) 已公开发布。
     <br/><br/>
-*  **2023-11-05** 我们在第十一届全国大学生数字媒体科技作品及创意竞赛中获得了国家三等奖、江苏省三等奖，恭喜张颢骞、周道杰、崔金凤、蒋郭鑫、霍健团队以及徐圣翔、管张青云、高硕、高兴团队！
+*  **2023-11-05** 我们在[第十一届全国大学生数字媒体科技作品及创意竞赛](http://mit.caai.cn/) 中获得了国家三等奖、江苏省三等奖，恭喜张颢骞、周道杰、崔金凤、蒋郭鑫、霍健团队以及徐圣翔、管张青云、高硕、高兴团队！
    <br/><br/>
 *  **2023-11-01** 刘凡教授获2023年江苏省高等学校微课教学比赛一等奖
     <br/><br/>
@@ -24,7 +24,7 @@ design:
     <br/><br/>
 *  **2023-08-25** 论文“基于动态频域分解的乐队指挥动作生成”已被《计算机应用研究》期刊录用，恭喜贺鑫，周睿志！
     <br/><br/>
-*  **2023-08-21** 我们关于小样本图像识别的论文“[Few-shot Classification Guided by Generalization Error Bound](https://www.sciencedirect.com/science/article/pii/S0031320323006027)”已被 Pattern Recognition (中科院1区TOP) 录用
+*  **2023-08-21** 我们关于小样本图像识别的论文“[Few-shot Classification Guided by Generalization Error Bound](https://www.sciencedirect.com/science/article/pii/S0031320323006027) ”已被 Pattern Recognition (中科院1区TOP) 录用
     <br/><br/>
 *  **2023-07-19** 我们关于小样本图像识别的论文“JLCSR: Joint Learning of Compactness and Separability Representation for Few-shot Classification”已被 IEEE Transactions on Cognitive and Developmental Systems 录用。
     <br/><br/>

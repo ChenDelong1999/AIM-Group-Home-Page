@@ -10,11 +10,15 @@ design:
   columns: "2"
 ---
 ## 2023
+*  **2023-12-11** 我们的论文《A Survey of Convolutional Neural Network: Analysis, Applications, and Prospects》成功入选2023年江苏省自然科学百篇优秀学术成果论文！
+   <br/><br/>
 *  **2023-11-08** 我们关于大规模多模态预训练的工作“ProtoCLIP: Prototypical Contrastive Language Image Pretraining”被 [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) （中科院一区Top期刊） 录用！我们设计了一种基于原型聚类的高效视觉-语言预训练方法 ProtoCLIP，在 ImageNet 线性评估与零样本预测任务上分别相较 CLIP 提升 +5.81% 和 +2.01% 准确率，在1400万样本数据集上的大规模实验表明，ProtoCLIP 能够以缩短3倍训练时间的条件下达到与 CLIP 相近的性能。论文[预印本](https://arxiv.org/abs/2206.10996) 和 [代码](https://github.com/megvii-research/protoclip) 已公开发布。
     <br/><br/>
+*  **2023-11-05** 我们在第十一届全国大学生数字媒体科技作品及创意竞赛中获得了国家三等奖、江苏省三等奖，恭喜张颢骞、周道杰、崔金凤、蒋郭鑫、霍健团队以及徐圣翔、管张青云、高硕、高兴团队！
+   <br/><br/>
 *  **2023-11-01** 刘凡教授获2023年江苏省高等学校微课教学比赛一等奖
     <br/><br/>
-*  **2023-10-01** 我们关于单样本人脸识别的论文"Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation"已被[第十七届中国生物特征识别大会（CCBR2023）](https://ccbr99.cn/) 录用。恭喜姚亮、欧志权、王菲！
+*  **2023-10-01** 我们关于单样本人脸识别的论文"Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation"已被[第十七届中国生物特征识别大会（CCBR2023）](https://ccbr99.cn/) 录用。恭喜[姚亮](author/姚亮/)、[欧志权](author/欧志权/)、王菲！
     <br/><br/>
 *  **2023-08-29** 论文“基于结构光和CT的背部点云配准算法研究”已被《激光与光电子学进展》期刊录用，恭喜沈春梅！
     <br/><br/>

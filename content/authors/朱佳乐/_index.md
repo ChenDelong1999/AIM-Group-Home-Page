@@ -19,6 +19,6 @@ education:
 email: zhujiale@hhu.edu.cn
 superuser: false
 user_groups:
-  - 硕士研究生
+  - 2022级硕士研究生
 ---
 2018年9月至2022年6月就读于河海大学计算机与信息学院计算机科学与技术专业。本科期间获得河海大学优秀青年志愿者称号、学业进步奖学金等荣誉。

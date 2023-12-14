@@ -19,6 +19,6 @@ education:
 email: caiwenwen@hhu.edu.cn
 superuser: false
 user_groups:
-  - 硕士研究生
+  - 2022级硕士研究生
 ---
 2022年陕西省优秀毕业生

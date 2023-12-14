@@ -20,6 +20,6 @@ education:
 email: xinhe@hhu.edu.cn
 superuser: false
 user_groups:
-  - 硕士研究生
+  - 2022级硕士研究生
 ---
 2022江西省优秀毕业生，获得两次省级奖项

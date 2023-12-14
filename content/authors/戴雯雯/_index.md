@@ -19,6 +19,6 @@ education:
 email: daiwenwen@hhu.edu.cn
 superuser: false
 user_groups:
-  - 硕士研究生
+  - 2022级硕士研究生
 ---
 多次获得”学业优秀奖学金“、”精神文明奖学金“等奖学金；获得”优秀共青团员“、”优秀学生干部“等荣誉称号；参与发表核心期刊论文一篇、SCI论文一篇、会议论文一篇。

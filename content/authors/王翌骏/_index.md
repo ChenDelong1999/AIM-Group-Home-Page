@@ -22,7 +22,7 @@ education:
 email: wyj2425924636@163.com
 superuser: true
 user_groups:
-  - 硕士研究生
+  - 2024级硕士研究生
 
 ---
 

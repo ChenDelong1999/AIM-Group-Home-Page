@@ -10,7 +10,7 @@ design:
   columns: "2"
 ---
 ## 2023
-*  **2023-12-13** 恭喜[姚亮](author/姚亮/)、[吴婷](author/吴婷/)、[霍健](author/霍健/)团队在[第五届全球校园人工智能算法精英大赛全国总决赛](https://www.saikr.com/vse/48030) 中获得一等奖！恭喜徐圣翔、高兴、姚亮团队获得一等奖！恭喜[贺鑫](author/贺鑫/)、[朱佳乐](author/朱佳乐/)、[陈宁](author/陈宁/)团队获得二等奖！恭喜沈逸骏、孙昊、[管张青云](author/管张青云/)团队获得二等奖！
+*  **2023-12-13** 我们在[第五届全球校园人工智能算法精英大赛全国总决赛](https://www.saikr.com/vse/48030) 中获得了好成绩！恭喜[姚亮](author/姚亮/)、[吴婷](author/吴婷/)、[霍健](author/霍健/)团队获得一等奖！恭喜徐圣翔、高兴、姚亮团队获得一等奖！恭喜[贺鑫](author/贺鑫/)、[朱佳乐](author/朱佳乐/)、[陈宁](author/陈宁/)团队获得二等奖！恭喜沈逸骏、孙昊、[管张青云](author/管张青云/)团队获得二等奖！
    <br/><br/>
 *  **2023-12-11** 我们的论文《A Survey of Convolutional Neural Network: Analysis, Applications, and Prospects》成功入选2023年江苏省自然科学百篇优秀学术成果论文！
    <br/><br/>

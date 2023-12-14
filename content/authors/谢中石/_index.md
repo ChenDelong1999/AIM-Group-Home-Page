@@ -19,6 +19,6 @@ education:
 email: root19980729@yeah.net
 superuser: false
 user_groups:
-  - 硕士研究生
+  - 2021级硕士研究生
 ---
 本科期间曾获得计算机竞赛校级奖项2项

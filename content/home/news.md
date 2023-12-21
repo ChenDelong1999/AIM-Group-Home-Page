@@ -10,8 +10,6 @@ design:
   columns: "2"
 ---
 ## 2023
-*  **2023-12-13** 我们在[第五届全球校园人工智能算法精英大赛全国总决赛](https://www.saikr.com/vse/48030) 中获得了好成绩！恭喜[姚亮](author/姚亮/)、[吴婷](author/吴婷/)、[霍健](author/霍健/)团队获得一等奖！恭喜徐圣翔、高兴、姚亮团队获得一等奖！恭喜[贺鑫](author/贺鑫/)、[朱佳乐](author/朱佳乐/)、[陈宁](author/陈宁/)团队获得二等奖！恭喜沈逸骏、孙昊、[管张青云](author/管张青云/)团队获得二等奖！
-   <br/><br/>
 *  **2023-12-11** 我们的论文《A Survey of Convolutional Neural Network: Analysis, Applications, and Prospects》成功入选2023年江苏省自然科学百篇优秀学术成果论文！
    <br/><br/>
 *  **2023-11-08** 我们关于大规模多模态预训练的工作“ProtoCLIP: Prototypical Contrastive Language Image Pretraining”被 [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) （中科院一区Top期刊） 录用！我们设计了一种基于原型聚类的高效视觉-语言预训练方法 ProtoCLIP，在 ImageNet 线性评估与零样本预测任务上分别相较 CLIP 提升 +5.81% 和 +2.01% 准确率，在1400万样本数据集上的大规模实验表明，ProtoCLIP 能够以缩短3倍训练时间的条件下达到与 CLIP 相近的性能。论文[预印本](https://arxiv.org/abs/2206.10996) 和 [代码](https://github.com/megvii-research/protoclip) 已公开发布。

@@ -9,6 +9,9 @@ active: true
 design:
   columns: "2"
 ---
+## 2024
+*  **2024-02-22** 刘凡教授获2023年度江苏省自动化学会青年科技奖！
+   <br/><br/>
 ## 2023
 *  **2023-12-11** 我们的论文《A Survey of Convolutional Neural Network: Analysis, Applications, and Prospects》成功入选2023年江苏省自然科学百篇优秀学术成果论文！
    <br/><br/>

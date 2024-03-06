@@ -10,7 +10,7 @@ design:
   columns: "2"
 ---
 ## 2024
-*  **2024-03-06** 我们的论文"AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition"已被CCF-C类会议[The 18th IEEE International Conference on Automatic Face and Gesture Recognition(FG2024)](https://fg2024.ieee-biometrics.org/) 录用。恭喜[欧志权](author/欧志权/)、[姚亮](author/姚亮/)、[吴婷](author/吴婷/)！
+*  **2024-03-06** 我们的论文"AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition"已被CCF-C类会议[The 18th IEEE International Conference on Automatic Face and Gesture Recognition (FG2024)](https://fg2024.ieee-biometrics.org/) 录用。恭喜[欧志权](author/欧志权/)、[姚亮](author/姚亮/)、[吴婷](author/吴婷/)！
    <br/><br/>
 *  **2024-02-22** 刘凡教授获2023年度江苏省自动化学会青年科技奖！
    <br/><br/>

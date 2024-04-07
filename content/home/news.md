@@ -10,7 +10,7 @@ design:
   columns: "2"
 ---
 ## 2024
-*  **2024-04-03** 我们关于遥感视觉语言基础模型的论文"RemoteCLIP: A Vision Language Foundation Model for Visual Recognition of Earth Observations" 已被 IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING  (中科院1区)录用，恭喜[管张青云](author/管张青云/)、[周晓聪](author/周晓聪/)、[朱佳乐](author/朱佳乐/)! 
+*  **2024-04-03** 我们关于遥感视觉语言基础模型的论文"RemoteCLIP: A Vision Language Foundation Model for Visual Recognition of Earth Observations" 已被 IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING  (中科院一区TOP期刊)录用，恭喜[管张青云](author/管张青云/)、[周晓聪](author/周晓聪/)、[朱佳乐](author/朱佳乐/)!  [论文](https://arxiv.org/abs/2306.11029) 和[代码](https://github.com/ChenDelong1999/RemoteCLIP) 现已公开。
    <br/><br/>
 *  **2024-03-06** 我们的论文"AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition"已被CCF-C类会议[The 18th IEEE International Conference on Automatic Face and Gesture Recognition (FG2024)](https://fg2024.ieee-biometrics.org/) 录用。恭喜[欧志权(本科生)](author/欧志权/)、[姚亮](author/姚亮/)、[吴婷](author/吴婷/)！
    <br/><br/>

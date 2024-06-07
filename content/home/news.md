@@ -10,13 +10,17 @@ design:
   columns: "2"
 ---
 ## 2024
+*  **2023-06-04** 恭喜沈逸骏，孙昊，郭子扬，曹书华，高翔宇团队参加 [第十五届中国大学生服务外包创新创业大赛](http://fwwb.org.cn/) (基于文心大模型的智能阅卷平台设计与开发）获得国家三等奖！
+    <br/><br/>
+*  **2024-05-22** 我们首次将尺度不变特征解耦应用于无人机目标检测任务，设计了一种可用于任意FPN架构检测器的尺度不变特征对抗解耦模块SIFDAL，引入我们的模块后，单阶段无人机目标检测器精度可以获得有效提升。论文的 [arxiv 预印本](https://arxiv.org/abs/2405.15465) 现已公开。
+    <br/><br/>
 *  **2024-05-08** 恭喜[姚亮](author/姚亮/)获批江苏省研究生科研与实践创新计划项目！
    <br/><br/>
 *  **2024-04-29** 潘艳玲（本科生）的河海大学本科优秀毕业论文《跨语言医学知识图谱构建技术研究》被评为江苏省优秀毕业论文二等奖！恭喜！
    <br/><br/>
 *  **2024-04-26** 刘凡教授获第四届江苏省高校教师教学创新大赛二等奖！
    <br/><br/>
-*  **2024-04-03** 我们关于遥感视觉语言基础模型的论文"RemoteCLIP: A Vision Language Foundation Model for Visual Recognition of Earth Observations" 已被 IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING  (中科院一区TOP期刊)录用，恭喜[管张青云](author/管张青云/)、[周晓聪](author/周晓聪/)、[朱佳乐](author/朱佳乐/)!  [论文](https://arxiv.org/abs/2306.11029) 和[代码](https://github.com/ChenDelong1999/RemoteCLIP) 现已公开。
+*  **2024-04-03** 我们关于遥感视觉语言基础模型的论文"RemoteCLIP: A Vision Language Foundation Model for Visual Recognition of Earth Observations" 已被 IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING  (中科院一区TOP期刊)录用，恭喜[管张青云](author/管张青云/)、[周晓聪](author/周晓聪/)、[朱佳乐](author/朱佳乐/)！  [论文](https://arxiv.org/abs/2306.11029) 和[代码](https://github.com/ChenDelong1999/RemoteCLIP) 现已公开。
    <br/><br/>
 *  **2024-03-06** 我们的论文"AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition"已被CCF-C类会议[The 18th IEEE International Conference on Automatic Face and Gesture Recognition (FG2024)](https://fg2024.ieee-biometrics.org/) 录用。恭喜[欧志权(本科生)](author/欧志权/)、[姚亮](author/姚亮/)、[吴婷](author/吴婷/)！
    <br/><br/>

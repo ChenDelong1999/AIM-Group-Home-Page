@@ -15,5 +15,5 @@ social:
 email: 211607010062@hhu.edu.cn
 superuser: false
 user_groups:
-  - 2021级硕士研究生
+  - 已毕业学生
 ---

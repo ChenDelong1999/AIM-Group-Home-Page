@@ -25,6 +25,6 @@ education:
 email: 17366014826@163.com
 superuser: false
 user_groups:
-  - 2021级硕士研究生
+  - 已毕业学生
 ---
 喜欢艺术的工科生

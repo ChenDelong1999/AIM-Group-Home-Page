@@ -2,7 +2,9 @@
 title: 徐一
 role: 2024级硕士研究生
 avatar_filename: avatar.jpg
-bio: 2024级硕士
+bio: 2024级硕士研究生
+interests:
+
 social:
   - display:
       header: false

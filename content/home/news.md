@@ -11,7 +11,6 @@ design:
 ---
 ## 2024
 *  **2024-08-11** 恭喜本科生团队(沈逸骏，孙昊，郭子扬，曹书华，高翔宇)参加 [第十七届中国大学生计算机设计大赛](https://jsjds.blcu.edu.cn/) 获得全国二等奖！
-    ![screen reader text](JS2024.jpg "计算机设计大赛获奖证书")
     <br/><br/>
 *  **2024-07-20** 我们关于小样本图像识别的论文“Few-shot Classification Model Compression via School Learning”已被一区TOP期刊 lEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 录用。
     <br/><br/>

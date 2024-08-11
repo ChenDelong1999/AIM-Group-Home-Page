@@ -10,6 +10,9 @@ design:
   columns: "2"
 ---
 ## 2024
+*  **2024-08-11** 恭喜本科生团队(沈逸骏，孙昊，郭子扬，曹书华，高翔宇)参加 [第十七届中国大学生计算机设计大赛](https://jsjds.blcu.edu.cn/) ）获得全国二等奖！
+    ![screen reader text](JS2024.png "计算机设计大赛获奖证书")
+    <br/><br/>
 *  **2024-07-20** 我们关于小样本图像识别的论文“Few-shot Classification Model Compression via School Learning”已被一区TOP期刊 lEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 录用。
     <br/><br/>
 *  **2024-06-11** 我们构建了一个仿真多模态无人机目标检测数据集UEMM-Air，这是已知现有成对模态数目最多的无人机目标检测数据集，包含可见光、深度、表面法线、分割以及无人机IMU参数5种模态。数据集的 [论文](https://arxiv.org/abs/2406.06230) 和 [获取方式](https://github.com/1e12Leon/UEMM-Air) 已公开。

@@ -1,6 +1,6 @@
 ---
 title: 丁炎炎
-role: 2021级硕士研究生
+role: 2021级硕士研究生（中国移动通信集团浙江有限公司）
 avatar_filename: avatar.jpg
 bio: 2021级硕士研究生
 interests:

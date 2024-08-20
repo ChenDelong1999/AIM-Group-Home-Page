@@ -1,6 +1,6 @@
 ---
 title: 沈春梅
-role: 2021级硕士研究生
+role: 2021级硕士研究生（中科曙光南京研究院有限公司）
 avatar_filename: avatar.jpg
 bio: 2021级硕士研究生
 interests:

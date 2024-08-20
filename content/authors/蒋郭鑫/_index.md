@@ -1,6 +1,6 @@
 ---
 title: 蒋郭鑫
-role: 2021级硕士研究生
+role: 2021级硕士研究生（顺丰控股股份有限公司）
 avatar_filename: avatar.jpg
 bio: 2021级硕士研究生
 interests:

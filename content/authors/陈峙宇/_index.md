@@ -1,6 +1,6 @@
 ---
 title: 陈峙宇
-role: 2020级硕士研究生
+role: 2020级硕士研究生（南京南瑞继保电气有限公司）
 avatar_filename: avatar.jpg
 bio: 2020级硕士研究生
 interests:

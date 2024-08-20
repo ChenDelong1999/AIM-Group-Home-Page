@@ -1,6 +1,6 @@
 ---
 title: 王菲
-role: 2020级硕士研究生
+role: 2020级硕士研究生（‌阿里巴巴集团控股有限公司）
 avatar_filename: avatar.jpg
 bio: 2020级硕士研究生
 interests:

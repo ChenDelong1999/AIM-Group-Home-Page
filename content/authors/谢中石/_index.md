@@ -1,6 +1,6 @@
 ---
 title: 谢中石
-role: 2021级硕士研究生
+role: 2021级硕士研究生（南瑞集团有限公司）
 avatar_filename: avatar.jpg
 bio: 2021级硕士研究生
 interests:

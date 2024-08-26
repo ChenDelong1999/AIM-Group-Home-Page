@@ -22,6 +22,9 @@ main:
   - name: 课程
     url: courses
     weight: 60
+  - name: 实验室活动
+    url: activity
+    weight: 70
   - name: 联系我们
     url: contact
-    weight: 70
+    weight: 80

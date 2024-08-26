@@ -2,7 +2,7 @@
 widget: blank
 widget_id: RECENT-ACTIVITY
 headless: true
-weight: 30
+weight: 70
 title: 实验室活动
 subtitle: Activities
 active: true

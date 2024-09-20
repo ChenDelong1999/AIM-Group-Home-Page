@@ -19,6 +19,6 @@ social:
 email: 2206060108@hhu.edu.cn
 superuser: false
 user_groups:
-  - 2022级本科生
+  - 本科生
 ---
 河海大学2022级软件工程专业本科生，参与实验室的多模态遥感目标检测项目。

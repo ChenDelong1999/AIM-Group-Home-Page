@@ -7,7 +7,7 @@ interests:
   - 目标检测与识别
   - 多模态
 social:
-    - display:
+  - display:
       header: false
     link: mailto:2206060206@hhu.edu.cn
     icon_pack: fas

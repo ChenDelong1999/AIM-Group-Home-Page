@@ -1,6 +1,6 @@
 ---
 title: 邹广文杰
-role: 2021级本科生
+role: 2021级本科生（保送南京大学）
 avatar_filename: avatar.png
 bio: 2021级计算机科学与技术专业本科生
 interests:
@@ -21,6 +21,6 @@ social:
 email: 2110020114@hhu.edu.cn
 superuser: false
 user_groups:
-  - 本科生
+  - 已毕业学生
 ---
 河海大学2021级计算机科学与技术专业本科生，参与多模态人工智能实验室的复杂背景下的无人机多模态目标检测项目。

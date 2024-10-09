@@ -10,6 +10,10 @@ design:
   columns: "2"
 ---
 ## 2024
+*  **2024-10-8** 刘凡教授获第二届全国高校人工智能教师教学创意竞赛二等奖！
+   <br/><br/>
+*  **2024-9-26** 我们的论文“Single lmage Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models”已被CCF-A类会议[Conference and Workshop on Neural Information Processing Systems(NeurIPS2024)](https://neurips.cc/) 录用！
+   <br/><br/>
 *  **2024-08-22** 欧志权（本科生）的河海大学本科优秀毕业论文《分级递进的无人机目标检测蒸馏方法》被评为江苏省仪器仪表学会论文激励计划三等奖！恭喜！
    <br/><br/>
 *  **2024-08-13** 我们关于小样本多模态基础模型的论文“Few-shot Adaptation of Multi-modal Foundation Models: A Survey”已被二区TOP期刊 Artificial Intelligence Review 录用。恭喜[张天舒](author/张天舒/)、[戴雯雯](author/戴雯雯/)、[蔡雯雯](author/蔡雯雯/)、[周晓聪](author/周晓聪/)！

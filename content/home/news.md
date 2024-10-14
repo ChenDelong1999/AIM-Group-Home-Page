@@ -10,11 +10,15 @@ design:
   columns: "2"
 ---
 ## 2024
-*  **2024-10-8** 刘凡教授获第二届全国高校人工智能教师教学创意竞赛二等奖！
+*  **2024-10-08** 刘凡教授获第二届全国高校人工智能教师教学创意竞赛二等奖！
    <br/><br/>
-*  **2024-10-4** 我们的论文“Feature-weighted Multi-stage Bayesian Prototype for Few-shot Classification”已被CCF-C类会议[MMAsia](https://mmasia2024.org/index.html) 录用。恭喜[周晓聪](author/周晓聪/)！
+*  **2024-10-04** 我们的论文“A Encoder-Decoder Framework for Foundation Model-based Remote Sensing Semantic Segmentation”已被CCF-C类会议[MMAsia](https://mmasia2024.org/index.html) 录用。恭喜[朱佳乐](author/朱佳乐/)！
    <br/><br/>
-*  **2024-9-26** 我们的论文“Single lmage Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models”已被CCF-A类会议[Conference and Workshop on Neural Information Processing Systems(NeurIPS2024)](https://neurips.cc/) 录用！
+*  **2024-10-04** 我们的论文“Feature-weighted Multi-stage Bayesian Prototype for Few-shot Classification”已被CCF-C类会议[MMAsia](https://mmasia2024.org/index.html) 录用。恭喜[周晓聪](author/周晓聪/)！
+   <br/><br/>
+*  **2024-09-26** 我们的论文“Single lmage Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models”已被CCF-A类会议[Conference and Workshop on Neural Information Processing Systems(NeurIPS2024)](https://neurips.cc/) 录用！
+   <br/><br/>
+*  **2024-09-16** 我们关于家禽疾病诊断的论文“Unifying Large Language Models and Knowledge Graphs for Poultry Diseases Diagnosis”已被[第十八届中国生物特征识别大会（CCBR2023）](https://ccbr99.cn/) 录用。恭喜[徐圣翔（本科生）](author/徐圣翔/)
    <br/><br/>
 *  **2024-08-22** 欧志权（本科生）的河海大学本科优秀毕业论文《分级递进的无人机目标检测蒸馏方法》被评为江苏省仪器仪表学会论文激励计划三等奖！恭喜！
    <br/><br/>

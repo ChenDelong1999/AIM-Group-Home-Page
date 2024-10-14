@@ -18,9 +18,9 @@ design:
    <br/><br/>
 *  **2024-09-26** 我们的论文“Single lmage Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models”已被CCF-A类会议[Conference and Workshop on Neural Information Processing Systems(NeurIPS2024)](https://neurips.cc/) 录用！
    <br/><br/>
-*  **2024-09-16** 我们关于家禽疾病诊断的论文“Unifying Large Language Models and Knowledge Graphs for Poultry Diseases Diagnosis”已被[第十八届中国生物特征识别大会（CCBR2023）](https://ccbr99.cn/) 录用。恭喜[徐圣翔（本科生）](author/徐圣翔/)
+*  **2024-09-16** 我们关于家禽疾病诊断的论文“Unifying Large Language Models and Knowledge Graphs for Poultry Diseases Diagnosis”已被[第十八届中国生物特征识别大会](https://ccbr99.cn/) 录用。恭喜[徐圣翔（本科生）](author/徐圣翔/)
    <br/><br/>
-*  **2024-08-22** 欧志权（本科生）的河海大学本科优秀毕业论文《分级递进的无人机目标检测蒸馏方法》被评为江苏省仪器仪表学会论文激励计划三等奖！恭喜！
+*  **2024-08-22** 欧志权（本科生）的河海大学本科优秀毕业论文《分级递进的无人机目标检测蒸馏方法》被评为江苏省仪器仪表学会优秀本科毕业论文三等奖！恭喜！
    <br/><br/>
 *  **2024-08-13** 我们关于小样本多模态基础模型的论文“Few-shot Adaptation of Multi-modal Foundation Models: A Survey”已被二区TOP期刊 Artificial Intelligence Review 录用。恭喜[张天舒](author/张天舒/)、[戴雯雯](author/戴雯雯/)、[蔡雯雯](author/蔡雯雯/)、[周晓聪](author/周晓聪/)！
     <br/><br/>

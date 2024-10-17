@@ -4,8 +4,7 @@ role: 2025级硕士研究生
 avatar_filename: avatar.jpg
 bio: 2025级硕士研究生
 interests:
-  - 目标检测与识别
-  - 多模态图像融合
+  - 多模态基础模型的小样本下游泛化
 social:
   - display:
       header: false

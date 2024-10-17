@@ -8,6 +8,9 @@ interests:
   - 鲁棒人脸检测与识别
   - 特征解耦及表征学习
 social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=sN6tNBcAAAAJ
   - display:
       header: false
     link: https://github.com/1e12Leon

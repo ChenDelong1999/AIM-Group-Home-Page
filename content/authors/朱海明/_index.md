@@ -2,7 +2,7 @@
 title: 朱海明
 role: 2022级本科生
 avatar_filename: avatar.jpg
-bio: 2022级土木、水利与海洋工程专业本科生
+bio: 2022级本科生
 interests:
   - 嵌入式
   - 机器视觉

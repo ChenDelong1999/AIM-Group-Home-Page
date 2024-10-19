@@ -3,6 +3,8 @@ title: 杜艺
 role: 2025级硕士研究生
 avatar_filename: avatar.jpg
 bio: 2025级硕士研究生
+interests:
+  - HyperGraph高阶语义表示目标检测
 social:
   - display:
       header: false

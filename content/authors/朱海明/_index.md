@@ -8,7 +8,7 @@ interests:
   - 机器视觉
   - 大模型
 social:
-    - display:
+  - display:
       header: false
     link: mailto:2219010140@hhu.edu.cn
     icon_pack: fas

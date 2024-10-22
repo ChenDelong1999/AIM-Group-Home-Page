@@ -6,7 +6,7 @@ bio: 2022级计算机科学与技术（大禹）专业本科生
 interests:
   - 无人机多模态环境感知与自主导引
 social:
-    - display:
+  - display:
       header: false
     link: mailto:2206060105@hhu.edu.cn
     icon_pack: fas

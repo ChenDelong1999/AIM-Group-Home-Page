@@ -10,6 +10,10 @@ design:
   columns: "2"
 ---
 ## 2024
+*  **2024-10-18** 我们的一系列论文投稿了2024年江苏省研究生智能控制与海洋信息处理前沿学术创新论坛，分别获评优秀论文一等奖、三等奖以及优秀墙报奖。恭喜陈宁、周晓聪、朱佳乐、戴雯雯！
+   <br/><br/>
+*  **2024-10-10** 我们关于计算机教育的论文“基于认知诊断与大模型优化遗传算法的自动组卷方法”被中国计算机实践教育学术会议（CPEC2024）评为优秀论文一等奖！
+   <br/><br/>
 *  **2024-10-08** 刘凡教授获第二届全国高校人工智能教师教学创意竞赛二等奖！
    <br/><br/>
 *  **2024-10-04** 我们的论文“A Encoder-Decoder Framework for Foundation Model-based Remote Sensing Semantic Segmentation”已被CCF-C类会议[MMAsia](https://mmasia2024.org/index.html) 录用。恭喜[朱佳乐](author/朱佳乐/)！

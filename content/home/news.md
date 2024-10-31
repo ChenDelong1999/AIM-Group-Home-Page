@@ -10,6 +10,8 @@ design:
   columns: "2"
 ---
 ## 2024
+*  **2024-10-29** 我们关于无人机目标检测知识蒸馏的论文“Domain-invariant Progressive Knowledge Distillation for UAV-based Object Detection”已被IEEE Geoscience and Remote Sensing Letters (IEEE GRSL) 期刊录用。恭喜[姚亮](author/姚亮/)，[欧志权](author/欧志权/)！
+   <br/><br/>
 *  **2024-10-18** 我们的一系列论文投稿了2024年江苏省研究生智能控制与海洋信息处理前沿学术创新论坛，分别获评优秀论文一等奖、三等奖以及优秀墙报奖。恭喜陈宁、周晓聪、朱佳乐、戴雯雯！
    <br/><br/>
 *  **2024-10-10** 我们关于计算机教育的论文“基于认知诊断与大模型优化遗传算法的自动组卷方法”被中国计算机实践教育学术会议（CPEC2024）评为优秀论文一等奖！

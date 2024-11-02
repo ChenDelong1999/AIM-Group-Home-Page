@@ -1,6 +1,6 @@
 ---
 title: 谢中石
-role: 2021级硕士研究生（南瑞集团有限公司）
+role: 2021级硕士研究生（国家电网南京供电公司）
 avatar_filename: avatar.jpg
 bio: 2021级硕士研究生
 interests:

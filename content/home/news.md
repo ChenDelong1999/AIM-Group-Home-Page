@@ -10,6 +10,8 @@ design:
   columns: "2"
 ---
 ## 2024
+*  **2024-11-06** 我们关于小样本学习的论文“基于局部对比学习与新类特征生成的小样本图像分类”被CCF-B类期刊《模式识别与人工智能》录用，恭喜[陈宁](author/陈宁/)、[董晨炜](author/董晨炜/)！
+   <br/><br/>
 *  **2024-11-04** 我们的科研项目“复杂环境下小样本学习理论及关键技术”获江苏省信息技术应用学会科学技术奖（科技创新）二等奖！
    <br/><br/>
 *  **2024-10-29** 我们关于无人机目标检测知识蒸馏的论文“Domain-invariant Progressive Knowledge Distillation for UAV-based Object Detection”已被IEEE Geoscience and Remote Sensing Letters (IEEE GRSL) 期刊录用。恭喜[姚亮](author/姚亮/)，[欧志权](author/欧志权/)！

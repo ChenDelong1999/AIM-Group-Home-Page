@@ -14,7 +14,7 @@ design:
    <br/><br/>
 *  **2024-11-04** 我们的科研项目“复杂环境下小样本学习理论及关键技术”获江苏省信息技术应用学会科学技术奖（科技创新）二等奖！
    <br/><br/>
-*  **2024-05-28** 实验室学术会议记录：陈宁等人前往连云港参加江苏省研究生智能控制与海洋信息处理前沿学术创新论坛，并在会议上进行了口头报告分享我们关于小样本图像分类的文章。
+*  **2024-11-03** 实验室学术会议记录：陈宁等人前往连云港参加江苏省研究生智能控制与海洋信息处理前沿学术创新论坛，并在会议上进行了口头报告分享我们关于小样本图像分类的文章。
    ![screen reader text](cn.jpg "江苏省研究生智能控制与海洋信息处理前沿学术创新论坛记录")
     <br/><br/>
 *  **2024-10-29** 我们关于无人机目标检测知识蒸馏的论文“Domain-invariant Progressive Knowledge Distillation for UAV-based Object Detection”已被IEEE Geoscience and Remote Sensing Letters (IEEE GRSL) 期刊录用。恭喜[姚亮](author/姚亮/)，[欧志权](author/欧志权/)！

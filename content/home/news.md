@@ -10,6 +10,10 @@ design:
   columns: "2"
 ---
 ## 2024
+*  **2024-12-10** 我们关于小样本学习的论文“Making Large Vision Language Models to be Good Few-shot Learners”被CCF-A类会议The 39th Annual AAAI Conference on Artificial Intelligence(AAAI2025)录用，恭喜[蔡雯雯](author/蔡雯雯/)、[霍健](author/霍健/)！[论文](https://arxiv.org/abs/2408.11297) 的预印本已公开。
+   <br/><br/>
+*  **2024-12-09** 我们关于图像重建的论文“IPT-ILR: Image Pyramid Transformer Coupled with Information LossRegularization for All-in-one Image Restoration”已被一区TOP期刊 lEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 录用。
+    <br/><br/>
 *  **2024-11-23** 我们的论文"RemoteCLlP:A Vision Language:FoundationModel for Remote Sensing"入选ESI高被引论文！
    <br/><br/>
 *  **2024-11-06** 我们关于小样本学习的论文“基于局部对比学习与新类特征生成的小样本图像分类”被CCF-B类期刊《模式识别与人工智能》录用，恭喜[陈宁](author/陈宁/)、[董晨炜](author/董晨炜/)！

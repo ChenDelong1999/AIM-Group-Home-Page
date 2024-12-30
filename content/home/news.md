@@ -10,6 +10,12 @@ design:
   columns: "2"
 ---
 ## 2024
+*  **2024-12-28** 刘凡教授获江苏省计算机学会教学新秀奖！
+   <br/><br/>  
+*  **2024-12-21** 我们关于模型轻量化的论文“RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification”被CCF-B类会议IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2025)录用，恭喜[邹广文杰（本科生）](author/邹广文杰/)、[姚亮](author/姚亮/)！
+   <br/><br/> 
+*  **2024-12-21** 我们关于语义轮廓提取的论文“Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images”被CCF-B类会议IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2025)录用，恭喜[缪师宇（本科生）](author/缪师宇/)、[陈德龙](author/陈德龙/)！
+   <br/><br/> 
 *  **2024-12-10** 我们关于小样本学习的论文“Making Large Vision Language Models to be Good Few-shot Learners”被CCF-A类会议The 39th Annual AAAI Conference on Artificial Intelligence(AAAI2025)录用，恭喜[蔡雯雯](author/蔡雯雯/)、[霍健](author/霍健/)！[论文](https://arxiv.org/abs/2408.11297) 的预印本已公开。
    <br/><br/>
 *  **2024-12-09** 我们关于图像重建的论文“IPT-ILR: Image Pyramid Transformer Coupled with Information LossRegularization for All-in-one Image Restoration”已被一区TOP期刊 lEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 录用。

@@ -10,6 +10,8 @@ design:
   columns: "2"
 ---
 ## 2024
+*  **2024-12-31** 刘凡教授获第一届全国电子信息类专业高校教师智慧教学案例竞赛 (浩埔杯) 二等奖！
+   <br/><br/> 
 *  **2024-12-28** 刘凡教授获江苏省计算机学会教学新秀奖！
    <br/><br/>  
 *  **2024-12-21** 我们关于模型轻量化的论文“RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification”被CCF-B类会议IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2025)录用，恭喜[邹广文杰（本科生）](author/邹广文杰/)、[姚亮](author/姚亮/)！

@@ -9,6 +9,9 @@ active: true
 design:
   columns: "2"
 ---
+## 2025
+*  **2024-01-10** 我们的论文“Collaborative semantic contrastive for all-in-one image restoration”已被二区TOP期刊 Engineering Applications of Artificial Intelligence 录用。
+   <br/><br/> 
 ## 2024
 *  **2024-12-31** 刘凡教授获第一届全国电子信息类专业高校教师智慧教学案例竞赛 (浩埔杯) 二等奖！
    <br/><br/> 

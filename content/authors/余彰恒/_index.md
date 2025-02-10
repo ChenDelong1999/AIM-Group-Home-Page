@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    link: mailto:
+    link: mailto:1915704381@qq.com
     icon_pack: fas
     icon: envelope
 superuser: false

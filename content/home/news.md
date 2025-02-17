@@ -10,6 +10,8 @@ design:
   columns: "2"
 ---
 ## 2025
+*  **2024-02-12** 我们构造了一个无人机自主导引模拟系统，实现了算法无关的无人机飞行控制接口，并接入大语言模型以增强算法性能评估的灵活性。系统的介绍视频如下：{{< youtube B3gYFj5jqyE >}}
+   <br/><br/>
 *  **2024-01-27** 我们关于遥感视觉问答的论文“Co-LLaVA: Efficient Remote Sensing Visual Question Answering via Model Collaboration”已被二区期刊 Remote Sensing 录用。恭喜[戴雯雯](author/戴雯雯/)、[朱佳乐](author/朱佳乐/)！
    <br/><br/> 
 *  **2024-01-10** 我们的论文“Collaborative semantic contrastive for all-in-one image restoration”已被二区TOP期刊 Engineering Applications of Artificial Intelligence 录用。

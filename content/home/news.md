@@ -10,9 +10,7 @@ design:
   columns: "2"
 ---
 ## 2025
-
 *  **2025-02-12** 我们构造了一个无人机自主导引模拟系统AirNavigation，实现了算法无关的无人机飞行控制接口，并接入大语言模型以增强算法性能评估的灵活性。系统的[介绍视频](https://www.bilibili.com/video/BV1b5AeeGEm2/?vd_source=7c82874615e59c9cd7eebd82b11a3c13) 已公开。
-   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114025056704754&bvid=BV1b5AeeGEm2&cid=28458487541&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
    <br/><br/>
 *  **2025-01-27** 我们关于遥感视觉问答的论文“Co-LLaVA: Efficient Remote Sensing Visual Question Answering via Model Collaboration”已被二区期刊 Remote Sensing 录用。恭喜[戴雯雯](author/戴雯雯/)、[朱佳乐](author/朱佳乐/)！
    <br/><br/> 

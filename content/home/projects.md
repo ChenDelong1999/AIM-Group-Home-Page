@@ -9,9 +9,52 @@ active: true
 design:
   columns: "1"
 ---
+### ▶ 视觉-语言大规模多模态预训练
+- [Fan Liu](author/刘凡/)*, [Wenwen Dai](https://multimodality.group/author/戴雯雯/), Chuanyi Zhang, et al. [**Co-LLaVA: Efficient Remote Sensing Visual Question Answering via Model Collaboration. Remote Sensing**](https://www.proquest.com/docview/3165893880?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly Journals), 2025, 17(3): 466. (SCI 二区期刊)
+- [Shiyu Miao(本科生)](https://multimodality.group/author/缪师宇/),  [Delong Chen](author/陈德龙/), [Fan Liu](author/刘凡/)*, et al. [**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images.**](https://ieeexplore.ieee.org/abstract/document/10889192)ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025: 1-5. (CCF-B)
+- [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/), [Zhangqingyun Guan](https://multimodality.group/author/管张青云/), et al. [**Remoteclip: A vision language foundation model for remote sensing[J].**](https://ieeexplore.ieee.org/abstract/document/10504785) IEEE Transactions on Geoscience and Remote Sensing, 2024. (SCI, 一区TOP期刊)
+- [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/), Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002194). Pattern Recognition, 2023 (SCI, 中科院一区Top期刊, JCR一区, IF: 8.518).
+- [Delong Chen](author/陈德龙/) (本科生), [Fan Liu](author/刘凡/)*, Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset). IJCAI 2021 Workshop on Long-Tailed Distribution Learning (CCF-A类会议Workshop, Oral). [[数据集主页](https://github.com/ChenDelong1999/MEP-3M)][Best Dataset Paper Award]
+- [Delong Chen](author/陈德龙/), Zhao Wu, [Fan Liu](author/刘凡/)*, et al. [**ProtoCLIP: Prototypical Contrastive Language Image Pretraining**](https://arxiv.org/abs/2206.10996). ArXiv Pre-print, 2022. [[开源代码](https://github.com/megvii-research/protoclip)]
+- [Yanling Pan](author/潘艳玲/) (本科生), [Ruizhi Zhou](author/周睿志/) (本科生), Gang Zhao, [Weijuan Zhang](author/张伟娟/), [Delong Chen](author/陈德龙/), [Fan Liu](author/刘凡/)*. [**MDF-Net: Multimodal Deep Fusion for Large-Scale Product Recognition**](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_51). The 16th Chinese Conference on Biometric Recognition, Biometric Recognition, CCBR 2022.
+- 开发图文特征对齐公开代码库 **ITRA: Image Text Representation Alignment**. [[文档](https://itra.readthedocs.io/)][[开源代码](https://github.com/ChenDelong1999/ITRA)]
+- 国家发明专利：**一种基于商品文本分类的电商类目属性挖掘方法**. 专利号: 201910599049.6.
+- 国家发明专利：**一种基于频繁项目集的图片标注推荐算法**. 专利号: 201811516054.8.
+- 国家发明专利：**一种基于RemoteCLIP图像编码器的多尺度特征融合遥感图像语义分割方法**. 专利号：202410414668.4.
+- 国家发明专利：**一种基于视觉-语言模型知识蒸馏的水下目标检测方法**. 专利号：202411570471.6.
+- 国家发明专利：**一种基于自适应局部知识填充的遥感图文检索方法**. 专利号：202411570529.7
+
+### ▶ 空天遥感多模态环境感知
+- [Liang Yao](author/姚亮/), [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/), et al. [**RemoteSAM: Towards Segment Anything for Earth Observation**](https://arxiv.org/abs/2505.18022).
+- [Guangwenjie Zou(本科生)](https://multimodality.group/author/邹广文杰/),  [Liang Yao](author/姚亮/), [Fan Liu](author/刘凡/)*, et al. [**Remotetrimmer: Adaptive structural pruning for remote sensing image classification.**](https://ieeexplore.ieee.org/abstract/document/10890085) ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025: 1-5. (CCF-B)
+- [Jiale Zhu](https://multimodality.group/author/朱佳乐/), [Liang Yao](author/姚亮/), [Fan Liu](author/刘凡/)*, et al. [**A Encoder-Decoder Framework for Foundation Model-based Remote Sensing Semantic Segmentation** ](https://dl.acm.org/doi/full/10.1145/3700410.3702132) Proceedings of the 6th ACM International Conference on Multimedia in Asia Workshops. 2024: 1-7. (CCF-C)
+- [Fan Liu](author/刘凡/)*, [Liang Yao](author/姚亮/), et al. [**Boost UAV-based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning**](https://ieeexplore.ieee.org/abstract/document/10976665). IEEE Transactions on Geoscience and Remote Sensing, 2025. (SCI, 一区Top期刊, IF: 8.250)
+- Sai Yang, Bin Hu, Bojun Zhou, [Fan Liu](author/刘凡/)*, et al. [**Power Line Aerial Image Restoration under Adverse Weather: Datasets and Baselines.**](https://ieeexplore.ieee.org/abstract/document/10930826) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025. (SCI 二区Top期刊)
+- [Liang Yao](author/姚亮/), [Fan Liu](author/刘凡/)*, [Chuanyi Zhang](https://ieeexplore.ieee.org/author/37088483829), et al. [**Domain-Invariant Progressive Knowledge Distillation for UAV-Based Object Detection.**](https://ieeexplore.ieee.org/abstract/document/10745610) IEEE Geoscience and Remote Sensing Letters, 2024. 
+- Xin Li, Feng Xu, Hongmin Gao, [Fan Liu](author/刘凡/), et al. [**A frequency domain feature-guided network for semantic segmentation of remote sensing images.**](https://ieeexplore.ieee.org/abstract/document/10522827) IEEE Signal Processing Letters, 2024. (SCI, 二区TOP期刊)
+- Xin Li, Feng Xu, Linyang Li, Nan Xu, [Fan Liu](author/刘凡/), et al. [**AAFormer: Attention-attended transformer for semantic segmentation of remote sensing images.**](https://ieeexplore.ieee.org/abstract/document/10521736) IEEE Geoscience and Remote Sensing Letters, 2024. (SCI, 二区TOP期刊)
+- Xin Li, Feng Xu,  [Fan Liu](author/刘凡/), et al. [**Semantic segmentation of remote sensing images by interactive representation refinement and geometric prior-guided inference.**](https://ieeexplore.ieee.org/abstract/document/10341333) IEEE Transactions on Geoscience and Remote Sensing, 2023, 62: 1-18. (SCI, 一区TOP期刊)
+- Xin Li, Feng Xu, [Fan Liu](author/刘凡/), et al. [**A synergistical attention model for semantic segmentation of remote sensing images.**](https://ieeexplore.ieee.org/abstract/document/10041998) IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 1-16. (SCI, 一区TOP期刊)
+- Xin Li, Feng Xu, [Fan Liu](author/刘凡/), et al. [**Hybridizing Euclidean and hyperbolic similarities for attentively refining representations in semantic segmentation of remote sensing images.**](https://ieeexplore.ieee.org/abstract/document/9966596) IEEE Geoscience and Remote Sensing Letters, 2022, 19: 1-5. (SCI, 二区TOP期刊)
+- 国家发明专利：**一种基于通道注意力和自适应学习的模型剪枝方法**. 专利号：202411570310.7.
+- 国家发明专利：**一种遥感图像语义分割方法及装置**. 专利号：202210478048.8.
+- 国家发明专利：**一种基于多源先验的无人机目标视觉定位方法**. 专利号：202311588919.2.
+- 国家发明专利：**基于分级递进和集体知识的无人机目标检测蒸馏方法**. 专利号：202410870827.1.
+
+### ▶ 预训练基础模型的小样本下游泛化
+- [Fan Liu](author/刘凡/)*, [Wenwen Cai](author/蔡雯雯/), [Jian Huo](https://multimodality.group/author/霍健/), et al. [**Making Large Vision Language Models to be Good Few-shot Learners.**](https://ojs.aaai.org/index.php/AAAI/article/view/32576) Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(5): 5415-5423. (CCF-A)
+- [陈宁](author/陈宁/), [刘凡](author/刘凡/)*, [董晨炜](author/董晨炜/), 等. 基于局部对比学习与新类特征生成的小样本图像分类. 模式识别与人工智能, 2024: 1. (CCF-B)
+- [Xiaocong Zhou](周晓聪/), [Fan Liu](author/刘凡/)*, et al. [**Feature-weighted Multi-stage Bayesian Prototype for Few-shot Classification**](https://dl.acm.org/doi/full/10.1145/3696409.3700244) Proceedings of the 6th ACM International Conference on Multimedia in Asia. 2024: 1-7. (CCF-C)
+- [Fan Liu](author/刘凡/)*, [Tianshu Zhang](author/张天舒/), [Wenwen Dai](author/戴雯雯/), Chuanyi Zhang, [Wenwen Cai](author/蔡雯雯/), [Xiaocong Zhou](https://multimodality.group/author/周晓聪/), et al. [**Few-shot adaptation of multi-modal foundation models: A survey.**](https://link.springer.com/article/10.1007/s10462-024-10915-y) Artificial Intelligence Review, 2024, 57(10): 268. (SCI,二区TOP期刊,IF:9.588)
+- Sai Yang, [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/), et al. [**Few-shot Classification Model Compression via School Learning[J].**](https://ieeexplore.ieee.org/abstract/document/10606532) IEEE Transactions on Circuits and Systems for Video Technology, 2024. (SCI,一区TOP期刊)
+- [Tianshu Zhang](author/张天舒/), [Wenwen Dai](https://multimodality.group/author/戴雯雯/), Zhiyu Chen, Sai Yang, [Fan Liu](author/刘凡/)*, et al. [**Few-Shot Image Classification via Mutual Distillation.**](https://www.mdpi.com/2076-3417/13/24/13284) Applied Sciences, 2023, 13(24): 13284.
+- 国家发明专利：**一种基于全局和局部对比学习的小样本图像分类方法**. 专利号：202311588879.1.
+- 国家发明专利：**一种基于元学习的小样本目标检测方法**. 专利号：202310322905.X.
 
 ### ▶ 单样本多模态人脸识别与分析
-
+- [Zhiquan Ou(本科生)](https://multimodality.group/author/欧志权/), [Liang Yao](author/姚亮/), [Ting Wu](https://multimodality.group/author/吴婷/), et al. [**AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition.**](https://ieeexplore.ieee.org/abstract/document/10582027) 2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG). IEEE, 2024: 1-7. (CCF-C)
+- [Liang Yao](author/姚亮/), [Fan Liu](author/刘凡/)*, [Zhiquan Ou(本科生)](https://multimodality.group/author/欧志权/), et al. [**Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation**](https://link.springer.com/chapter/10.1007/978-981-99-8565-4_21) Chinese Conference on Biometric Recognition. Singapore: Springer Nature Singapore, 2023: 212-222.
+- [Fan Liu](author/刘凡/)*, Fei Wang, Yuhua Ding, et al. [**SOM-based binary coding for single sample face recognition.**](https://link.springer.com/article/10.1007/s12652-021-03255-0) Journal of Ambient Intelligence and Humanized Computing, 2022, 13(12): 5861-5871.
 - [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/) (本科生), et al. [**Deep Learning based Single Sample Face Recognition: A Survey**](https://link.springer.com/article/10.1007/s10462-022-10240-2)**.** Artificial Intelligence Review, AIRE, 2022 (SCI, JCR一区, IF: 9.588).  [[预印本](https://arxiv.org/ftp/arxiv/papers/2006/2006.11395.pdf)]
 - [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/) (本科生), et al.  [**A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning**](https://www.sciencedirect.com/science/article/abs/pii/S0952197622003967). Engineering Applications of Artificial Intelligence, EAAI, 2022. (SCI, JCR一区, IF: 7.802).
 - [Zewen Li](author/李泽文/) (本科生), [Fan Liu](author/刘凡/)*, et al. [**A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects**](https://ieeexplore.ieee.org/document/9451544). IEEE Transactions on Neural Networks and Learning Systems, 2021 (SCI, 一区Top期刊，IF:14.255, 引用459次, ESI高被引论文、热点论文). [[预印本](https://arxiv.org/abs/2004.02806)]
@@ -32,17 +75,6 @@ design:
 - 国家发明专利：**一种基于两层自组织神经网络的人脸特征二进制编码与识别方法**. 专利号: 202010627333.2
 - 国家发明专利：**基于对抗学习的人脸变化解耦的亲属关系验证方法**. 专利号: 202111386833.2.
 
-### ▶ 视觉-语言大规模多模态预训练
-
-- [Fan Liu](author/刘凡/)
-*, [Delong Chen](author/陈德龙/)
-, Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002194). Pattern Recognition, 2023 (SCI, 中科院一区Top期刊, JCR一区, IF: 8.518).
-- [Delong Chen](author/陈德龙/) (本科生), [Fan Liu](author/刘凡/)*, Xiaoyu Du, Ruizhuo Gao, Feng Xu. [**MEP-3M: A Large-scale Multi-modal E-Commerce Products Dataset**](https://www.researchgate.net/publication/353946545_MEP-3M_A_Large-scale_Multi-modal_E-Commerce_Products_Dataset). IJCAI 2021 Workshop on Long-Tailed Distribution Learning (CCF-A类会议Workshop, Oral). [[数据集主页](https://github.com/ChenDelong1999/MEP-3M)][Best Dataset Paper Award]
-- [Delong Chen](author/陈德龙/), Zhao Wu, [Fan Liu](author/刘凡/)*, et al. [**ProtoCLIP: Prototypical Contrastive Language Image Pretraining**](https://arxiv.org/abs/2206.10996). ArXiv Pre-print, 2022. [[开源代码](https://github.com/megvii-research/protoclip)]
-- [Yanling Pan](author/潘艳玲/) (本科生), [Ruizhi Zhou](author/周睿志/) (本科生), Gang Zhao, [Weijuan Zhang](author/张伟娟/), [Delong Chen](author/陈德龙/), [Fan Liu](author/刘凡/)*. [**MDF-Net: Multimodal Deep Fusion for Large-Scale Product Recognition**](https://link.springer.com/chapter/10.1007/978-3-031-20233-9_51). The 16th Chinese Conference on Biometric Recognition, Biometric Recognition, CCBR 2022.
-- 开发图文特征对齐公开代码库 **ITRA: Image Text Representation Alignment**. [[文档](https://itra.readthedocs.io/)][[开源代码](https://github.com/ChenDelong1999/ITRA)]
-- 国家发明专利：**一种基于商品文本分类的电商类目属性挖掘方法**. 专利号: 201910599049.6.
-- 国家发明专利：**一种基于频繁项目集的图片标注推荐算法**. 专利号: 201811516054.8.
 
 ### ▶ 数据驱动的水文时间序列预测
 
@@ -55,10 +87,9 @@ design:
 ### ▶ 视觉小样本学习
 - [Fan Liu](author/刘凡/), Sai Yang, [Delong Chen](author/陈德龙/), Huaxi Huang, Jun Zhou. [**Few-shot classification guided by generalization error bound**](https://www.sciencedirect.com/science/article/pii/S0031320323006027). Pattern Recognition, 2023 (CCF-B).
 
-
 - Sai Yang, [Fan Liu](author/刘凡/)*, Shaoqiu Zheng, Ying Tan. [**JLCSR: Joint Learning of Compactness and Separability Representation for Few-shot Classification**](https://doi.org/10.1109/TCDS.2023.3297578)**.** IEEE Transactions on Cognitive and Developmental Systems, 2023.
 
-- 张天舒，刘凡，陈德龙，管张青云，蔡雯雯，周晓聪. 多模态大模型小样本迁移方法研究进展综述》. 2023中国多媒体大会（ChinaMM）.
+- 张天舒，刘凡，陈德龙，管张青云，蔡雯雯，周晓聪. 《多模态大模型小样本迁移方法研究进展综述》. 2023中国多媒体大会（ChinaMM）.
 
 - Sai Yang, [Fan Liu](author/刘凡/)*, [Delong Chen](author/陈德龙/), Jun Zhou. [**Few-shot Classification via Ensemble Learning with Multi-Order Statistics**](https://arxiv.org/abs/2305.00454)**.** IJCAI-23, 2022 (CCF-A, Oral).
 

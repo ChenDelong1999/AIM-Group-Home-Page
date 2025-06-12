@@ -10,7 +10,11 @@ design:
   columns: "2"
 ---
 ## 2025
+*  **2025-06-3** 刘凡教授获2025年全国高等学校计算机教育研究会优秀青年教师奖！
+   <br/><br/>
 *  **2024-05-26** 我们提出了一种新的多任务统一范式，以指代表达分割为核心，无需额外任务头即可高效拓展到8种遥感视觉感知任务。在此范式基础上，我们构建了RemoteSAM模型，RemoteSAM以180M的参数量在多种遥感视觉任务上超越了LHRS-Bot、GeoChat等7B参数级模型的性能。论文的 [arxiv 预印本](https://arxiv.org/abs/2505.18022) 和 [代码](https://github.com/1e12Leon/RemoteSAM) 现已公开。
+   <br/><br/>
+*  **2025-05-21** 刘凡教授获第五届江苏省高校创新大赛二等奖！
    <br/><br/>
 *  **2025-04-23** 我们的论文“Boost UAV-based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning”已被一区TOP期刊IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (IEEE TGRS)录用。恭喜[姚亮](author/姚亮/)！
    <br/><br/>

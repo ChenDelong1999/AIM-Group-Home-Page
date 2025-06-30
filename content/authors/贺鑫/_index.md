@@ -1,6 +1,6 @@
 ---
 title: 贺鑫
-role: 2022级硕士研究生
+role: 2022级硕士研究生（中国电信股份有限公司江苏分公司）
 avatar_filename: avatar.jpg
 bio: 2022级硕士研究生
 interests:
@@ -20,6 +20,6 @@ education:
 email: xinhe@hhu.edu.cn
 superuser: false
 user_groups:
-  - 2022级硕士研究生
+  - 已毕业学生
 ---
 2022江西省优秀毕业生，获得两次省级奖项

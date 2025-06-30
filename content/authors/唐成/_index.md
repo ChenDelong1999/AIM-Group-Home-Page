@@ -13,5 +13,5 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - 2022级硕士研究生
+  - 已毕业学生
 ---

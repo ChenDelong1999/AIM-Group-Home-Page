@@ -1,6 +1,6 @@
 ---
 title: 蔡雯雯
-role: 2022级硕士研究生
+role: 2022级硕士研究生（数字浙江）
 avatar_filename: avatar.jpg
 bio: 2022级硕士研究生
 interests:
@@ -19,6 +19,6 @@ education:
 email: caiwenwen@hhu.edu.cn
 superuser: false
 user_groups:
-  - 2022级硕士研究生
+  - 已毕业学生
 ---
 2022年陕西省优秀毕业生

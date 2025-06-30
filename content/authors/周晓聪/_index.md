@@ -1,6 +1,6 @@
 ---
 title: 周晓聪
-role: 2022级硕士研究生
+role: 2022级硕士研究生（京东）
 avatar_filename: avatar.jpg
 bio: 2022级硕士研究生
 interests:

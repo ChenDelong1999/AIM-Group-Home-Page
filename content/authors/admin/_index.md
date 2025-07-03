@@ -10,7 +10,7 @@ role: "**A**rtificial **I**ntelligence of **M**ulti-modality **Group**"
 
 # Organizations/Affiliations
 organizations:
-  - name: 多模态人工智能实验室
+  - name: 多模态人工智能实验室（河海大学优秀本科生导师工作室）
   - name: 河海大学计算机与软件学院
     url: 'https://cies.hhu.edu.cn/main.psp'
   - name: 河海大学人工智能与自动化学院

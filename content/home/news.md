@@ -10,7 +10,9 @@ design:
   columns: "2"
 ---
 ## 2025
-*  **2025-07-02** 我们的论文《基于图匹配的非配准多模态目标检测决策融合》已被 2025年中国多媒体大会（ChinaMM25） 录用。恭喜[张荣（本科生）](author/张荣/)、[张奕欣（本科生）](author/张奕欣/)！
+*  **2025-07-05** 我们关于遥感视觉基础模型的论文《RemoteSAM: Towards Segment Anything for Earth Observation》已被 33rd ACM International Conference on Multimedia (ACM MM 2025) 录用。恭喜[姚亮](author/姚亮/)！论文的 [arxiv 预印本](https://arxiv.org/abs/2505.18022) 和 [代码及数据](https://github.com/1e12Leon/RemoteSAM) 已发布。
+   <br/><br/> 
+* **2025-07-02** 我们的论文《基于图匹配的非配准多模态目标检测决策融合》已被 2025年中国多媒体大会（ChinaMM25） 录用。恭喜[张荣（本科生）](author/张荣/)、[张奕欣（本科生）](author/张奕欣/)！
    <br/><br/>
 *  **2025-06-12** 多模态人工智能工作室获批河海大学2025年优秀本科生导师工作室重点项目！
    <br/><br/>

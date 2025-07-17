@@ -18,7 +18,7 @@ social:
     icon: github
   - display:
       header: false
-    link: https://1e12leon.top/
+    link: https://1e12leon.github.io/
     icon_pack: fas
     icon: user
   - display:
@@ -31,17 +31,27 @@ organizations:
     url: https://www.hhu.edu.cn/
 education:
   courses:
-    - course: 计算机科学与技术专业 学士
+    - year: 2022
+      course: 计算机科学与技术专业 学士
       institution: 河海大学计算机与信息学院
-      year: 2022
-email: liangyao@hhu.edu.cn
+    - year: 2025
+      institution: 河海大学计算机与软件学院
+      course: 计算机技术专业 硕士   
+    - year: 2025
+      institution: COWARobot
+      course: Research Intern
+email: yaoliang@hhu.edu.cn
 superuser: true
 user_groups:
   - 博士研究生
 ---
-姚亮在2022年6月在河海大学取得了工学学士学位。曾获国家级奖项6项、省级奖项8项，并获各类荣誉称号及奖学金10余项。目前正在河海大学计算机与软件学院攻读硕士学位，研究方向包括无人机多模态环境感知与自主导引、鲁棒人脸检测与识别、遥感视觉统一基础模型。
-主持江苏省研究生科研与实践创新计划项目，参与国家自然科学基金面上项目、中国航空科学研究院航空科学基金项目等各级别科研项目6项，在IEEE TGRS、ICASSP等国际期刊和会议以第一作者或共同第一作者发表学术论文7篇，在审CCF-A类论文2篇，授权发明专利1项、申请发明专利4项。
+姚亮分别在2022年6月和2025年6月在河海大学取得了工学学士和硕士学位，目前在河海大学攻读博士学位，同时在COWARobot（酷哇科技有限公司）担任研究型实习生。曾获国家级奖项6项、省级奖项10余项，并获各类荣誉称号及奖学金20余项。
+研究方向包括无人机多模态环境感知、遥感多模态基础模型以及AI智能体等。
+主持江苏省研究生科研与实践创新计划项目，参与国家自然科学基金面上项目、中国航空科学研究院航空科学基金项目等各级别科研项目7项，
+在ACM MM、IEEE TGRS等知名国际期刊和会议以第一作者或共同第一作者发表学术论文9篇，授权发明专利1项、申请发明专利5项。
 
 - - -
+{{< icon name="envelope" pack="fas" >}} Email: yaoliang@hhu.edu.cn
+{{< icon name="house-user" pack="fa" >}} Personal Website: https://1e12leon.github.io/
 
 

@@ -10,7 +10,7 @@ design:
   columns: "2"
 ---
 ## 2025
-* **2025-07-19** 我们关于小样本图像分类的论文"Multi-stage Bayesian Prototype Refinement with featureweighting for few-shot classification"已被Pattern Analysis and Applications期刊录用。恭喜[许玮（本科生）](author/许玮/)，[徐圣翔（本科生）](author/徐圣翔/)！
+* **2025-07-19** 我们关于小样本图像分类的论文"Multi-stage Bayesian Prototype Refinement with feature weighting for few-shot classification"已被Pattern Analysis and Applications期刊录用。恭喜[许玮（本科生）](author/许玮/)，[徐圣翔（本科生）](author/徐圣翔/)！
    <br/><br/>   
 * **2025-07-11** 我们关于遥感弱监督语义分割的论文"Unifying Foundation Model and Segment Anything Model for Remote Sensing Weakly Supervised Semantic Segmentation "已被2025 IEEE International Conference on Systems (IEEE SMC 2025)录用。恭喜[崔金凤](author/崔金凤/)！
    <br/><br/>   

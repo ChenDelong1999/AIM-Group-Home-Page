@@ -10,6 +10,8 @@ design:
   columns: "2"
 ---
 ## 2025
+* **2025-08-01** 我们关于无人机多模态环境感知的数据集论文“UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks”已被CCF-A类会议33rd ACM International Conference on Multimedia (ACM MM 2025 Dataset Track)录用。恭喜[姚亮](author/姚亮/)，[徐圣翔（本科生）](author/徐圣翔/)！数据集的 [论文](https://arxiv.org/abs/2406.06230) 和 [获取方式](https://github.com/1e12Leon/UEMM-Air) 已公开。
+   <br/><br/>   
 * **2025-07-19** 我们关于小样本图像分类的论文"Multi-stage Bayesian Prototype Refinement with feature weighting for few-shot classification"已被Pattern Analysis and Applications期刊录用。恭喜[许玮（本科生）](author/许玮/)，[徐圣翔（本科生）](author/徐圣翔/)！
    <br/><br/>   
 * **2025-07-11** 我们关于遥感弱监督语义分割的论文"Unifying Foundation Model and Segment Anything Model for Remote Sensing Weakly Supervised Semantic Segmentation "已被2025 IEEE International Conference on Systems (IEEE SMC 2025)录用。恭喜[崔金凤](author/崔金凤/)！

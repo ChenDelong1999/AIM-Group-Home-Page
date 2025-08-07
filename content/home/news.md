@@ -10,6 +10,10 @@ design:
   columns: "2"
 ---
 ## 2025
+* **2025-08-07** [姚亮](author/姚亮/)的硕士毕业论文《基于视觉感知的无人机目标定位方法研究》被评为江苏省仪器仪表学会优秀本科毕业论文二等奖！恭喜！
+   <br/><br/>  
+* **2025-08-07** [徐圣翔（本科生）](author/徐圣翔/)的河海大学本科优秀毕业论文《知识基准图谱驱动的无人机目标检测模型设计与迁移方法》被评为江苏省仪器仪表学会优秀本科毕业论文一等奖！恭喜！
+   <br/><br/>  
 * **2025-08-01** 我们关于无人机多模态环境感知的数据集论文“UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks”已被CCF-A类会议33rd ACM International Conference on Multimedia (ACM MM 2025 Dataset Track)录用。恭喜[姚亮](author/姚亮/)，[徐圣翔（本科生）](author/徐圣翔/)！数据集的 [论文](https://arxiv.org/abs/2406.06230) 和 [获取方式](https://github.com/1e12Leon/UEMM-Air) 已公开。
    <br/><br/>   
 * **2025-07-19** 我们关于小样本图像分类的论文"Multi-stage Bayesian Prototype Refinement with feature weighting for few-shot classification"已被Pattern Analysis and Applications期刊录用。恭喜[许玮（本科生）](author/许玮/)，[徐圣翔（本科生）](author/徐圣翔/)！

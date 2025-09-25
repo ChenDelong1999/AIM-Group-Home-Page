@@ -12,7 +12,7 @@ design:
 ## 2025
 * **2025-09-23** 我们关于遥感图文检索的论文"Integrating Global and Local Information for Remote Sensing Image-Text Retrieval"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[陈子赟](author/陈子赟/)！
    <br/><br/>
-* **2025-09-22** 刘凡教授获评2025斯坦福全球前2%顶尖学者！
+* **2025-09-22** 刘凡教授入选斯坦福大学（Stanford University）和国际权威学术出版社爱思唯尔（Elsevier）发布的2025年全球前2%顶尖科学家榜单（World's Top 2% Scientists）
    <br/><br/>
 * **2025-09-11** 我们关于多模态目标检测的论文《非空间配准的多模态目标检测决策融合策略》已被CCF-B类中文期刊《中国图象图形学报》录用，恭喜[张荣（本科生）](author/张荣/), [张奕欣（本科生）](author/张奕欣/)！
    <br/><br/>

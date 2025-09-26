@@ -15,6 +15,6 @@ social:
 email: 2206060206@hhu.edu.cn
 superuser: false
 user_groups:
-  - 本科生
+  - 已毕业学生
 ---
 河海大学2022级人工智能专业本科生，目前致力于多模态目标识别方向的研究。

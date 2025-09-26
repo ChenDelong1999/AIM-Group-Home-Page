@@ -1,6 +1,6 @@
 ---
 title: 江建谕
-role: 2022级本科生
+role: 2022级本科生（保送东南大学）
 avatar_filename: avatar.jpg
 bio: 2022级软件工程专业本科生
 interests:
@@ -20,6 +20,6 @@ social:
 email: 2205010211@hhu.edu.cn
 superuser: false
 user_groups:
-  - 本科生
+  - 已毕业学生
 ---
 河海大学2022级软件工程专业本科生，曾获算法竞赛相关奖项共5项，曾获优秀学生、优秀学生干部等荣誉称号。

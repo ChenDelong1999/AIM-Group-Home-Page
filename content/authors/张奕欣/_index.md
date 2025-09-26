@@ -1,6 +1,6 @@
 ---
 title: 张奕欣
-role: 2022级本科生
+role: 2022级本科生（保送西北工业大学）
 avatar_filename: avatar.jpg
 bio: 2022级计算机科学与技术专业本科生
 interests:
@@ -21,6 +21,6 @@ social:
 email: 2206010406@hhu.edu.cn
 superuser: false
 user_groups:
-  - 本科生
+  - 已毕业学生
 ---
 河海大学2022级计算机科学与技术专业本科生，参与实验室基于认知机理的侦察目标定位方法研究项目。

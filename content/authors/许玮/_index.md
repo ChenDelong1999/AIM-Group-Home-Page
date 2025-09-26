@@ -1,6 +1,6 @@
 ---
 title: 许玮
-role: 2022级本科生
+role: 2022级本科生（保送南京大学）
 avatar_filename: avatar.jpg
 bio: 2022级软件工程专业本科生
 interests:
@@ -20,6 +20,6 @@ social:
 email: charles.xu@hhu.edu.cn
 superuser: false
 user_groups:
-  - 本科生
+  - 已毕业学生
 ---
 许玮，河海大学2022级软件工程专业本科生，曾获科技竞赛国家级奖项3项，国家奖学金、校级奖学金及荣誉多项。

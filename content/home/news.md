@@ -10,6 +10,8 @@ design:
   columns: "2"
 ---
 ## 2025
+* **2025-09-26** 刘凡教授获第十届全国计算机类课程实验教学案例评选优秀案例一等奖！
+   <br/><br/>
 * **2025-09-23** 我们关于遥感图文检索的论文"Integrating Global and Local Information for Remote Sensing Image-Text Retrieval"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[陈子赟](author/陈子赟/)！
    <br/><br/>
 * **2025-09-22** 刘凡教授入选斯坦福大学（Stanford University）和国际权威学术出版社爱思唯尔（Elsevier）发布的2025年全球前2%顶尖科学家榜单（World's Top 2% Scientists）

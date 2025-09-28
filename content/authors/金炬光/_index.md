@@ -1,5 +1,5 @@
 ---
-title:金炬光
+title: 金炬光
 role: 2023级本科生
 avatar_filename: avatar.jpg
 bio: 2023级计算机科学与技术（大禹）专业本科生

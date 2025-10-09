@@ -10,6 +10,8 @@ design:
   columns: "2"
 ---
 ## 2025
+* **2025-10-03** 刘凡教授受邀担任《河海大学学报（自然科学版）》第十三届编委。
+   <br/><br/>
 * **2025-09-26** 刘凡教授获第十届全国计算机类课程实验教学案例评选优秀案例一等奖！
    <br/><br/>
 * **2025-09-23** 我们关于遥感图文检索的论文"Integrating Global and Local Information for Remote Sensing Image-Text Retrieval"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[陈子赟](author/陈子赟/)！

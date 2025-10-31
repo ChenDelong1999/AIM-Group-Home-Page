@@ -12,7 +12,7 @@ design:
 ## 2025
 * **2025-10-31** 我们关于无人机（UAV）导航的论文"AirNavigation: Let UAV Navigation Tell Its Own Story"已被CCF-A类会议The 40th Annual AAAI Conference on Artificial Intelligence(AAAI'26 Demo)录用。恭喜[姚亮](author/姚亮/)！
    <br/><br/>
-* **2025-10-28** 恭喜[陈子赟](author/陈子赟/)团队完成的科技创新作品《可数智采：基于国产工业操作系统开发工业数采控制平台》获第十九届“挑战杯”揭榜挂帅全国特等奖！。
+* **2025-10-28** 恭喜[陈子赟](author/陈子赟/)、[王翌骏](author/王翌骏/)团队完成的科技创新作品《可数智采：基于国产工业操作系统开发工业数采控制平台》获第十九届“挑战杯”揭榜挂帅全国特等奖！。
    <br/><br/>
 * **2025-10-03** 刘凡教授受邀担任《河海大学学报（自然科学版）》第十三届编委。
    <br/><br/>

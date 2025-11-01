@@ -10,7 +10,7 @@ design:
   columns: "2"
 ---
 ## 2025
-* **2025-10-31** 我们关于无人机（UAV）导航的论文"AirNavigation: Let UAV Navigation Tell Its Own Story"已被CCF-A类会议The 40th Annual AAAI Conference on Artificial Intelligence(AAAI'26 Demo)录用。恭喜[江建谕](author/江建谕/)、[徐圣翔](author/徐圣翔/)！
+* **2025-10-31** 我们关于无人机（UAV）导航的论文"AirNavigation: Let UAV Navigation Tell Its Own Story"已被CCF-A类会议The 40th Annual AAAI Conference on Artificial Intelligence(AAAI'26 Demo)录用。恭喜[江建谕](author/江建谕/)、王泽权、[徐圣翔](author/徐圣翔/)！
    <br/><br/>
 * **2025-10-28** 恭喜[陈子赟](author/陈子赟/)、[王翌骏](author/王翌骏/)、[马幸](author/马幸/)、[曹书华](author/曹书华/)、[冀肖颖](author/冀肖颖/)、[花毓晨](author/花毓晨/)、[徐圣翔](author/徐圣翔/)、[闵锐](author/闵锐/)、[李骁睿](author/李骁睿/)、[林桁](author/林桁/)团队完成的科技创新作品《可数智采：基于国产工业操作系统开发工业数采控制平台》获第十九届“挑战杯”揭榜挂帅全国特等奖！。
    <br/><br/>

@@ -10,9 +10,9 @@ design:
   columns: "2"
 ---
 ## 2025
-* **2025-11-08** 我们关于遥感多模态模型的论文"RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow"已被CCF-A类会议The 40th Annual AAAI Conference on Artificial Intelligence(AAAI 26)录用。恭喜[姚亮）](author/姚亮/)、[闵锐（本科生）](author/闵锐/)、[徐圣翔](author/徐圣翔/)，这是Remote系列新成员，也是遥感领域首次使用强化学习训练策略，[论文](https://arxiv.org/pdf/2507.19280) 和[代码](https://github.com/1e12Leon/RemoteReasoner) 已发布！
+* **2025-11-08** 我们关于遥感多模态模型的论文"RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow"已被CCF-A类会议The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 26)录用。恭喜[姚亮](author/姚亮/)、[闵锐（本科生）](author/闵锐/)、[徐圣翔](author/徐圣翔/)，这是Remote系列新成员，也是遥感领域首次使用强化学习训练策略，[论文](https://arxiv.org/pdf/2507.19280) 和[代码](https://github.com/1e12Leon/RemoteReasoner) 已发布！
    <br/><br/>
-* **2025-10-31** 我们关于无人机（UAV）导航的论文"AirNavigation: Let UAV Navigation Tell Its Own Story"已被CCF-A类会议The 40th Annual AAAI Conference on Artificial Intelligence(AAAI 26 Demo)录用。恭喜[江建谕（本科生）](author/江建谕/)、王泽权（本科生）、[徐圣翔（本科生）](author/徐圣翔/)！
+* **2025-10-31** 我们关于无人机（UAV）导航的论文"AirNavigation: Let UAV Navigation Tell Its Own Story"已被CCF-A类会议The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 26 Demo)录用。恭喜[江建谕（本科生）](author/江建谕/)、王泽权（本科生）、[徐圣翔（本科生）](author/徐圣翔/)！
    <br/><br/>
 * **2025-10-28** 恭喜[陈子赟](author/陈子赟/)、[王翌骏](author/王翌骏/)、[马幸](author/马幸/)、[曹书华](author/曹书华/)、[冀肖颖](author/冀肖颖/)、[花毓晨（本科生）](author/花毓晨/)、[徐圣翔（本科生）](author/徐圣翔/)、[闵锐（本科生）](author/闵锐/)、[林桁（本科生）](author/林桁/)团队完成的科技创新作品《可数智采：基于国产工业操作系统开发工业数采控制平台》获第十九届“挑战杯”揭榜挂帅全国特等奖！
    <br/><br/>

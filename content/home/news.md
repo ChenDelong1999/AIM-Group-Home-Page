@@ -10,6 +10,8 @@ design:
   columns: "2"
 ---
 ## 2025
+* **2025-11-29** 恭喜[姚亮](author/姚亮/)的论文"RemoteSAM: Towards Segment Anything for Earth Observation"在2025年江苏省研究生“智能无人系统”学术创新论坛中获得特等奖！
+   <br/><br/>
 * **2025-11-08** 恭喜[缪师宇（本科生）](author/缪师宇/)获得小米特等奖学金！
    <br/><br/>
 * **2025-11-08** 我们关于遥感多模态模型的论文"RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow"已被CCF-A类会议The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 26)录用。恭喜[姚亮](author/姚亮/)、[闵锐（本科生）](author/闵锐/)、[徐圣翔](author/徐圣翔/)，这是Remote系列新成员，也是遥感领域首次使用强化学习训练策略，[论文](https://arxiv.org/pdf/2507.19280) 和[代码](https://github.com/1e12Leon/RemoteReasoner) 已发布！

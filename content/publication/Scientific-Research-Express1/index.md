@@ -6,10 +6,10 @@ authors:
   - Liang Yao
   - Fan Liu
 
-# publication: ACM International Conference on Multimedia
-# publication_short: "ACM MM 2025"
+publication: ACM International Conference on Multimedia
+publication_short: "ACM MM 2025"
 
-# url_pdf: publication/ACM-MM-2025-UEMMAIR/UEMMAIR.pdf
+url_pdf: publication/ACM-MM-2025-UEMMAIR/UEMMAIR.pdf
 
 abstract: 
   多模态大模型正成为新一代人工智能基础设施，其中面向遥感智能解译的多模态大模型作为“人工智能+遥感”交叉领域的前沿技术，在监测全球资源、环境、社会发展及军事斗争的态势等方面发挥着重要作用。

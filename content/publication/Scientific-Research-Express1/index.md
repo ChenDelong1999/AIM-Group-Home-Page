@@ -1,17 +1,10 @@
 ---
 title: "【科研速递】河海大学科研团队在多模态遥感大模型领域取得系列研究成果"
-# publication_types:
-#   - "1" 
-# authors:
-#   - Liang Yao
-#   - Fan Liu
-#   - Shengxiang Xu
-#   - Chuanyi Zhang
-#   - Xing Ma
-#   - Jianyu Jiang
-#   - Zequan Wang
-#   - Shimin Di
-#   - Jun Zhou
+publication_types:
+  - "0" 
+authors:
+  - Liang Yao
+  - Fan Liu
 
 # publication: ACM International Conference on Multimedia
 # publication_short: "ACM MM 2025"

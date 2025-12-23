@@ -6,8 +6,8 @@ authors:
   - Liang Yao
   - Fan Liu
 
-publication: ACM International Conference on Multimedia
-publication_short: "ACM MM 2025"
+# publication: ACM International Conference on Multimedia
+# publication_short: "ACM MM 2025"
 
 url_pdf: publication/ACM-MM-2025-UEMMAIR/UEMMAIR.pdf
 

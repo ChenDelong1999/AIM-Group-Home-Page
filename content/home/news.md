@@ -9,6 +9,9 @@ active: true
 design:
   columns: "2"
 ---
+## 2026
+*  **2025-04** 恭喜缪师宇获得2025年海韵风华“十杰百佳”优秀学生
+   <br/><br/>
 ## 2025
 * **2025-11-29** 恭喜[姚亮](author/姚亮/)的论文"RemoteSAM: Towards Segment Anything for Earth Observation"在2025年江苏省研究生“智能无人系统”学术创新论坛中获得特等奖！
    <br/><br/>

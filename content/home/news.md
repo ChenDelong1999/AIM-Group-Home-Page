@@ -9,9 +9,6 @@ active: true
 design:
   columns: "2"
 ---
-## 2026
-*  **2026-04** 恭喜缪师宇获得2025年海韵风华“十杰百佳”优秀学生
-   <br/><br/>
 ## 2025
 * **2025-11-29** 恭喜[姚亮](author/姚亮/)的论文"RemoteSAM: Towards Segment Anything for Earth Observation"在2025年江苏省研究生“智能无人系统”学术创新论坛中获得特等奖！
    <br/><br/>
@@ -64,6 +61,8 @@ design:
 *  **2025-05-21** 刘凡教授获第五届江苏省高校创新大赛二等奖！
    <br/><br/>
 *  **2025-04-23** 我们的论文“Boost UAV-based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning”已被一区TOP期刊IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (IEEE TGRS)录用。恭喜[姚亮](author/姚亮/)！
+   <br/><br/>
+*  **2025-04** 恭喜缪师宇获得2025年海韵风华“十杰百佳”优秀学生！
    <br/><br/>
 *  **2025-03-05** 我们的论文“Power Line Aerial lmage Restoration under Adverse Weather:Datasets and Baselines”已被二区TOP期刊J-STARS录用。
    <br/><br/>

@@ -34,7 +34,7 @@ design:
    <br/><br/> 
 * **2025-08-28** 恭喜[王兴宇（本科生）](author/王兴宇/)团队获第十四届“中国软件杯”大学生软件设计大赛全国三等奖！
    <br/><br/> 
-* **2025-08-21** 我们的论文"Chain-of-Talkers(CoTalk): Fast Human Annotation of Dense lmage Captions"已被CCF-B类会议、自然语言处理顶会EMNLP2025录用。恭喜[沈逸骏（本科生）](author/沈逸骏/)，[王兴宇（本科生）](author/王兴宇/)！
+* **2025-08-21** 我们的论文"Chain-of-Talkers(CoTalk): Fast Human Annotation of Dense Image Captions"已被CCF-B类会议、自然语言处理顶会EMNLP2025录用。恭喜[沈逸骏（本科生）](author/沈逸骏/)，[王兴宇（本科生）](author/王兴宇/)！
    <br/><br/>  
 * **2025-08-07** [姚亮](author/姚亮/)的硕士毕业论文《基于视觉感知的无人机目标定位方法研究》被评为江苏省仪器仪表学会优秀硕士毕业论文二等奖！恭喜！
    <br/><br/>  

@@ -52,6 +52,6 @@ projects:
 |--------------------------------|-------------------------------|-------------------------------|  
 | ![Image 4](pics/202406_2.jpg)  | ![Image 5](pics/202406_3.jpg) | ![Image 6](pics/202406_4.jpg) |
 | ![Image 7](pics/202506_1.jpg)  | ![Image 8](pics/202509_1.jpg) | ![Image 9](pics/202510_1.jpg) |
-| ![Image 10](pics/202510_2.jpg) | ![Image 11](pics/202510_3.jpg)| |
-
+| ![Image 10](pics/202510_2.jpg) | ![Image 11](pics/202510_3.jpg)| ![Image 12](pics/202601_1.jpg)|
+| ![Image 13](pics/202601_2.jpg) | ||
 ---

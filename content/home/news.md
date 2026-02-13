@@ -9,6 +9,9 @@ active: true
 design:
   columns: "2"
 ---
+## 2026
+* **2026-02-04** 刘凡教授的"信创背景下'AI+水利'复合型人才培养模式创新与实践"项目入选2025年度CAAI教学成果激励计划二类成果！
+   <br/><br/>
 ## 2025
 * **2025-11-29** 恭喜[姚亮](author/姚亮/)的论文"RemoteSAM: Towards Segment Anything for Earth Observation"在2025年江苏省研究生“智能无人系统”学术创新论坛中获得特等奖！
    <br/><br/>

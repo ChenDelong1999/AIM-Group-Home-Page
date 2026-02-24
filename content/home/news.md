@@ -10,7 +10,9 @@ design:
   columns: "2"
 ---
 ## 2026
-* **2026-02-04** 刘凡教授成果入选选2025年度CAAI教学成果激励计划！
+* **2026-02-19** 我们关于遥感图像分割的论文"Learning Where to Look: VLM-Assisted Efficient Inference for Sparse Aerial Objects Segmentation"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[吴婷](author/吴婷/)！
+   <br/><br/>
+* **2026-02-04** 刘凡教授成果入选2025年度CAAI教学成果激励计划！
    <br/><br/>
 ## 2025
 * **2025-11-29** 恭喜[姚亮](author/姚亮/)的论文"RemoteSAM: Towards Segment Anything for Earth Observation"在2025年江苏省研究生“智能无人系统”学术创新论坛中获得特等奖！

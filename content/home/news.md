@@ -12,7 +12,7 @@ design:
 
 ## 2026
 
-* **2026-04-12** 我们的论文"E²SGNN: Reconciling Expression and Efficiency in Spiking Graph Neural Network"已被CCF-A类会议WWW '26: Proceedings of the ACM Web Conference 2026(CVPR 26)录用。
+* **2026-04-12** 我们的论文"E²SGNN: Reconciling Expression and Efficiency in Spiking Graph Neural Network"已被CCF-A类会议WWW '26: Proceedings of the ACM Web Conference 2026(WWW'26)录用。
    <br/><br/>
 * **2026-02-20** 我们的论文"Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting"和"Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026(CVPR 26)录用。
    <br/><br/>

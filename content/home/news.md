@@ -11,17 +11,21 @@ design:
 ---
 
 ## 2026
+* **2026-05-04** 我们关于遥感视觉问答的论文"Boosting Large Vision-Language Models with Hierarchical Semantic fusion for Remote Sensing Visual Question Answering"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[霍健](author/霍健/)、[徐一](author/徐一/)！
+   <br/><br/>
 * **2026-04-28** 我们提出了 ReconScore，旨在无参考条件下通过文本重建图像的范式准确评估遥感图像描述。多个遥感多模态模型在该指标上的评测结果表明，未经微调的通用模型在真实遥感语义表达上反而优于精心微调的模型。基于该发现，我们进一步提出了免训练的遥感图像描述生成方法RemoteDescriber，通过自校正机制充分挖掘多模态大模型的零样本描述能力。论文的 [arXiv 预印本](https://arxiv.org/abs/2604.22855) 和 [代码](https://github.com/hhu-czy/RemoteDescriber) 现已公开。
    <br/><br/>
 * **2026-04-21** 我们提出了 RemoteShield，一个面向真实地球观测场景的鲁棒遥感多模态模型。RemoteShield 通过语义等价簇建模与跨条件偏好学习，提升模型在图像退化与文本指令扰动下的稳定响应能力，并在多种真实扰动场景中展现出优于现有遥感多模态大模型的鲁棒性与一致性。论文的 [arxiv 预印本](https://arxiv.org/abs/2604.17243) 和 [代码](https://github.com/SteveJoker404/RemoteShield) 现已公开。
    <br/><br/>
-* **2026-04-12** 我们的论文"E²SGNN: Reconciling Expression and Efficiency in Spiking Graph Neural Network"已被CCF-A类会议WWW '26: Proceedings of the ACM Web Conference 2026(WWW'26)录用。
-   <br/><br/>
 * **2026-04-09** 我们提出了 RemoteAgent，旨在将用户模糊、开放式的自然语言意图自动转化为合适的多粒度遥感视觉分析任务。为支持真实人机交互场景，我们构建了 VagueEO 指令数据集，并通过强化学习使模型能够在图像级与稀疏区域级任务上直接推理，同时通过 MCP 机制仅在检测、分割、变化检测等密集预测任务中调用专业工具。论文的 [arXiv 预印本](https://arxiv.org/abs/2604.07765) 和 [代码](https://github.com/1e12Leon/RemoteAgent) 现已公开。
    <br/><br/>
-* **2026-02-20** 我们的论文"Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting"和"Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026(CVPR 26)录用。
+* **2026-02-20** 我们的论文"Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026(CVPR 26)录用。
+   <br/><br/>
+**2026-02-20** 我们的论文"Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026(CVPR 26)录用。
    <br/><br/>
 * **2026-02-04** 刘凡教授成果入选2025年度CAAI教学成果激励计划！
+   <br/><br/>
+* **2026-01-13** 我们的论文"E²SGNN: Reconciling Expression and Efficiency in Spiking Graph Neural Network"已被CCF-A类会议WWW '26: Proceedings of the ACM Web Conference 2026(WWW'26)录用。
    <br/><br/>
 ## 2025
 * **2025-11-29** 恭喜[姚亮](author/姚亮/)的论文"RemoteSAM: Towards Segment Anything for Earth Observation"在2025年江苏省研究生“智能无人系统”学术创新论坛中获得特等奖！

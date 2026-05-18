@@ -11,6 +11,8 @@ design:
 ---
 
 ## 2026
+* **2026-05-18** 我们关于遥感异构蒸馏的论文"Heterogeneous Knowedge DistillationFostered Pre-training for Remote SensingObiect Detection"已被Pattern Recognition(中科院一区TOP期刊)录用。恭喜[张新蕾](author/张新蕾/)！
+   <br/><br/>
 * **2026-05-04** 我们关于遥感视觉问答的论文"Boosting Large Vision-Language Models with Hierarchical Semantic fusion for Remote Sensing Visual Question Answering"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[霍健](author/霍健/)、[徐一](author/徐一/)！
    <br/><br/>
 * **2026-04-28** 我们提出了 ReconScore，旨在无参考条件下通过文本重建图像的范式准确评估遥感图像描述。多个遥感多模态模型在该指标上的评测结果表明，未经微调的通用模型在真实遥感语义表达上反而优于精心微调的模型。基于该发现，我们进一步提出了免训练的遥感图像描述生成方法RemoteDescriber，通过自校正机制充分挖掘多模态大模型的零样本描述能力。论文的 [arXiv 预印本](https://arxiv.org/abs/2604.22855) 和 [代码](https://github.com/hhu-czy/RemoteDescriber) 现已公开。

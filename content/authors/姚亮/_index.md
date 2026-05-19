@@ -6,7 +6,7 @@ bio: 博士研究生
 interests:
   - 遥感视觉语言模型  
   - 无人机多模态环境感知
-  - 世界动作模型
+  - 世界模型
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -23,7 +23,7 @@ social:
     icon: user
   - display:
       header: false
-    link: mailto:liangyao@hhu.edu.cn
+    link: mailto:yaoliang@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 organizations:
@@ -45,7 +45,7 @@ superuser: true
 user_groups:
   - 博士研究生
 ---
-姚亮，一年级博士生，在AAAI、ACM MM、IEEE TGRS等期刊和会议发表学术论文十余篇，担任NeurIPS、ICML、CVPR、ICCV、AAAI等会议审稿人，曾获国家级奖项6项、省级奖项10余项、各类荣誉称号及奖学金20余项。
+姚亮，一年级博士生，在AAAI、ACM MM、IEEE TGRS、PR等期刊和会议发表学术论文十余篇，担任NeurIPS、ICML、CVPR、ICCV、AAAI等会议审稿人，曾获国家级奖项6项、省级奖项10余项、各类荣誉称号及奖学金20余项。
 
 
 - - -

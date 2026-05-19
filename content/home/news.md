@@ -27,7 +27,7 @@ design:
    <br/><br/>
 * **2026-02-04** 刘凡教授成果入选2025年度CAAI教学成果激励计划！
    <br/><br/>
-* **2026-01-13** 我们的论文"E²SGNN: Reconciling Expression and Efficiency in Spiking Graph Neural Network"已被CCF-A类会议WWW '26: Proceedings of the ACM Web Conference 2026(WWW'26)录用。
+* **2026-01-13** 我们的论文"E²SGNN: Reconciling Expression and Efficiency in Spiking Graph Neural Network"已被CCF-A类会议ACM Web Conference 2026(WWW'26)录用。
    <br/><br/>
 ## 2025
 * **2025-11-29** 恭喜[姚亮](author/姚亮/)的论文"RemoteSAM: Towards Segment Anything for Earth Observation"在2025年江苏省研究生“智能无人系统”学术创新论坛中获得特等奖！

@@ -23,7 +23,9 @@ design:
    <br/><br/>
 * **2026-02-20** 我们的论文"Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026(CVPR 26)录用。
    <br/><br/>
-**2026-02-20** 我们的论文"Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026(CVPR 26)录用。
+* **2026-02-20** 我们的论文"Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026(CVPR 26)录用。
+   <br/><br/>
+* **2026-02-19** 我们关于遥感图像语义分割的论文"Learning Where to Look:VLM-Assisted Efficient Inference for SparseAerial Objects Segmentation"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[吴婷](author/吴婷/)！
    <br/><br/>
 * **2026-02-04** 刘凡教授成果入选2025年度CAAI教学成果激励计划！
    <br/><br/>

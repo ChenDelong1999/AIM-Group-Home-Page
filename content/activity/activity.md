@@ -121,11 +121,11 @@ projects:
 
 {{< figure src="pics/202401.jpg" title="23届年底团建@2024.01" alt="实验室聚餐" class="activity-card" >}}
 
-{{< figure src="pics/202406_1.jpg" title="24届毕业团建（1）@2024.06" alt="户外团建合影" class="activity-card" >}}
+{{< figure src="pics/202406_1.jpg" title="24届毕业团建-1@2024.06" alt="户外团建合影" class="activity-card" >}}
 
-{{< figure src="pics/202406_2.jpg" title="24届毕业团建（2）@2024.06" alt="毕业季合影" class="activity-card" >}}
+{{< figure src="pics/202406_2.jpg" title="24届毕业团建-2@2024.06" alt="毕业季合影" class="activity-card" >}}
 
-{{< figure src="pics/202406_3.jpg" title="24届毕业团建（3）@2024.06" alt="户外观影活动" class="activity-card" >}}
+{{< figure src="pics/202406_3.jpg" title="24届毕业团建-3@2024.06" alt="户外观影活动" class="activity-card" >}}
 
 {{< figure src="pics/202406_4.jpg" title="24届毕业蛋糕@2024.06" alt="毕业季蛋糕" class="activity-card" >}}
 
@@ -133,9 +133,9 @@ projects:
 
 {{< figure src="pics/202509_1.jpg" title="中国图像图形学学会青年科学家会议@2025.09" alt="学术交流现场" class="activity-card" >}}
 
-{{< figure src="pics/202510_1.jpg" title="MLA2025@2025.10" alt="会议报告现场" class="activity-card" >}}
+{{< figure src="pics/202510_1.jpg" title="MLA 2025@2025.10" alt="会议报告现场" class="activity-card" >}}
 
-{{< figure src="pics/202510_2.jpg" title="ACM MM 2025-RemoteSAM 报告@2025.10" alt="RemoteSAM 报告现场" class="activity-card" >}}
+{{< figure src="pics/202510_2.jpg" title="ACM MM 2025-RemoteSAM oral@2025.10" alt="RemoteSAM 报告现场" class="activity-card" >}}
 
 {{< figure src="pics/202510_3.jpg" title="ACM MM 2025-合影@2025.10" alt="ACM MM 2025 合影" class="activity-card" >}}
 

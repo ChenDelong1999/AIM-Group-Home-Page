@@ -131,6 +131,8 @@ projects:
 
 {{< figure src="pics/202506_1.jpg" title="VALSE 2025 青年学者研讨会@2025.06" alt="VALSE 2025 青年学者研讨会" class="activity-card" >}}
 
+{{< figure src="pics/202506_2.jpg" title="25届毕业合影" alt="25届毕业合影" class="activity-card" >}}
+
 {{< figure src="pics/202509_1.jpg" title="中国图像图形学学会青年科学家会议@2025.09" alt="学术交流现场" class="activity-card" >}}
 
 {{< figure src="pics/202510_1.jpg" title="MLA 2025@2025.10" alt="会议报告现场" class="activity-card" >}}

@@ -131,7 +131,7 @@ projects:
 
 {{< figure src="pics/202506_1.jpg" title="VALSE 2025 青年学者研讨会@2025.06" alt="VALSE 2025 青年学者研讨会" class="activity-card" >}}
 
-{{< figure src="pics/202506_2.jpg" title="25届毕业合影" alt="25届毕业合影" class="activity-card" >}}
+{{< figure src="pics/202506_2.jpg" title="25届毕业合影2025.06" alt="25届毕业合影" class="activity-card" >}}
 
 {{< figure src="pics/202509_1.jpg" title="中国图像图形学学会青年科学家会议@2025.09" alt="学术交流现场" class="activity-card" >}}
 
@@ -145,7 +145,7 @@ projects:
 
 {{< figure src="pics/202601_2.jpg" title="AAAI 2026-Demo 展示@2026.01" alt="AAAI 2026 Demo 展示" class="activity-card" >}}
 
-{{< figure src="pics/202606_1.jpg" title="26届毕业合影" alt="26届毕业合影" class="activity-card" >}}
+{{< figure src="pics/202606_1.jpg" title="26届毕业合影@2026.06" alt="26届毕业合影" class="activity-card" >}}
 
 </div>
 

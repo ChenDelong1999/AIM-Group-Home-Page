@@ -11,6 +11,8 @@ design:
 ---
 
 ## 2026
+* **2026-06-04** 刘凡教授受邀担任《数据采集与处理》第二届青年编委会委员。
+   <br/><br/>
 * **2026-05-18** 我们关于遥感异构蒸馏的论文"Heterogeneous Knowedge DistillationFostered Pre-training for Remote SensingObiect Detection"已被Pattern Recognition(中科院一区TOP期刊)录用。恭喜[张新蕾](author/张新蕾/)！
    <br/><br/>
 * **2026-05-04** 我们关于遥感视觉问答的论文"Boosting Large Vision-Language Models with Hierarchical Semantic fusion for Remote Sensing Visual Question Answering"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[霍健](author/霍健/)、[徐一](author/徐一/)！

@@ -11,6 +11,9 @@ design:
 ---
 
 ## 2026
+* **2026-06-06** 我们的论文《基于上下文扩图与分布约束的小样本遥感指代分割》已被 2026年中国多媒体大会（ChinaMM26）录用。恭喜[金炬光（本科生）](author/金炬光/)、[曾国琳（本科生）](author/曾国琳/)！
+* **2026-06-06** 我们的论文《面向热红外场景的广义指代分割数据集与基准测试》已被 2026年中国多媒体大会（ChinaMM26）录用。恭喜[花毓晨（本科生）](author/花毓晨/)、[张厚冰（本科生）](author/张厚冰/)！
+   <br/><br/>
 * **2026-06-04** 刘凡教授受邀担任《数据采集与处理》第二届青年编委会委员。
    <br/><br/>
 * **2026-05-18** 我们关于遥感异构蒸馏的论文"Heterogeneous Knowedge DistillationFostered Pre-training for Remote SensingObiect Detection"已被Pattern Recognition(中科院一区TOP期刊)录用。恭喜[张新蕾](author/张新蕾/)！

@@ -8,6 +8,7 @@ superuser: true
 authors:
   - 陈德龙
 title: 陈德龙
+weight: -2021
 role: 2017级本科生（香港科技大学博士生，Meta FAIR 访问研究员）
 bio: 已毕业学生
 interests:

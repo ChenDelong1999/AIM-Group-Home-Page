@@ -1,5 +1,6 @@
 ---
 title: 王君锋
+weight: -2022
 role: 2019级硕士研究生（杭州海康威视数据技术股份有限公司）
 avatar_filename: avatar.jpg
 bio: 2019级硕士研究生

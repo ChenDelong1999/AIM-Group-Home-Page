@@ -1,5 +1,6 @@
 ---
 title: 徐圣翔
+weight: -2025
 role: 2021级本科生（保送东南大学）
 avatar_filename: avatar.jpg
 bio: 已毕业学生

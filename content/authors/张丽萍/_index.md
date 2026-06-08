@@ -1,5 +1,6 @@
 ---
 title: 张丽萍
+weight: -2022
 role: 2019级硕士研究生（‌中国邮政储蓄银行股份有限公司）
 avatar_filename: avatar.jpg
 bio: 2019级硕士研究生

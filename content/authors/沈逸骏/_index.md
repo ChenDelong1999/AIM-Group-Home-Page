@@ -1,5 +1,6 @@
 ---
 title: 沈逸骏
+weight: -2025
 role: 2021级本科生（保送华东师范大学）
 avatar_filename: avatar.jpg
 bio: 2021级智能科学与技术专业本科生

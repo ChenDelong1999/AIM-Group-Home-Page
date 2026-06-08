@@ -1,5 +1,6 @@
 ---
 title: 庄芸
+weight: -2023
 role: 2020级硕士研究生（‌微软中国有限公司无锡分公司）
 avatar_filename: avatar.jpg
 bio: 2020级硕士研究生

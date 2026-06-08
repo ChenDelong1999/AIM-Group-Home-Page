@@ -1,5 +1,6 @@
 ---
 title: 李泽文
+weight: -2020
 role: 2016级本科生（赴卡内基梅隆大学深造）
 avatar_filename: avatar.jpg
 bio: 已毕业学生

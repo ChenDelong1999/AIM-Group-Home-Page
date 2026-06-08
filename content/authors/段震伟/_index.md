@@ -1,5 +1,6 @@
 ---
 title: 段震伟
+weight: -2019
 role: 2015级本科生（‌中国科学院计算所博士生）
 avatar_filename: avatar.jpg
 bio: 2015级本科生

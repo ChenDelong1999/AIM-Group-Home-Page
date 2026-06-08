@@ -1,5 +1,6 @@
 ---
 title: 张伟娟
+weight: -2021
 role: 2018级硕士研究生（‌京东）
 avatar_filename: avatar.jpg
 bio: 2018级硕士研究生

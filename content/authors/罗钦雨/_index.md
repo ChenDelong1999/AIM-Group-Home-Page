@@ -1,5 +1,6 @@
 ---
 title: 罗钦雨
+weight: -2023
 role: 2019级本科生（赴约翰霍普金斯大学深造）
 avatar_filename: avatar.jpg
 interests:

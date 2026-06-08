@@ -1,5 +1,6 @@
 ---
 title: 李非凡
+weight: -2023
 role: 2020级硕士研究生（南京南瑞继保电气有限公司）
 avatar_filename: avatar.jpg
 interests:

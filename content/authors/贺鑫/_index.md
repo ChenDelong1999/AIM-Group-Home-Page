@@ -1,5 +1,6 @@
 ---
 title: 贺鑫
+weight: -2025
 role: 2022级硕士研究生（中国电信股份有限公司江苏分公司）
 avatar_filename: avatar.jpg
 bio: 2022级硕士研究生

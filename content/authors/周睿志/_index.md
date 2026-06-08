@@ -1,5 +1,6 @@
 ---
 title: 周睿志
+weight: -2023
 role: 2019级本科生（保送西北工业大学）
 avatar_filename: avatar.jpg
 bio: 已毕业学生

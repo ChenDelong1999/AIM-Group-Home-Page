@@ -1,5 +1,6 @@
 ---
 title: 孙昊
+weight: -2025
 role: 2021级本科生（保送南京大学）
 avatar_filename: avatar.jpg
 bio: 2021级人工智能专业本科生

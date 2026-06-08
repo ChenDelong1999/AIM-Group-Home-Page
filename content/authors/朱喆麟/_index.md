@@ -1,5 +1,6 @@
 ---
 title: 朱喆麟
+weight: -2026
 role: 2022级本科生
 avatar_filename: avatar.jpg
 bio: 2022级人工智能专业本科生

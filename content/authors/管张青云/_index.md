@@ -1,5 +1,6 @@
 ---
 title: 管张青云
+weight: -2025
 role: 2022级硕士研究生（叮咚买菜）
 avatar_filename: avatar.jpg
 bio: 2022级硕士研究生

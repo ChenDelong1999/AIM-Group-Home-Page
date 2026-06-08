@@ -1,6 +1,5 @@
 ---
 title: 刘生伟
-weight: -2022
 role: 2018级本科生（贝壳找房（北京）科技有限公司）
 avatar_filename: avatar.jpg
 bio: 2022级本科生

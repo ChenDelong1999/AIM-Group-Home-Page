@@ -1,6 +1,5 @@
 ---
 title: 崔闰杰
-weight: -2022
 role: 2019级硕士研究生（‌华为技术有限公司）
 avatar_filename: avatar.jpg
 bio: 2019级硕士研究生

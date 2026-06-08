@@ -1,6 +1,5 @@
 ---
 title: 李慧洲
-weight: -2022
 role: 2019级硕士研究生（中煤科工集团重庆研究院有限公司）
 avatar_filename: avatar.jpg
 bio: 2019级硕士研究生

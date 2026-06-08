@@ -1,6 +1,5 @@
 ---
 title: 崔金凤
-weight: -2026
 role: 2023级硕士研究生（蔚来）
 avatar_filename: avatar.jpg
 bio: 2023级硕士研究生

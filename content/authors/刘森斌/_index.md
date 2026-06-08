@@ -1,6 +1,5 @@
 ---
 title: 刘森斌
-weight: -2019
 role: 2015级本科毕业生（‌字节跳动有限公司）
 avatar_filename: avatar.jpg
 bio: 2015级本科毕业生

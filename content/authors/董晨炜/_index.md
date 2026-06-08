@@ -1,6 +1,5 @@
 ---
 title: 董晨炜
-weight: -2026
 role: 2023级硕士研究生（字节跳动）
 avatar_filename: avatar.jpg
 bio: 2023级硕士研究生

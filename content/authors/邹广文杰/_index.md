@@ -1,6 +1,5 @@
 ---
 title: 邹广文杰
-weight: -2025
 role: 2021级本科生（保送南京大学）
 avatar_filename: avatar.png
 bio: 2021级计算机科学与技术专业本科生

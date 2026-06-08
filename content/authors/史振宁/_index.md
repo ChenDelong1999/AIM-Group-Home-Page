@@ -1,6 +1,5 @@
 ---
 title: 史振宁
-weight: -2023
 role: 2019级本科生（‌保送南开大学）
 avatar_filename: avatar.jpg
 bio: 2019级本科生

@@ -1,6 +1,5 @@
 ---
 title: 张嘉韬
-weight: -2019
 role: 2015级本科生（浙江大学博士生）
 avatar_filename: avatar.jpg
 bio: 2015级本科生

@@ -1,6 +1,5 @@
 ---
 title: 王远卓
-weight: -2023
 role: 2019级本科生（‌保研中南大学）
 avatar_filename: avatar.jpg
 bio: 2019级本科生

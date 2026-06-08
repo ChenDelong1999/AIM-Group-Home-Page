@@ -1,6 +1,5 @@
 ---
 title: 霍健
-weight: -2026
 role: 2023级硕士研究生（海尔）
 avatar_filename: avatar.jpg
 bio: 2023级研究生

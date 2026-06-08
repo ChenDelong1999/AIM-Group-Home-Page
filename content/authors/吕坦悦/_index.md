@@ -1,6 +1,5 @@
 ---
 title: 吕坦悦
-weight: -2020
 role: 2017级硕士研究生（军队文职）
 avatar_filename: avatar.jpg
 bio: 2017级硕士研究生

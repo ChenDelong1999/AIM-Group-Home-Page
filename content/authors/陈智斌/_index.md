@@ -1,6 +1,5 @@
 ---
 title: 陈智斌
-weight: -2022
 role: 2018级本科生（北京三快网络科技有限公司）
 avatar_filename: avatar.jpg
 bio: 2018级本科生

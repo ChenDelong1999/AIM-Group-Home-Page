@@ -1,6 +1,5 @@
 ---
 title: 张奕欣
-weight: -2026
 role: 2022级本科生（保送西北工业大学）
 avatar_filename: avatar.jpg
 bio: 2022级计算机科学与技术专业本科生

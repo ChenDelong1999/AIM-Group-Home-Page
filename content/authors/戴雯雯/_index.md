@@ -1,6 +1,5 @@
 ---
 title: 戴雯雯
-weight: -2025
 role: 2022级硕士研究生（招银网络科技（杭州）有限公司）
 avatar_filename: avatar.jpg
 bio: 2022级硕士研究生

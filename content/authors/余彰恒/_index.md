@@ -1,6 +1,5 @@
 ---
 title: 余彰恒
-weight: -2022
 role: 2018级本科生（‌保送南京大学）
 avatar_filename: avatar.jpg
 bio: 2018级本科生

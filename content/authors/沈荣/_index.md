@@ -1,6 +1,5 @@
 ---
 title: 沈荣
-weight: -2024
 role: 2021级硕士研究生（大华技术股份有限公司）
 avatar_filename: avatar.jpg
 bio: 硕士研究生

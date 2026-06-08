@@ -1,6 +1,5 @@
 ---
 title: 陈宁
-weight: -2025
 role: 2022级硕士研究生（南京南瑞继保电气有限公司）
 avatar_filename: avatar.jpg
 bio: 2022级硕士研究生

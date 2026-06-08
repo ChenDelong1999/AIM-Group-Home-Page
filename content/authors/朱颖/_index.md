@@ -1,6 +1,5 @@
 ---
 title: 朱颖
-weight: -2026
 role: 2022级本科生（保送东南大学）
 avatar_filename: avatar.jpg
 bio: 2022级计算机科学与技术专业本科生

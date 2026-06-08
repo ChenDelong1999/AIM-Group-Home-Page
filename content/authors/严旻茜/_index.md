@@ -1,6 +1,5 @@
 ---
 title: 严旻茜
-weight: -2024
 role: 2020级本科生（升学香港中文大学）
 avatar_filename: avatar.jpg
 bio: 2020级计算机科学与技术专业本科生

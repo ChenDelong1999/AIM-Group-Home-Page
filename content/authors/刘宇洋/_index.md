@@ -1,6 +1,5 @@
 ---
 title: 刘宇洋
-weight: -2024
 role: 2020级本科生（保送中南大学）
 avatar_filename: avatar.jpg
 bio: 2020级计算机科学与技术专业

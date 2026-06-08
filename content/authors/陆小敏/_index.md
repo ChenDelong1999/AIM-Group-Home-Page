@@ -1,6 +1,5 @@
 ---
 title: 陆小敏
-weight: -2021
 role: 2018级硕士研究生（‌军队文职）
 avatar_filename: avatar.jpg
 bio: 2018级硕士研究生

@@ -1,6 +1,5 @@
 ---
 title: 刘卓辉
-weight: -2019
 role: 2015级本科毕业生（甘肃省水利水电勘测设计研究院有限责任公司）
 avatar_filename: avatar.jpg
 bio: 2015级本科毕业生

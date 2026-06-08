@@ -1,6 +1,5 @@
 ---
 title: 朱江北
-weight: -2023
 role: 2020级硕士研究生（集度科技（武汉）有限公司）
 avatar_filename: avatar.jpg
 bio: 2020级硕士研究生

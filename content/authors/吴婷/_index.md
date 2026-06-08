@@ -1,6 +1,5 @@
 ---
 title: 吴婷
-weight: -2026
 role: 2023级硕士研究生（得物）
 avatar_filename: avatar.jpg
 interests:

@@ -1,6 +1,5 @@
 ---
 title: 王兴宇
-weight: -2026
 role: 2022级本科生（保送东北大学）
 avatar_filename: avatar.jpg
 bio: 2022级人工智能专业本科生

@@ -40,9 +40,9 @@ design:
 * **2026-01-13** 我们的论文"E²SGNN: Reconciling Expression and Efficiency in Spiking Graph Neural Network"已被CCF-A类会议ACM Web Conference 2026(WWW'26)录用。
    <br/><br/>
 ## 2025
+* **2025-12-05** 刘凡教授的"三元驱动·五链协同: IT拔尖人才培养模式创新与实践"获江苏省计算机学会优秀教学成果一等奖！
+   <br/><br/>
 
-<!-- * **2025-12-05** 刘凡教授的"三元驱动·五链协同: IT拔尖人才培养模式创新与实践"获江苏省计算机学会优秀教学成果一等奖！
-   <br/><br/> -->
 * **2025-11-29** 恭喜[姚亮](author/姚亮/)的论文"RemoteSAM: Towards Segment Anything for Earth Observation"在2025年江苏省研究生“智能无人系统”学术创新论坛中获得特等奖！
    <br/><br/>
 * **2025-11-08** 恭喜[缪师宇（本科生）](author/缪师宇/)获得小米特等奖学金！

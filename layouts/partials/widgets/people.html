@@ -44,10 +44,10 @@
       {{ end }}
     {{ end }}
 
-    {{ range slice (dict "title" "已毕业研究生" "people" $graduate_students) (dict "title" "已毕业本科生" "people" $undergraduate_students) }}
+    {{ range slice (dict "title" "研究生" "people" $graduate_students) (dict "title" "本科生" "people" $undergraduate_students) }}
       {{ if .people }}
-      <div class="col-md-12">
-        <h3 class="mb-4">{{ .title | markdownify }}</h3>
+      <div class="col-md-12 people-subgroup-heading">
+        <span>{{ .title | markdownify }}</span>
       </div>
       {{ range .people }}
       {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}

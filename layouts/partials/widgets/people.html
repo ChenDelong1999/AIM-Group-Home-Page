@@ -37,10 +37,10 @@
     {{ $graduate_students := slice }}
     {{ $undergraduate_students := slice }}
     {{ range $query }}
-      {{ if or (in .Params.role "硕士") (in .Params.role "博士") }}
-        {{ $graduate_students = $graduate_students | append . }}
-      {{ else if in .Params.role "本科" }}
+      {{ if in .Params.role "本科" }}
         {{ $undergraduate_students = $undergraduate_students | append . }}
+      {{ else if or (in .Params.role "硕士") (in .Params.role "博士") }}
+        {{ $graduate_students = $graduate_students | append . }}
       {{ end }}
     {{ end }}
 

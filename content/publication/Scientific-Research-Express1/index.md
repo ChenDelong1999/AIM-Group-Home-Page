@@ -16,6 +16,7 @@ abstract:
 
 draft: false
 featured: False
+profile: false
 tags:
   - Multi-modality
   - Remote sensing

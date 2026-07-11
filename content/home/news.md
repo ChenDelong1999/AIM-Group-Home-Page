@@ -34,7 +34,7 @@ design:
 * **2026-04-09** 我们提出了 RemoteAgent，旨在将用户模糊、开放式的自然语言意图自动转化为合适的多粒度遥感视觉分析任务。为支持真实人机交互场景，我们构建了 VagueEO 指令数据集，并通过强化学习使模型能够在图像级与稀疏区域级任务上直接推理，同时通过 MCP 机制仅在检测、分割、变化检测等密集预测任务中调用专业工具。论文的 [arXiv 预印本](https://arxiv.org/abs/2604.07765) 和 [代码](https://github.com/1e12Leon/RemoteAgent) 现已公开。
    <br/><br/>
 * **2026-04-07** 我们的论文"SGPVT: Self-Generated ProximalVisual Tokens for Mitigating Proximal Collateral Damage in MLLM Unlearning"已被CCF-A类会议The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)录用！
-* <br/><br/>
+   <br/><br/>
 * **2026-02-20** 我们的论文"Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 26)录用！
    <br/><br/>
 * **2026-02-20** 我们的论文"Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 26)录用！

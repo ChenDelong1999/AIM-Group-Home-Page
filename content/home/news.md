@@ -11,6 +11,8 @@ design:
 ---
 
 ## 2026
+* **2026-07-10** 我们关于噪声关联的论文"Rethinking Noisy Correspondence via Cross-Modal Collaborative Representation"被CCF-A类会议ACM International Conference on Multimedia (ACM MM 2026) 录用，恭喜[冀肖颖](author/冀肖颖/)、[张新蕾](author/张新蕾/)、张荔萤！
+   <br/><br/>
 * **2026-06-06** 我们的论文《基于上下文扩图与分布约束的小样本遥感指代分割》已被 2026年中国多媒体大会（ChinaMM26）录用。恭喜[金炬光（本科生）](author/金炬光/)、[曾国琳（本科生）](author/曾国琳/)！
    <br/><br/>
 * **2026-06-06** 我们的论文《面向热红外场景的广义指代分割数据集与基准测试》已被 2026年中国多媒体大会（ChinaMM26）录用。恭喜[花毓晨（本科生）](author/花毓晨/)、[张厚冰（本科生）](author/张厚冰/)！
@@ -89,7 +91,7 @@ design:
    <br/><br/>
 *  **2025-05-26** 我们提出了一种新的多任务统一范式，以指代表达分割为核心，无需额外任务头即可高效拓展到8种遥感视觉感知任务。在此范式基础上，我们构建了RemoteSAM模型，RemoteSAM以180M的参数量在多种遥感视觉任务上超越了LHRS-Bot、GeoChat等7B参数级模型的性能。论文的 [arxiv 预印本](https://arxiv.org/abs/2505.18022) 和 [代码](https://github.com/1e12Leon/RemoteSAM) 现已公开。
    <br/><br/>
-*  **2025-05-25** 恭喜张荣、冯宇璇带领的2个本科生的团队获得中国大学生服务外包创新创业大赛三等奖！
+*  **2025-05-25** 恭喜张荣、冯宇璇带领的2个本科生的团队获得中国大学生服务外包创新创业大赛三等奖！![img_1.png](img_1.png)
    <br/><br/>
 *  **2025-05-21** 刘凡教授获第五届江苏省高校创新大赛二等奖！
    <br/><br/>

@@ -14,6 +14,7 @@ design:
 * **2026-07-10** 我们关于噪声关联的论文"Rethinking Noisy Correspondence via Cross-Modal Collaborative Representation"被CCF-A类会议ACM International Conference on Multimedia (ACM MM 2026) 录用，恭喜[冀肖颖](author/冀肖颖/)、[张新蕾](author/张新蕾/)、张荔萤！
    <br/><br/>
 * **2026-07-06** 我们的论文"Forgotten Horizons in Concept Erasure Safeguarding Close-Proximity Concepts in Text-to-Image Models"已被CCF-A类期刊IEEE Transactions on Information Forensics & Security (TIFS)录用！
+   <br/><br/>
 * **2026-06-06** 我们的论文《基于上下文扩图与分布约束的小样本遥感指代分割》已被 2026年中国多媒体大会（ChinaMM26）录用。恭喜[金炬光（本科生）](author/金炬光/)、[曾国琳（本科生）](author/曾国琳/)！
    <br/><br/>
 * **2026-06-06** 我们的论文《面向热红外场景的广义指代分割数据集与基准测试》已被 2026年中国多媒体大会（ChinaMM26）录用。恭喜[花毓晨（本科生）](author/花毓晨/)、[张厚冰（本科生）](author/张厚冰/)！

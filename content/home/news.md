@@ -21,7 +21,7 @@ design:
    <br/><br/>
 * **2026-05-19** 恭喜[马幸](author/马幸/)、[顾翔](author/顾翔/)、[姚舜禹](author/姚舜禹/)、[马玉叶](author/马玉叶/)、[张炜](author/张炜/)团队完成的科技创新作品《基于OpenHarmony的产品能效标签与缺陷检测系统》获第十七届中国大学生服务外包创新创业大赛东部区域赛决赛二等奖！
    <br/><br/>
-* **2026-05-18** 我们关于遥感异构蒸馏的论文"Heterogeneous Knowedge DistillationFostered Pre-training for Remote SensingObiect Detection"已被Pattern Recognition(中科院一区TOP期刊)录用。恭喜[张新蕾](author/张新蕾/)！
+* **2026-05-18** 我们关于遥感异构蒸馏的论文"Heterogeneous Knowedge DistillationFostered Pre-training for Remote SensingObiect Detection"已被中科院一区TOP期刊Pattern Recognition录用。恭喜[张新蕾](author/张新蕾/)！
    <br/><br/>
 * **2026-05-04** 我们关于遥感视觉问答的论文"Boosting Large Vision-Language Models with Hierarchical Semantic fusion for Remote Sensing Visual Question Answering"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[霍健](author/霍健/)、[徐一](author/徐一/)！
    <br/><br/>
@@ -31,9 +31,9 @@ design:
    <br/><br/>
 * **2026-04-09** 我们提出了 RemoteAgent，旨在将用户模糊、开放式的自然语言意图自动转化为合适的多粒度遥感视觉分析任务。为支持真实人机交互场景，我们构建了 VagueEO 指令数据集，并通过强化学习使模型能够在图像级与稀疏区域级任务上直接推理，同时通过 MCP 机制仅在检测、分割、变化检测等密集预测任务中调用专业工具。论文的 [arXiv 预印本](https://arxiv.org/abs/2604.07765) 和 [代码](https://github.com/1e12Leon/RemoteAgent) 现已公开。
    <br/><br/>
-* **2026-02-20** 我们的论文"Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026(CVPR 26)录用。
+* **2026-02-20** 我们的论文"Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 26)录用。
    <br/><br/>
-* **2026-02-20** 我们的论文"Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026(CVPR 26)录用。
+* **2026-02-20** 我们的论文"Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 26)录用。
    <br/><br/>
 * **2026-02-19** 我们关于遥感图像语义分割的论文"Learning Where to Look:VLM-Assisted Efficient Inference for SparseAerial Objects Segmentation"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[吴婷](author/吴婷/)！
    <br/><br/>
@@ -43,8 +43,7 @@ design:
    <br/><br/>
 ## 2025
 * **2025-12-05** 刘凡教授的"三元驱动·五链协同: IT拔尖人才培养模式创新与实践"获江苏省计算机学会优秀教学成果一等奖！
-   <br/><br/>
-
+   <br/><br/>
 * **2025-11-29** 恭喜[姚亮](author/姚亮/)的论文"RemoteSAM: Towards Segment Anything for Earth Observation"在2025年江苏省研究生“智能无人系统”学术创新论坛中获得特等奖！
    <br/><br/>
 * **2025-11-08** 恭喜[缪师宇（本科生）](author/缪师宇/)获得小米特等奖学金！

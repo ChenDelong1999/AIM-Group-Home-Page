@@ -13,6 +13,7 @@ design:
 ## 2026
 * **2026-07-10** 我们关于噪声关联的论文"Rethinking Noisy Correspondence via Cross-Modal Collaborative Representation"被CCF-A类会议ACM International Conference on Multimedia (ACM MM 2026) 录用，恭喜[冀肖颖](author/冀肖颖/)、[张新蕾](author/张新蕾/)、张荔萤！
    <br/><br/>
+* **2026-07-06** 我们的论文"Forgotten Horizons in Concept Erasure Safeguarding Close-Proximity Concepts in Text-to-Image Models"已被CCF-A类期刊IEEE Transactions on Information Forensics & Security (TIFS)录用！
 * **2026-06-06** 我们的论文《基于上下文扩图与分布约束的小样本遥感指代分割》已被 2026年中国多媒体大会（ChinaMM26）录用。恭喜[金炬光（本科生）](author/金炬光/)、[曾国琳（本科生）](author/曾国琳/)！
    <br/><br/>
 * **2026-06-06** 我们的论文《面向热红外场景的广义指代分割数据集与基准测试》已被 2026年中国多媒体大会（ChinaMM26）录用。恭喜[花毓晨（本科生）](author/花毓晨/)、[张厚冰（本科生）](author/张厚冰/)！
@@ -31,9 +32,11 @@ design:
    <br/><br/>
 * **2026-04-09** 我们提出了 RemoteAgent，旨在将用户模糊、开放式的自然语言意图自动转化为合适的多粒度遥感视觉分析任务。为支持真实人机交互场景，我们构建了 VagueEO 指令数据集，并通过强化学习使模型能够在图像级与稀疏区域级任务上直接推理，同时通过 MCP 机制仅在检测、分割、变化检测等密集预测任务中调用专业工具。论文的 [arXiv 预印本](https://arxiv.org/abs/2604.07765) 和 [代码](https://github.com/1e12Leon/RemoteAgent) 现已公开。
    <br/><br/>
-* **2026-02-20** 我们的论文"Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 26)录用。
+* **2026-04-07** 我们的论文"SGPVT: Self-Generated ProximalVisual Tokens for Mitigating Proximal Collateral Damage in MLLM Unlearning"已被CCF-A类会议The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)录用！
+* <br/><br/>
+* **2026-02-20** 我们的论文"Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 26)录用！
    <br/><br/>
-* **2026-02-20** 我们的论文"Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 26)录用。
+* **2026-02-20** 我们的论文"Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 26)录用！
    <br/><br/>
 * **2026-02-19** 我们关于遥感图像语义分割的论文"Learning Where to Look:VLM-Assisted Efficient Inference for SparseAerial Objects Segmentation"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[吴婷](author/吴婷/)！
    <br/><br/>

@@ -1,6 +1,6 @@
 ---
 title: 王艺璇
-role: 本科生
+role: 2024级本科生
 avatar_filename: avatar.jpg
 bio: 2024级计算机科学与技术本科生
 interests:

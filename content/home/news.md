@@ -11,7 +11,7 @@ design:
 ---
 
 ## 2026
-* **2026-07-18** 刘凡教授获中国电子学会教学成果大赛三等奖！
+* **2026-07-18** 刘凡教授获中国电子学会电子信息教学成果大赛三等奖！
    <br/><br/>
 * **2026-07-10** 我们关于噪声关联的论文"Rethinking Noisy Correspondence via Cross-Modal Collaborative Representation"被CCF-A类会议ACM International Conference on Multimedia (ACM MM 2026) 录用，恭喜[冀肖颖](author/冀肖颖/)、[张新蕾](author/张新蕾/)、张荔萤！
    <br/><br/>

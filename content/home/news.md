@@ -27,6 +27,8 @@ design:
    <br/><br/>
 * **2026-05-18** 我们关于遥感异构蒸馏的论文"Heterogeneous Knowedge DistillationFostered Pre-training for Remote SensingObiect Detection"已被中科院一区TOP期刊Pattern Recognition录用。恭喜[张新蕾](author/张新蕾/)！
    <br/><br/>
+* **2026-05-06** 刘凡教授受邀担任《Remote Sensing》编委.
+   <br/><br/>
 * **2026-05-04** 我们关于遥感视觉问答的论文"Boosting Large Vision-Language Models with Hierarchical Semantic fusion for Remote Sensing Visual Question Answering"已被IEEE Geoscience and Remote Sensing Letters期刊录用。恭喜[霍健](author/霍健/)、[徐一](author/徐一/)！
    <br/><br/>
 * **2026-04-28** 我们提出了 ReconScore，旨在无参考条件下通过文本重建图像的范式准确评估遥感图像描述。多个遥感多模态模型在该指标上的评测结果表明，未经微调的通用模型在真实遥感语义表达上反而优于精心微调的模型。基于该发现，我们进一步提出了免训练的遥感图像描述生成方法RemoteDescriber，通过自校正机制充分挖掘多模态大模型的零样本描述能力。论文的 [arXiv 预印本](https://arxiv.org/abs/2604.22855) 和 [代码](https://github.com/hhu-czy/RemoteDescriber) 现已公开。
@@ -36,6 +38,8 @@ design:
 * **2026-04-09** 我们提出了 RemoteAgent，旨在将用户模糊、开放式的自然语言意图自动转化为合适的多粒度遥感视觉分析任务。为支持真实人机交互场景，我们构建了 VagueEO 指令数据集，并通过强化学习使模型能够在图像级与稀疏区域级任务上直接推理，同时通过 MCP 机制仅在检测、分割、变化检测等密集预测任务中调用专业工具。论文的 [arXiv 预印本](https://arxiv.org/abs/2604.07765) 和 [代码](https://github.com/1e12Leon/RemoteAgent) 现已公开。
    <br/><br/>
 * **2026-04-07** 我们的论文"SGPVT: Self-Generated ProximalVisual Tokens for Mitigating Proximal Collateral Damage in MLLM Unlearning"已被CCF-A类会议The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)录用！
+   <br/><br/>
+* **2026-02-26** 刘凡教授担任中科院一区TOP期刊《Pattern Recognition》 Associate Editor。
    <br/><br/>
 * **2026-02-20** 我们的论文"Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting"已被CCF-A类会议The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 26)录用！
    <br/><br/>
@@ -96,7 +100,7 @@ design:
    <br/><br/>
 *  **2025-05-26** 我们提出了一种新的多任务统一范式，以指代表达分割为核心，无需额外任务头即可高效拓展到8种遥感视觉感知任务。在此范式基础上，我们构建了RemoteSAM模型，RemoteSAM以180M的参数量在多种遥感视觉任务上超越了LHRS-Bot、GeoChat等7B参数级模型的性能。论文的 [arxiv 预印本](https://arxiv.org/abs/2505.18022) 和 [代码](https://github.com/1e12Leon/RemoteSAM) 现已公开。
    <br/><br/>
-*  **2025-05-25** 恭喜张荣、冯宇璇带领的2个本科生的团队获得中国大学生服务外包创新创业大赛三等奖！![img_1.png](img_1.png)
+*  **2025-05-25** 恭喜张荣、冯宇璇带领的2个本科生的团队获得中国大学生服务外包创新创业大赛三等奖！
    <br/><br/>
 *  **2025-05-21** 刘凡教授获第五届江苏省高校创新大赛二等奖！
    <br/><br/>

@@ -11,6 +11,10 @@ design:
 ---
 
 ## 2026
+* **2026-08-12** 我们的科研项目获中国测绘学会优秀工程银奖！
+   <br/><br/>
+* **2026-08-11** 我们关于遥感智能体的论文"RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs"已被中科院一区TOP期刊IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (IEEE TGRS)录用！
+   <br/><br/>
 * **2026-08-08** 刘凡教授获IEEE Senior Member！
    <br/><br/>
 * **2026-07-18** 刘凡教授获中国电子学会电子信息教学成果大赛三等奖！
@@ -108,7 +112,7 @@ design:
    <br/><br/>
 *  **2025-04-23** 我们的论文“Boost UAV-based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning”已被一区TOP期刊IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (IEEE TGRS)录用。恭喜[姚亮](author/姚亮/)！
    <br/><br/>
-*  **2025-04** 恭喜缪师宇获得2025年海韵风华“十杰百佳”优秀学生！
+*  **2025-04-12** 恭喜缪师宇获得2025年海韵风华“十杰百佳”优秀学生！
    <br/><br/>
 *  **2025-03-05** 我们的论文“Power Line Aerial lmage Restoration under Adverse Weather:Datasets and Baselines”已被二区TOP期刊J-STARS录用。
    <br/><br/>

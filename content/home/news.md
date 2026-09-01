@@ -11,9 +11,11 @@ design:
 ---
 
 ## 2026
-* **2026-08-12** 我们的科研项目获中国测绘学会优秀工程银奖！
+* **2026-09-01** 姚亮获中国图学学会优秀硕士学位论文激励计划！
    <br/><br/>
-* **2026-08-11** 我们关于遥感智能体的论文"RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs"已被中科院一区TOP期刊IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (IEEE TGRS)录用！
+* **2026-08-12** 我们参与的科研项目获中国测绘学会优秀工程银奖！
+   <br/><br/>
+* **2026-08-11** 我们关于遥感智能体的论文"RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs"已被中科院一区TOP期刊IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)录用！
    <br/><br/>
 * **2026-08-08** 刘凡教授获IEEE Senior Member！
    <br/><br/>

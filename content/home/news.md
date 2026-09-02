@@ -11,6 +11,8 @@ design:
 ---
 
 ## 2026
+* **2026-09-02** 我们关于小样本学习的论文"Making Large Vision Language Models Better Few-Shot Learners"已被CCF-A类、中科院一区TOP期刊IEEE Transactions on Image Processing (IEEE TIP)录用！恭喜[徐一](author/徐一/)！
+   <br/><br/> 
 * **2026-09-01** 恭喜[姚亮](author/姚亮/)获中国图学学会优秀硕士学位论文激励计划！
    <br/><br/>
 * **2026-08-12** 我们参与的科研项目获中国测绘学会优秀工程银奖！

@@ -45,7 +45,7 @@ superuser: true
 user_groups:
   - 博士研究生
 ---
-姚亮，一年级博士生，在AAAI、ACM MM、IEEE TGRS、PR等期刊和会议发表学术论文十余篇，担任NeurIPS、ICML、CVPR、ICCV、AAAI等会议审稿人，曾获国家级奖项6项、省级奖项10余项、各类荣誉称号及奖学金20余项。
+姚亮，二年级博士生，在AAAI、ACM MM、IEEE TGRS、PR等期刊和会议发表学术论文二十余篇，担任NeurIPS、ICML、CVPR、ICCV、AAAI等会议审稿人，曾获中国图学学会优秀硕士学位论文激励计划、中国电子学会学生会员资助计划等省部级以上奖项20余项、各类奖学金20余项。
 
 
 - - -

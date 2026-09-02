@@ -1,7 +1,7 @@
 ---
 title: 顾斌
 role: 2026级硕士研究生
-avatar_filename: gubin.jpg
+avatar_filename: avatar.jpg
 bio: 2026级硕士研究生
 interests:
   - 无人机多模态环境感知
@@ -20,7 +20,7 @@ education:
       course: 计算机科学与技术专业 学士
       institution: 扬州大学信息与人工智能学院
 email: bingxxy2@gmail.com
-superuser: true
+superuser: false
 user_groups:
   - 2026级硕士研究生
 ---

@@ -33,7 +33,7 @@ design:
    <br/><br/>
 * **2026-06-04** 刘凡教授受邀担任《数据采集与处理》第二届青年编委会委员。
    <br/><br/>
-* **2026-05-19** 恭喜[马幸](author/马幸/)、[顾翔](author/顾翔/)、[姚舜禹](author/姚舜禹/)、[马玉叶](author/马玉叶/)、[张炜](author/张炜/)团队完成的科技创新作品《基于OpenHarmony的产品能效标签与缺陷检测系统》获第十七届中国大学生服务外包创新创业大赛东部区域赛决赛二等奖！
+* **2026-05-19** 恭喜[马幸](author/马幸/)、[顾翔](author/顾翔/)、[姚舜禹](author/姚舜禹/)、[马玉叶](author/马玉叶/)、[张炜](author/张炜/)团队完成的科技创新作品《基于OpenHarmony的产品能效标签与缺陷检测系统》获第十七届中国大学生服务外包创新创业大赛全国三等奖！
    <br/><br/>
 * **2026-05-18** 我们关于遥感异构蒸馏的论文"Heterogeneous Knowedge DistillationFostered Pre-training for Remote SensingObiect Detection"已被中科院一区TOP期刊Pattern Recognition录用。恭喜[张新蕾](author/张新蕾/)！
    <br/><br/>

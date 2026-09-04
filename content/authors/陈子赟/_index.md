@@ -1,14 +1,16 @@
 ---
 title: 陈子赟
 role: 博士研究生
-avatar_filename: avatar.jpg
+avatar_filename: czy.png
 bio: 博士研究生
 interests:
-  - 遥感图文检索
+  - 遥感视觉语言模型
+  - 遥感图像描述生成
+  - 遥感世界模型
 social:
   - display:
       header: false
-    link: mailto:ziyunchen@hhu.edu.cn
+    link: mailto:hhu-czy@hhu.edu.cn
     icon_pack: fas
     icon: envelope
 organizations:
@@ -19,9 +21,9 @@ education:
     - course: 计算机科学与技术专业 学士
       institution: 河海大学计算机与软件学院
       year: 2024
-email: ziyunchen@hhu.edu.cn
-superuser: true
+email: hhu-czy@hhu.edu.cn
+superuser: false
 user_groups:
   - 博士研究生
 ---
-本科就读于河海大学计算机科学与技术专业。本科阶段曾获江苏省高等数学竞赛二等奖、学业优秀奖学金。现推免至河海大学计算机与软件学院攻读硕士学位。
+陈子赟，二年级博士生，主要从事研究方向为遥感视觉语言模型、遥感图像描述生成、遥感世界模型等，发表JCR Q1期刊论文1篇，CCF-A类会议论文1篇，担任IEEE GRSL、TIIS期刊审稿人。曾获“挑战杯”2025年度中国青年科技创新“揭榜挂帅”擂台赛全国特等奖、江苏省高等数学竞赛二等奖、河海大学学业优秀奖学金。

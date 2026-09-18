@@ -11,6 +11,8 @@ design:
 ---
 
 ## 2026
+* **2026-09-16** 刘凡教授晋升为中国计算机学会杰出会员！
+   <br/><br/> 
 * **2026-09-09** 我们参与的科研项目获2026地理信息科技进步奖二等奖！
    <br/><br/> 
 * **2026-09-02** 我们关于小样本学习的论文"Making Large Vision Language Models Better Few-Shot Learners"已被CCF-A类、中科院一区TOP期刊IEEE Transactions on Image Processing (IEEE TIP)录用！恭喜[徐一](author/徐一/)！

@@ -1,7 +1,7 @@
 ---
 title: 张炜
 role: 2026级硕士研究生
-avatar_filename: zw.jpg
+avatar_filename: avatar.jpg
 bio: 2026级硕士研究生
 interests:
   - 表格基础模型  

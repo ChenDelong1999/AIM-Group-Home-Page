@@ -1,6 +1,6 @@
 ---
 title: 张厚冰
-role: 2023级本科生
+role: 2023级本科生（保送南京航空航天大学）
 avatar_filename: avatar.jpg
 bio: 2023级计算机科学与技术（大禹）专业本科生
 interests:

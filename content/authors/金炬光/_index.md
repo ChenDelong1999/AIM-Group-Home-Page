@@ -1,5 +1,6 @@
 ---
 title: 金炬光
+weight: -2027
 role: 2023级本科生（保送国防科技大学）
 avatar_filename: avatar.jpg
 bio: 2023级计算机科学与技术（大禹）专业本科生

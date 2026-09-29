@@ -1,5 +1,6 @@
 ---
 title: 吕抱玉
+weight: -2027
 role: 2023级本科生（保送南开大学）
 avatar_filename: avatar.jpg
 bio: 2023级软件工程专业本科生

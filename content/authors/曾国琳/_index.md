@@ -1,5 +1,6 @@
 ---
 title: 曾国琳
+weight: -2027
 role: 2023级本科生（保送华东师范大学）
 avatar_filename: avatar.jpg
 bio: 2023级软件工程专业本科生

@@ -1,5 +1,6 @@
 ---
 title: 闵锐
+weight: -2027
 role: 2023级本科生（保送南京大学）
 avatar_filename: avatar.jpg
 bio: 2023级计算机科学与技术专业本科生

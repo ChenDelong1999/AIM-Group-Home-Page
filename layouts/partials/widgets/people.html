@@ -26,7 +26,18 @@
   {{ $group := . }}
   {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice $group) }}
   {{ if eq $group "已毕业学生" }}
+    {{/* Keep the existing order within each cohort. */}}
     {{ $query = sort $query "Weight" "asc" }}
+    {{ $ordered := slice }}
+    {{ range $index, $person := $query }}
+      {{ $cohort := int (substr $person.Params.role 0 4) }}
+      {{ $key := printf "%04d-%06d" (sub 9999 $cohort) $index }}
+      {{ $ordered = $ordered | append (dict "key" $key "person" $person) }}
+    {{ end }}
+    {{ $query = slice }}
+    {{ range sort $ordered "key" "asc" }}
+      {{ $query = $query | append .person }}
+    {{ end }}
 
     {{if $query | and (gt (len $page.Params.content.user_groups) 1) }}
     <div class="col-md-12">

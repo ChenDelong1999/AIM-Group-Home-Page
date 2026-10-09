@@ -11,9 +11,13 @@ design:
 ---
 
 ## 2026
-* **2026-10-06** 我们关于水下目标检测的论文" VLKD-YOLO: A Semantic-Aware Visual-Language Distillation Framework for Lightweight Underwater Object Detection"已被中科院一区TOP期刊Pattern Recognition录用！恭喜[王睿洋](author/王睿洋/)！
+* **2026-10-08** 刘凡教授入选斯坦福大学（Stanford University）和国际权威学术出版社爱思唯尔（Elsevier）发布的2025年全球前2%顶尖科学家榜单（World's Top 2% Scientists）
+   <br/><br/>
+* **2026-10-06** 我们关于水下目标检测的论文"VLKD-YOLO: A Semantic-Aware Visual-Language Distillation Framework for Lightweight Underwater Object Detection"已被中科院一区TOP期刊Pattern Recognition录用！恭喜[王睿洋](author/王睿洋/)！
    <br/><br/> 
 * **2026-10-02** 我们关于遥感多标签分类的论文"Rethinking Multilabel Remote Sensing Image Classification under Dual-Distribution Instance-Dependent Noise"已被中科院一区TOP期刊IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)录用！恭喜[张新蕾](author/张新蕾/)！
+   <br/><br/> 
+* **2026-09-25** 恭喜实验室本科生[闵锐](author/闵锐/)、[吕抱玉](author/吕抱玉/)、[金炬光](author/金炬光/)、[曾国琳](author/曾国琳/)、[花毓晨](author/花毓晨/)、[张厚冰](author/张厚冰/)推免至南京大学、国防科技大学、南开大学等高校攻读硕士研究生！
    <br/><br/> 
 * **2026-09-16** 刘凡教授晋升为中国计算机学会杰出会员！
    <br/><br/> 

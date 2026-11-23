@@ -11,6 +11,8 @@ design:
 ---
 
 ## 2026
+* **2026-11-23** 我们关于无人机大规模多模态预训练数据论文"Towards Controllable Virtual UAV Benchmark Generation"已被中科院一区TOP期刊IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)录用！
+   <br/><br/>
 * **2026-11-10** 刘凡教授获“中国创造学会创造成果奖”（青年创新奖）！
    <br/><br/>
 * **2026-11-05** 恭喜[姚亮](author/姚亮/)、[闵锐（本科生）](author/闵锐/)、[花毓晨（本科生）](author/花毓晨/)、[金炬光（本科生）](author/金炬光/)获河海韶华未来奖学金！
